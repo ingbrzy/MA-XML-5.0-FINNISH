@@ -36,11 +36,11 @@
   <string name="low_battery_warning">Unexpected shutdown may result in lost recording, it is recommended to record only when battery is fully charged.</string>
   <string name="mark_now">(Current)</string>
   <string name="max_length_reached">Maximum length reached</string>
-  <string name="menu_settings">Settings</string>
-  <string name="menu_view_record_list">View recordings</string>
+  <string name="menu_settings">Asetukset</string>
+  <string name="menu_view_record_list">Katso tallennuksia</string>
   <string name="message_file_size_error">Recording has reached the maximum recording length supported for %s</string>
   <string name="minute" formatted="false">%d minute</string>
-  <string name="no_file">No recordings</string>
+  <string name="no_file">Ei tallenneuksia</string>
   <string name="notification_playback">Playing back recording…</string>
   <string name="notification_recording">Recording...</string>
   <string name="notification_stopped">Recording has stopped</string>
@@ -78,13 +78,13 @@
   <string name="start_recording">Start recording</string>
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
-  <string name="status_bar_recording">Recording...</string>
-  <string name="status_bar_recording_pause">"Recording has been paused. "</string>
+  <string name="status_bar_recording">Äänitetään...</string>
+  <string name="status_bar_recording_pause">"Äänittäminen on pysäytetty. "</string>
   <string name="stop_recording">Lopeta äänitys</string>
   <string name="storage_is_full">Tallennustila on täysi!</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
   <string name="toast_uninstall_fileexplorer">Tiedostoselain ei ole asennettu!</string>
   <string name="unknown_caller">Tuntematon soittaja</string>
-  <string name="view_list_of_recordings">View recordings</string>
+  <string name="view_list_of_recordings">Katso äänityksiä</string>
 </resources>
