@@ -2,14 +2,14 @@
 <resources>
   <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu puhelimeesi.</string>
-  <string name="all_resources">All</string>
-  <string name="application_name">MiuiHome</string>
-  <string name="aqi_quality_index_dangerous">Dangerous</string>
-  <string name="aqi_quality_index_good">Good</string>
+  <string name="all_resources">Kaikki</string>
+  <string name="application_name">MiuiKoti</string>
+  <string name="aqi_quality_index_dangerous">Vaarallinen</string>
+  <string name="aqi_quality_index_good">Hyvä</string>
   <string name="aqi_quality_index_hazardous">Hazardous</string>
   <string name="aqi_quality_index_light_pollution">Light pollution</string>
   <string name="aqi_quality_index_moderate">Moderate</string>
-  <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="aqi_quality_index_unhealthy">Epäterveellinen</string>
   <string name="buffering">Bufferoidaan...</string>
   <string name="cancel_action">Peruuta</string>
   <string name="cancel_btn_label">Peruuta</string>
@@ -112,9 +112,9 @@
   <string name="menu_sort">Järjestä kotiruudun kuvakkeet</string>
   <string name="menu_wallpaper">Taustakuva</string>
   <string name="menu_workspace_preview">Esikatsele</string>
-  <string name="online_no_network">Unable to connect to network</string>
+  <string name="online_no_network">Verkkoon ei pystytty yhdistämään</string>
   <string name="online_search_hint">Search for online resource</string>
-  <string name="out_of_space">No space on this Home screen.</string>
+  <string name="out_of_space">Ei tilaa tässä kotiruudussa.</string>
   <string name="permdesc_install_shortcut">Allows an application to add shortcuts without user intervention.</string>
   <string name="permdesc_install_widget">Allows an application to add widgets without user intervention.</string>
   <string name="permdesc_read_settings">Allows an application to read the settings and shortcuts in Home.</string>
@@ -134,7 +134,7 @@
   <string name="pref_icon_shadow_summary">Turn on/off icon shadows on Home screen</string>
   <string name="pref_icon_shadow_title">Icon shadow</string>
   <string name="pref_keep_in_memory_summary">Keep launcher running when memory is low.</string>
-  <string name="pref_keep_in_memory_title">Keep in memory</string>
+  <string name="pref_keep_in_memory_title">Pidä muistissa</string>
   <string name="pref_keep_layout_summary">Switching the icon layout may disrupt your desktop layout.</string>
   <string name="pref_keep_layout_title">Keep current layout</string>
   <string name="pref_render_in_truecolor_summary">Turning off this option will improve drawing performance.</string>
