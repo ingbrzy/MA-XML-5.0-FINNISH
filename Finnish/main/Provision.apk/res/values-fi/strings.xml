@@ -6,10 +6,10 @@
   <string name="input_method">Syöttötapa</string>
   <string name="input_method_category">Oletus syöttötapa</string>
   <string name="next">Seuraava</string>
-  <string name="other_service_google_location">Google Location service</string>
-  <string name="other_service_google_location_use">Location &amp; Google search</string>
+  <string name="other_service_google_location">Googlen sijaintipalvelu</string>
+  <string name="other_service_google_location_use">sijainti ja Google-haku</string>
   <string name="other_service_google_location_use_help">"Anna Googlen paikannuspalveluiden kerätä nimetöntä dataa. Kerääminen tapahtuu vaikkei sovelluksia olisi päällä. Muokataksesi tätä asetusta, Mene Asetukset &gt; Paikallistamisasetukset"</string>
-  <string name="other_service_google_location_use_summary">Let Google use your location to improve search results and other services</string>
+  <string name="other_service_google_location_use_summary">Anna Googlen käyttää sijaintia hakutulosten ja muiden palveluiden parantamiseen</string>
   <string name="other_service_label">Muut palvelut</string>
   <string name="other_service_location">Paikallistamispalvelut</string>
   <string name="other_service_location_summary">Paikallistamispalvelut antaa karttojen ja muiden sovellusten etsiä sijaintisi käyttämällä GPS:sää</string>
