@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Haluatko poistaa valitun äänitteen?</string>
-  <string name="app_name">Nauhuri</string>
+  <string name="app_name">Ääninauhuri</string>
   <string name="audio_db_album_name">Äänitykset</string>
   <string name="audio_db_artist_name">Sinun äänitykset</string>
   <string name="audio_db_playlist_name">Minun äänitykset</string>
@@ -44,7 +44,7 @@
   <string name="notification_playback">Playing back recording…</string>
   <string name="notification_recording">Äänitetään...</string>
   <string name="notification_stopped">Äänitys on loppunut</string>
-  <string name="notification_warning" formatted="false">Low storage (less than %d minutes)...</string>
+  <string name="notification_warning" formatted="false">Vähäinen tallennustila (alle %d minuuttia)...</string>
   <string name="open_file_explorer">Avaa tiedostoselain</string>
   <string name="overwrite_dialog_message" formatted="false">%s already exists. Do you wish to overwrite it?</string>
   <string name="pause">Pysäytä</string>
