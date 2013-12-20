@@ -24,7 +24,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_internal_title">Sound recorder error</string>
-  <string name="error_filename_illegal_char">Filename contains illegal characters.</string>
+  <string name="error_filename_illegal_char">Tiedostonimi sisältää ei sallittuja merkkejä.</string>
   <string name="error_filename_too_long">Tiedosto nimi on liian pitkä</string>
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
@@ -80,11 +80,11 @@
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
-  <string name="stop_recording">Stop recording</string>
-  <string name="storage_is_full">Storage is full</string>
+  <string name="stop_recording">Lopeta äänitys</string>
+  <string name="storage_is_full">Tallennustila on täysi!</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
-  <string name="toast_uninstall_fileexplorer">FileExplorer is not installed!</string>
-  <string name="unknown_caller">Unknown caller</string>
+  <string name="toast_uninstall_fileexplorer">Tiedostoselain ei ole asennettu!</string>
+  <string name="unknown_caller">Tuntematon soittaja</string>
   <string name="view_list_of_recordings">View recordings</string>
 </resources>
