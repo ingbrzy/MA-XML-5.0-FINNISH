@@ -9,7 +9,7 @@
   <string name="back">Takaisin</string>
   <string name="button_ok">OK</string>
   <string name="call_record">Äänitä puhelu(%d)</string>
-  <string name="call_record_or">or</string>
+  <string name="call_record_or"tai</string>
   <string name="default_record_name">Nimetön äänite</string>
   <string name="delete">Poista</string>
   <string name="delete_dialog_message">Haluatko poistaa tämänhetkisen äänityksen?</string>
@@ -33,12 +33,12 @@
   <string name="insert_sd_card">SD kortti vaaditaan</string>
   <string name="low_battery_error">Akkua on vähemmän kuin 5% jäljellä, varmistaaksemme ettei äänite katoa, ääninauhuri on pysäytetty ja tallennettu.</string>
   <string name="low_battery_message_title">Akku vähissä</string>
-  <string name="low_battery_warning">Unexpected shutdown may result in lost recording, it is recommended to record only when battery is fully charged.</string>
-  <string name="mark_now">(Nykyinent)</string>
+  <string name="low_battery_warning">Odottamaton sammuminen saattaa johtaa nauhoitteen häviämiseen, on suositeltavaa äänittää akun ollessa täysin ladattu.</string>
+  <string name="mark_now">(Nykyinen)</string>
   <string name="max_length_reached">Maksimi pituus saavutettu</string>
   <string name="menu_settings">Asetukset</string>
   <string name="menu_view_record_list">Katso tallennuksia</string>
-  <string name="message_file_size_error">Recording has reached the maximum recording length supported for %s</string>
+  <string name="message_file_size_error">Pisin mahdollinen äänitys pituus saavutettu %s</string>
   <string name="minute" formatted="false">%d minuutti</string>
   <string name="no_file">Ei tallennuksia</string>
   <string name="notification_playback">Toistetaan äänitettä…</string>
@@ -55,7 +55,7 @@
   <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
   <string name="preference_record_scenes_dialog_title">Select a recording scene</string>
   <string name="preference_record_type_dialog_title">Select a recording type</string>
-  <string name="preference_record_type_title">Recording type</string>
+  <string name="preference_record_type_title">Äänitys tyyppi</string>
   <string name="preference_scenes">Settings for scenes</string>
   <string name="preference_silent_mode">Silent mode recording</string>
   <string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
@@ -65,13 +65,13 @@
   <string name="record_picker_title">Valitse äänite</string>
   <string name="record_saving">Tallennetaan äänitystä, odota!</string>
   <string name="recording">Äänitetään...</string>
-  <string name="recording_stopped">Recording has stopped</string>
+  <string name="recording_stopped">Äänitys on pysähtynyt</string>
   <string name="rename">Nimeä uudelleen</string>
   <string name="rename_dialog_title">Rename for this recording</string>
-  <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
-  <string name="rename_illegal">Illegal recording name, please re-enter:</string>
+  <string name="rename_duplicate">Tiedostonimi on jo käytössä, nimeä uudelleen:</string>
+  <string name="rename_illegal">Kielletty äänitteen nimi, uudelleen nimeä:</string>
   <string name="sd_card_not_available">SD kortti ei ole käytettävissä</string>
-  <string name="search_for_recordings_in_folders">Search folders for recordings</string>
+  <string name="search_for_recordings_in_folders">Etsi äänitteitä kansioista</string>
   <string name="second" formatted="false">%d sekuntia</string>
   <string name="send_to">Lähetä kohteeseen</string>
   <string name="sound_recorder_settings">Äänitys asetukset</string>
@@ -83,7 +83,7 @@
   <string name="stop_recording">Lopeta äänitys</string>
   <string name="storage_is_full">Tallennustila on täysi!</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
+  <string name="toast_max_record_time">App: %1$s suurin tuettu äänitys aika %2$s</string>
   <string name="toast_uninstall_fileexplorer">Tiedostoselain ei ole asennettu!</string>
   <string name="unknown_caller">Tuntematon soittaja</string>
   <string name="view_list_of_recordings">Katso äänityksiä</string>
