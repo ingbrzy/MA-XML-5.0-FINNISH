@@ -18,7 +18,7 @@
   <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
   <string name="account_security_title">Laitteen turvallisuus</string>
   <string name="account_security_waiting_policy_key_message">%s needs security settings information from server，please wait...</string>
-  <string name="account_settings_action">Account settings</string>
+  <string name="account_settings_action">Tilin asetukset</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
   <string name="account_settings_background_attachments_summary">Lataa liitteet automaattisesti, kun yhteys WI-FI-verkkoon on muodostettu
   <string name="account_settings_data_usage">Data usage</string>
@@ -82,11 +82,11 @@
   <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
   <string name="account_setup_exchange_headline">Palvelimen asetukset</string>
   <string name="account_setup_exchange_no_certificate">None</string>
-  <string name="account_setup_exchange_remove_certificate">Remove</string>
+  <string name="account_setup_exchange_remove_certificate">Poista</string>
   <string name="account_setup_exchange_select_certificate">Valitse</string>
   <string name="account_setup_exchange_server_label">Palvelin</string>
-  <string name="account_setup_exchange_ssl_label">Use secure connection (SSL)</string>
-  <string name="account_setup_exchange_title">Account setup</string>
+  <string name="account_setup_exchange_ssl_label">Käytä varmennettua yhteyttä(SSL)</string>
+  <string name="account_setup_exchange_title">Tilin asetukset</string>
   <string name="account_setup_exchange_trust_certificates_label">Accept all SSL certificates</string>
   <string name="account_setup_exchange_use_certificate">Use client certificate</string>
   <string name="account_setup_exchange_username_label">Domain\\Username</string>
@@ -95,14 +95,14 @@
   <string name="account_setup_failed_certificate_inaccessible">Certificate is invalid or inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Client certificate is required. Connect to server with client certificate?</string>
   <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password then try again.</string>
-  <string name="account_setup_failed_dlg_auth_message">Username or password incorrect.</string>
+  <string name="account_setup_failed_dlg_auth_message">Väärä käyttäjätunnus tai tunnussana.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Username or password incorrect.
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
-  <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
+  <string name="account_setup_failed_dlg_server_message">"Palvelimeen ei saada yhteyttä."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Couldn't finish"</string>
@@ -127,13 +127,13 @@
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accept all certificates)</string>
-  <string name="account_setup_incoming_title">Account setup</string>
-  <string name="account_setup_incoming_username_label">Username</string>
+  <string name="account_setup_incoming_title">Tilin asetukset</string>
+  <string name="account_setup_incoming_username_label">Käyttäjätunnus</string>
   <string name="account_setup_index_label">Please choose from the list of e-mail service providers:</string>
   <string name="account_setup_index_other_mails">Other mail account</string>
   <string name="account_setup_index_title">Account settings guide</string>
-  <string name="account_setup_names_account_name_label">Give this account a name (optional)</string>
-  <string name="account_setup_names_headline">Your account is set up, and e-mail is on its way!</string>
+  <string name="account_setup_names_account_name_label">Nimeä tämä tili(valinnainen)</string>
+  <string name="account_setup_names_headline">Tilisi on valmis ja sinulle on lähetetty sähköpostia!</string>
   <string name="account_setup_names_title">Account setup</string>
   <string name="account_setup_names_user_name_empty_error">"This field can't be blank."</string>
   <string name="account_setup_names_user_name_label">Your name (displayed on outgoing messages)</string>
