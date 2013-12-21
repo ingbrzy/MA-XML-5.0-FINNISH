@@ -19,8 +19,8 @@
   <string name="bpp_setting_text">Setting</string>
   <string name="bt_enable_cancel">Cancel</string>
   <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-  <string name="bt_enable_line2">Turn on Bluetooth now?</string>
-  <string name="bt_enable_ok">Turn on</string>
+  <string name="bt_enable_line2">Laitetaanko Bluetooth päälle nyt?</string>
+  <string name="bt_enable_ok">Laita päälle</string>
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
