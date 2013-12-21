@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MusicFX</string>
+  <string name="app_name">MusiikkiFX</string>
   <string name="bass_boost_strength">Bassojen tehostus</string>
   <string name="ci_extreme">FX tehostus</string>
   <string name="eq_dialog_title">Taajuuskorjain</string>
@@ -11,7 +11,7 @@
   <string name="pr_dialog_title">Kaiun asetukset</string>
   <string name="pr_summary">Huonekohtaiset ääniasetukset</string>
   <string name="pr_title">Kaiku:</string>
-  <string name="setup">Setup</string>
-  <string name="user">User</string>
+  <string name="setup">Aseta</string>
+  <string name="user">Käyttäjä</string>
   <string name="virtualizer_strength">3D efekti</string>
 </resources>
