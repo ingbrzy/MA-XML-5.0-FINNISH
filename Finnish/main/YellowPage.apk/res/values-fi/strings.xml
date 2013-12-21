@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_smart_antispam_summary">About Smart Antispam unknown number detection</string>
   <string name="about_telephone_fraud">About Telephone Fraud</string>
-  <string name="agree">Agree</string>
-  <string name="all_numbers">All numbers</string>
-  <string name="app_label">Yellow Page</string>
-  <string name="balance_inquiry_default_sp_name">Operator</string>
+  <string name="agree">Hyväksy</string>
+  <string name="all_numbers">Kaikki numerot</string>
+  <string name="app_label">Keltaiset sivut</string>
+  <string name="balance_inquiry_default_sp_name">Operaattori</string>
   <string name="balance_inquiry_send_sms_hint">A free SMS message will be sent to query your balance</string>
   <string name="balance_inquiry_title">Balance inquiry</string>
-  <string name="callrecordview_item_newcontact">New Contact</string>
+  <string name="callrecordview_item_newcontact">Uusi yhteystieto</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
   <string name="callrecordview_item_op_time_missed">Not connected</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -24,9 +24,9 @@
   <string name="contact_detail_calllog_call_note_tips">Call notes</string>
   <string name="contact_detail_calllog_call_record_tips">Call log</string>
   <string name="correction">Correction</string>
-  <string name="custom_mark_category">Custom</string>
+  <string name="custom_mark_category">Muokattu</string>
   <string name="data_error">Sorry, current service is not available, please try again later</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Poista</string>
   <string name="express_inqiury_select_logistics">Select courier</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
@@ -47,8 +47,8 @@
   <string name="expresss_inquiry_all_logistics">All</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
   <string name="login_before_recharging">You need to login before you can topup.</string>
-  <string name="login_before_use">Please login before use.</string>
-  <string name="login_ok">Login</string>
+  <string name="login_before_use">Kirjaudu sisään ennen käyttöä.</string>
+  <string name="login_ok">Kirjaudu sisään</string>
   <string name="mark_number_custom_dialog_maintitle">Agree or correct the mark</string>
   <string name="mark_number_dialog_maintitle">Mark as spam number and upload</string>
   <string name="mark_number_dialog_subtitle">Jointly developed with Sogou</string>
@@ -56,7 +56,7 @@
   <string name="menu_about_yellow_page">About this page</string>
   <string name="menu_add_black_list">Add to blacklist</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
-  <string name="menu_copy_text">Copy to clipboard</string>
+  <string name="menu_copy_text">Kopioi leikepöydälle</string>
   <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Delete call logs</string>
   <string name="menu_delete_one">Remove item from call log</string>
@@ -77,7 +77,7 @@
   <string name="order_price">%s</string>
   <string name="order_status">%s</string>
   <string name="packages_no_package">No suitable traffic package available</string>
-  <string name="packages_pay">Buy</string>
+  <string name="packages_pay">Osta</string>
   <string name="packages_pay_confirm">Confirm payment</string>
   <string name="packages_pay_hint">Send free SMS message</string>
   <string name="packages_pay_success">Message sent successfully!</string>
