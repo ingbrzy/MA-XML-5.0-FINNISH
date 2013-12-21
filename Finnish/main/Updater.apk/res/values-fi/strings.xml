@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">Tietoa puhelimesta</string>
   <string name="active_xiaomi_account">Aktiivinen</string>
   <string name="active_xiaomi_account_msg">"Mene MIUI foorumeille aktivoidaksesi Xiaomi tunnuksen:"</string>
-  <string name="active_xiaomi_account_title">Aktivoi Xiaomi tunnus</string>
+  <string name="active_xiaomi_account_title">Aktivoi Xiaomi tili</string>
   <string name="app_name">Päivittäjä</string>
   <string name="apply_buddy_update_info_message">Paina päivitä nyt, puhelin aloittaa päivityksen</string>
   <string name="apply_existing_update_md5error_title">MD5 allekirjoitus ei täsmää</string>
@@ -120,15 +120,15 @@
   <string name="share_update">Jaa järjestelmäpäivityksen tiedot</string>
   <string name="share_update_content_sign">Olen päivittänyt MIUI:ni versioon %1$s! Päivitys arvioni on %2$s. Tarkan muutoslokin näet osoitteesta %3$s</string>
   <string name="share_update_content_unsign">Olen päivittänyt MIUI:ni versioon %1$s! Tarkan muutoslokin näet osoitteesta %2$s</string>
-  <string name="sign_in_add_account">Aktivoi Xiaomi tunnuksesi</string>
-  <string name="sign_in_add_account_helper">Puhelimessasi ei ole aktiivista MIUI tunnusta, lisää saadaksesi käyttäjäpisteitä</string>
+  <string name="sign_in_add_account">Aktivoi Xiaomi tilisi</string>
+  <string name="sign_in_add_account_helper">Puhelimessasi ei ole aktiivista MIUI tiliä, lisää saadaksesi käyttäjäpisteitä</string>
   <string name="sign_in_info">"Päivitysarvosanasi on %1$s %2$s on kirjautunut sisään MIUI:hin %3$s"</string>
   <string name="sign_in_info_rank_more">"Your update ranking is after %1$s Over %2$s käyttäjää on kirjautunut sisään MIUI:hin %3$s"</string>
   <string name="sign_in_info_total_more">"Your update ranking is %1$s Over %2$s on kirjautunut sisään MIUI:hin %3$s"</string>
   <string name="sina_share_fail">Lähetys epäonnistui!</string>
   <string name="sina_share_pendding">Lähetetään...</string>
   <string name="sina_share_success">Lähetys onnistui!</string>
-  <string name="sina_token_expired_warning">Weibo tunnus on vanhentunut, yhdistä uudelleen</string>
+  <string name="sina_token_expired_warning">Weibo tili on vanhentunut, yhdistä uudelleen</string>
   <string name="sina_token_invalid_warning">Weibo on väärä, yhdistä uudelleen</string>
   <string name="stable_build">Vakaa versio</string>
   <string name="start_update">Aloita päivitys</string>
