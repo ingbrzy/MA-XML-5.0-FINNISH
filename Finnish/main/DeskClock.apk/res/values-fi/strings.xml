@@ -108,7 +108,7 @@ Voit myös peruuttaa tämän hälytyksen."</string>
   <string name="start_up">Aloita</string>
   <string name="stopwatch_lap_empty_text">Ei tallennettuja kierroksia</string>
   <string name="stopwatch_title">Sekuntikello</string>
-  <string name="system_time_setting">Aika-asetukset</string>
+  <string name="system_time_setting">Asetukset</string>
   <string name="time">Aika</string>
   <string name="timer_alert_alert_silenced">Ajastin pysähtyi %d minuutin jälkeen.</string>
   <string name="timer_continue">Jatka</string>

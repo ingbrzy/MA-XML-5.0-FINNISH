@@ -21,7 +21,7 @@
   <string name="basic_info">Perustiedot</string>
   <string name="change_wallpaper">Taustakuva</string>
   <string name="close">Sulje</string>
-  <string name="component_category_finest_title">Mainostetut</string>
+  <string name="component_category_finest_title">Suositellut</string>
   <string name="component_category_more_title">Lisää</string>
   <string name="component_include_title">Sisältää %1$s komponenttia</string>
   <string name="component_lockstyle_personal_title">Asetukset</string>
@@ -119,7 +119,7 @@
   <string name="resource_detail_comment_title">Kommentit</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Samalta tekijältä</string>
-  <string name="resource_detail_recommend_desiner_other_themes">Muut teemat tekijältä %1$s</string>
+  <string name="resource_detail_recommend_desiner_other_themes">Muita teemoja tekijältä %1$s</string>
   <string name="resource_detail_recommend_desiner_themes">%1$s teemat</string>
   <string name="resource_detail_recommend_other_themes">Käyttäjät tykkäsivät myös</string>
   <string name="resource_detail_update_log_title">Päivitykset</string>
@@ -158,7 +158,7 @@
   <string name="resource_local">Paikallinen %1$s</string>
   <string name="resource_menu_refresh">Päivitä</string>
   <string name="resource_mute">Ei mitään</string>
-  <string name="resource_my">Minun teemani</string>
+  <string name="resource_my">Omat teemani</string>
   <string name="resource_no_result">Ei tuloksia</string>
   <string name="resource_notification_default">Ilmoitukset</string>
   <string name="resource_online">Verkossa %1$s</string>
@@ -170,7 +170,7 @@
   <string name="resource_preview">Esikatsele</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ilmainen</string>
-  <string name="resource_price_unit">MI Krediitit</string>
+  <string name="resource_price_unit">MI Krediitittiä</string>
   <string name="resource_purchase_getting_order">Haetaan tilauksen tietoja…</string>
   <string name="resource_purchase_verifying_payment">Varmennetaan maksun tietoja…</string>
   <string name="resource_purchase_waiting_payment">Odotetaan maksun tietoja…</string>
@@ -179,10 +179,10 @@
   <string name="resource_ranking_purchase">Maksulliset</string>
   <string name="resource_ringtone_default">Soittoäänet</string>
   <string name="resource_ringtone_volume_mute">Soittoäänet on hiljennetty</string>
-  <string name="resource_save_to_note">Save to notes</string>
+  <string name="resource_save_to_note">Tallenna muistiinpanoihin</string>
   <string name="resource_see_more">Katso lisää</string>
   <string name="resource_select">Valitse</string>
-  <string name="resource_selected">Mainostetut</string>
+  <string name="resource_selected">Suositellut</string>
   <string name="resource_send">Lähetä</string>
   <string name="resource_server_alert_dialog_title">Palvelu ei juuri nyt saatavilla</string>
   <string name="resource_server_out_of_service">Palvelin ei saatavilla, yritä myöhemmin uudelleen.</string>
@@ -220,10 +220,10 @@
   <string name="theme_changing_dialog_title">Asetetaan teemaa, odota...</string>
   <string name="theme_component_title_alarm">Hälytys</string>
   <string name="theme_component_title_alarmstyle">Hälytyksen tyyli</string>
-  <string name="theme_component_title_all">Teema</string>
+  <string name="theme_component_title_all">Teemakauppa</string>
   <string name="theme_component_title_audio_effect">Audioeffekti</string>
-  <string name="theme_component_title_boot_animation">Käynnistymisanimaatio</string>
-  <string name="theme_component_title_boot_audio">Käynnistymisääni</string>
+  <string name="theme_component_title_boot_animation">Käynnistyksen animaatio</string>
+  <string name="theme_component_title_boot_audio">Käynnistyksen ääni</string>
   <string name="theme_component_title_clock">Kello</string>
   <string name="theme_component_title_contact">Dialer</string>
   <string name="theme_component_title_font">Fontti</string>
@@ -233,7 +233,7 @@
   <string name="theme_component_title_lockstyle">Lukitusnäyttö</string>
   <string name="theme_component_title_lockwallpaper">Lukitusnäytön taustakuva</string>
   <string name="theme_component_title_miwallpaper">Taustakuva</string>
-  <string name="theme_component_title_mms">SMS</string>
+  <string name="theme_component_title_mms">Viestintä</string>
   <string name="theme_component_title_notification">Ilmoitukset</string>
   <string name="theme_component_title_others">Muut</string>
   <string name="theme_component_title_photo_frame">Photo frame</string>
@@ -282,9 +282,9 @@
   <string name="to_activate_the_account">Aktivoi Xiaomi tilisi</string>
   <string name="wallpaper_crop">Leikkaa</string>
   <string name="wallpaper_decoded_error">Failed to decode</string>
-  <string name="wallpaper_loading_text">Loading...</string>
-  <string name="wallpaper_set_as_both">Set as both</string>
-  <string name="wallpaper_set_as_destop">Set as wallpaper</string>
-  <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
-  <string name="wallpaper_settings">Wallpaper settings</string>
+  <string name="wallpaper_loading_text">Ladataan...</string>
+  <string name="wallpaper_set_as_both">Aseta molempiin</string>
+  <string name="wallpaper_set_as_destop">Aseta kotinäytölle</string>
+  <string name="wallpaper_set_as_lockscreen">Aseta lukitusnäytölle</string>
+  <string name="wallpaper_settings">Taustakuvan asetukset</string>
 </resources>
