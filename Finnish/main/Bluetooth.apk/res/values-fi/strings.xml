@@ -19,8 +19,8 @@
   <string name="bpp_setting_text">Setting</string>
   <string name="bt_enable_cancel">Cancel</string>
   <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-  <string name="bt_enable_line2">Laitetaanko Bluetooth p√§√§lle nyt?</string>
-  <string name="bt_enable_ok">Laita p√§√§lle</string>
+  <string name="bt_enable_line2">Laitetaanko Bluetooth p√É¬§√É¬§lle nyt?</string>
+  <string name="bt_enable_ok">Laita p√É¬§√É¬§lle</string>
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
@@ -42,7 +42,7 @@
   <string name="download_fail_line2">Tiedostonimi: %1$s</string>
   <string name="download_fail_line3">Syy: %1$s</string>
   <string name="download_fail_ok">OK</string>
-  <string name="download_line1">Kenelt‰: \"%1$s\"</string>
+  <string name="download_line1">Kenelt√§: \"%1$s\"</string>
   <string name="download_line2">Tiedostonimi: %1$s</string>
   <string name="download_line3">Tiedostokoko: %1$s</string>
   <string name="download_line4"/>
@@ -53,7 +53,7 @@
   <string name="download_success">%1$s ladattu</string>
   <string name="download_title">Tiedoston siirto</string>
   <string name="empty_file_notification_sent">Bluetooth: Remote rejected zero length file %1$s</string>
-  <string name="enabling_progress_content">Laitetaan Bluetoothia p‰‰lle...</string>
+  <string name="enabling_progress_content">Laitetaan Bluetoothia p√§√§lle...</string>
   <string name="enabling_progress_title">Odota...</string>
   <string name="ftp_acceptance_dialog_header">Phone Folder Access</string>
   <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
@@ -70,9 +70,9 @@
   <string name="incoming_file_confirm_Notification_caption">Receive incoming file?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Incoming file</string>
   <string name="incoming_file_confirm_cancel">Cancel</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" haluaa l‰hett‰‰ sinulle %2$s (%3$s). 
+  <string name="incoming_file_confirm_content">"\"%1$s\" haluaa l√§hett√§√§ sinulle %2$s (%3$s). 
 
- Hyv‰ksy tiedosto?"</string>
+ Hyv√§ksy tiedosto?"</string>
   <string name="incoming_file_confirm_ok">OK</string>
   <string name="incoming_file_confirm_timeout_content">Timeout occurred while accepting an incoming file from \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -95,15 +95,15 @@
   <string name="miui_transfer_outbound_title">Outgoing</string>
   <string name="no_transfers">Transfer history empty.</string>
   <string name="not_exist_file">Ei tiedostoa</string>
-  <string name="not_exist_file_desc">"T‰m‰ tiedosto ei ole olemassa. "</string>
+  <string name="not_exist_file_desc">"T√§m√§ tiedosto ei ole olemassa. "</string>
   <string name="noti_caption">%1$s onnistui, %2$s ei onnistunut.</string>
   <string name="notification_received">Bluetooth: Received %1$s</string>
   <string name="notification_received_fail">Bluetooth: File %1$s not received</string>
   <string name="notification_receiving">Bluetooth: Receiving %1$s</string>
   <string name="notification_sending">Bluetooth: Sending %1$s</string>
   <string name="notification_sent">Bluetooth: Sent %1$s</string>
-  <string name="notification_sent_complete">L‰hetetty</string>
-  <string name="notification_sent_fail">Bluetooth: Tiedostoa %1$s ei l‰hetetty</string>
+  <string name="notification_sent_complete">L√§hetetty</string>
+  <string name="notification_sent_fail">Bluetooth: Tiedostoa %1$s ei l√§hetetty</string>
   <string name="notify_server">Notify TCP server</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">"Outbound: "</string>
@@ -160,16 +160,16 @@
   <string name="unknownNumber">Tuntematon</string>
   <string name="unknown_device">Tuntematon laite</string>
   <string name="unknown_file">Tuntematon tiedosto</string>
-  <string name="unknown_file_desc">"Ei sovellusta joka voisi avata t‰m‰ntyyppisen tiedoston. "</string>
+  <string name="unknown_file_desc">"Ei sovellusta joka voisi avata t√§m√§ntyyppisen tiedoston. "</string>
   <string name="update_record">Confirm record</string>
   <string name="upload_fail_cancel">Peruuta</string>
-  <string name="upload_fail_line1">"Tiedostoa ei l‰hetetty kohteeseen \"%1$s\"."</string>
+  <string name="upload_fail_line1">"Tiedostoa ei l√§hetetty kohteeseen \"%1$s\"."</string>
   <string name="upload_fail_line1_2">Tiedosto: %1$s</string>
-  <string name="upload_fail_ok">Yrit‰ uudelleen</string>
+  <string name="upload_fail_ok">Yrit√§ uudelleen</string>
   <string name="upload_line1">To: \"%1$s\"</string>
   <string name="upload_line3">File type: %1$s (%2$s)</string>
-  <string name="upload_line5">L‰hetet‰‰n tiedostoa...</string>
-  <string name="upload_succ_line5">Tiedosto l‰hetetty!</string>
+  <string name="upload_line5">L√§hetet√§√§n tiedostoa...</string>
+  <string name="upload_succ_line5">Tiedosto l√§hetetty!</string>
   <string name="upload_succ_ok">OK</string>
-  <string name="upload_success">%1$s L‰hetys valmis.</string>
+  <string name="upload_success">%1$s L√§hetys valmis.</string>
 </resources>
