@@ -20,7 +20,7 @@
   <string name="account_security_waiting_policy_key_message">%s needs security settings information from server，please wait...</string>
   <string name="account_settings_action">Tilin asetukset</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
-  <string name="account_settings_background_attachments_summary">Lataa liitteet automaattisesti, kun yhteys WI-FI-verkkoon on muodostettu
+  <string name="account_settings_background_attachments_summary">Lataa liitteet automaattisesti, kun yhteys WI-FI-verkkoon on muodostettu</string>
   <string name="account_settings_data_usage">Data usage</string>
   <string name="account_settings_default_label">Default account</string>
   <string name="account_settings_default_summary">Lähetä sähköposti oletusarvoisesti tästä tilistä.</string>
