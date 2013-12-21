@@ -27,7 +27,7 @@
   <string name="error_filename_illegal_char">Tiedostonimi sisältää ei sallittuja merkkejä.</string>
   <string name="error_filename_too_long">Tiedosto nimi on liian pitkä</string>
   <string name="error_mediadb_new_record">Äänitteen tallennus epäonnistui</string>
-  <string name="error_sdcard_access">pääsy sisäiseen tai ulkoiseen tallenustilaan epäonnistui</string>
+  <string name="error_sdcard_access">pääsy sisäiseen tai ulkoiseen tallennustilaan epäonnistui</string>
   <string name="fm_record">FM recording (%d)</string>
   <string name="hour" formatted="false">%d tunti(a)</string>
   <string name="insert_sd_card">SD kortti vaaditaan</string>
@@ -54,7 +54,7 @@
   <string name="preference_led_indicator">Recording indicator when screen locked</string>
   <string name="preference_led_indicator_prompt">Näytä Ledi ja tilirivin indikaattori, kun äänitys on käynnissä ja näyttö on lukittuna.</string>
   <string name="preference_record_scenes_dialog_title">Select a recording scene</string>
-  <string name="preference_record_type_dialog_title">Select a recording type</string>
+  <string name="preference_record_type_dialog_title">Valitse äänitys tyyppi</string>
   <string name="preference_record_type_title">Äänitys tyyppi</string>
   <string name="preference_scenes">Settings for scenes</string>
   <string name="preference_silent_mode">Silent mode recording</string>
