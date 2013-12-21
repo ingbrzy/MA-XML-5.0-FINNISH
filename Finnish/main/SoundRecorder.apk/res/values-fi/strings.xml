@@ -9,7 +9,7 @@
   <string name="back">Takaisin</string>
   <string name="button_ok">OK</string>
   <string name="call_record">Äänitä puhelu(%d)</string>
-  <string name="call_record_or"tai</string>
+  <string name="call_record_or">tai</string>
   <string name="default_record_name">Nimetön äänite</string>
   <string name="delete">Poista</string>
   <string name="delete_dialog_message">Haluatko poistaa tämänhetkisen äänityksen?</string>
