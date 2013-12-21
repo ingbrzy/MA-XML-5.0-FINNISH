@@ -4,7 +4,7 @@
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
-  <string name="act_city_find_gps_error">Select a city manually in the menu list.</string>
+  <string name="act_city_find_gps_error">Valitse kaupunki manuaalisesti valikon listasta.</string>
   <string name="act_find_city_hint">Etsi</string>
   <string name="act_find_city_hot_title">Suositut kaupungit</string>
   <string name="act_find_city_null_data">Ei tuloksia.</string>
@@ -15,13 +15,13 @@
   <string name="act_set_city_find_side_on">Avaa sijainti</string>
   <string name="act_set_city_re_find_side">Paikannetaan...</string>
   <string name="act_weather_aqi_share">Jaa</string>
-  <string name="act_weather_aqi_title">Ilmanlaadun index</string>
+  <string name="act_weather_aqi_title">Ilmanlaadun indeksi</string>
   <string name="act_weather_cycle_low_temp">alhainen</string>
   <string name="act_weather_cycle_update">Päivitetään…</string>
   <string name="act_weather_find_city_connect_net">Tarkista verkkoyhteys ja yritä uudestaan.</string>
   <string name="act_weather_find_city_search_online">Etsi kaupunki verkosta</string>
   <string name="act_weather_find_city_searching">Etsitään…</string>
-  <string name="act_weather_main_aqi_index">Air quality: %s</string>
+  <string name="act_weather_main_aqi_index">Ilmanlaatu: %s</string>
   <string name="act_weather_main_data_null">Ei säätietoja, kosketa päivittääksesi</string>
   <string name="act_weather_range_select">Valitse kaupunki</string>
   <string name="act_weather_range_title">Lähiseudun sääennuste</string>
@@ -49,7 +49,7 @@
   <string name="aqi_quality_index_light_pollution">light pollution</string>
   <string name="aqi_quality_index_moderate">moderate</string>
   <string name="aqi_quality_index_pure">excellent</string>
-  <string name="aqi_quality_index_unhealthy">unhealthy</string>
+  <string name="aqi_quality_index_unhealthy">epäterveellinen</string>
   <string name="button_allow">Allow</string>
   <string name="button_not_allow">Deny</string>
   <string name="cancel">Peruuta</string>
@@ -62,7 +62,7 @@
   <string name="format_date_trend_md">M/d</string>
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">M/d EEE</string>
-  <string name="install_tencent">Get Weibo app</string>
+  <string name="install_tencent">Hanki Weibo sovellus</string>
   <string name="loading_weather">Ladataan säätä...</string>
   <string name="local_city">Local cities</string>
   <string name="location_allow_err">Paikantaminen epäonnistui.</string>
