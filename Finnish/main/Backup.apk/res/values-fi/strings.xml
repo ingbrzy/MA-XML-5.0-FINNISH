@@ -69,7 +69,7 @@
   <string name="cloud_app_device">Laite</string>
   <string name="cloud_app_dont_restore">"Älä palauta"</string>
   <string name="cloud_app_find_backup_prompt_1">Haluatko säästää paikalliset tiedostosi ennen palautusta?</string>
-  <string name="cloud_app_find_backup_prompt_2">If you abandon it now, it will be overwritten when you restore.</string>
+  <string name="cloud_app_find_backup_prompt_2">Jos hylkäät ne nyt, niiden päälle kirjoitetaan palautettaessa.</string>
   <string name="cloud_app_function_summary">Kun varmuuskopioit tietosi pilveen, voit palauttaa tiedot nopeasti millä tahansa laitteella.</string>
   <string name="cloud_app_invalid_op">"Et voi katsella pilvi tietoja kun tietoja varmuuskopioidaan tai palautetaan."</string>
   <string name="cloud_app_invalid_op_when_removing">"Et voi tarkastella MiCloud tietoja, kun tietoja poistetaan!"</string>
@@ -84,11 +84,10 @@
   <string name="cloud_app_no_wifi">Wi-Fi ei ole käytettävissä</string>
   <string name="cloud_app_no_wifi_connect">Wi-Fi yhteyttä ei ole saatavana</string>
   <string name="cloud_app_other_devices">Muut laitteet</string>
-  <string name="cloud_app_remove_cancel">peruuta poisto</string>
-  <string name="cloud_app_remove_cancel_prompt_message">"Delete incomplete backup, press OK
-to cancel"</string>
-  <string name="cloud_app_remove_cancel_prompt_title">Stop deletion</string>
-  <string name="cloud_app_remove_error">Failed to delete!</string>
+  <string name="cloud_app_remove_cancel">Peruuta poisto</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Peruuta epätäydellinen varmuuskopiointi, paina OK poistaaksesi"</string>
+  <string name="cloud_app_remove_cancel_prompt_title">Keskeytä poistaminen</string>
+  <string name="cloud_app_remove_error">Poistaminen epäonnistui!</string>
   <string name="cloud_app_remove_pending">Waiting to delete...</string>
   <string name="cloud_app_remove_progress">Deleting...</string>
   <string name="cloud_app_remove_prompt">%1$s of data will be deleted. Do you want to continue?</string>
