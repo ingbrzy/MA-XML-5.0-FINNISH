@@ -14,11 +14,11 @@
     <string-array name="change_security_lock_picker">
         <item>Kasvojen tunnistus</item>
         <item>Kuvio</item>
-        <item>Numerical password</item>
-        <item>Mixed password</item>
+        <item>Numerokoodi</item>
+        <item>Salasana</item>
     </string-array>
     <string-array name="preferred_app_entries">
-       <item>Desktop</item>
+       <item>Työpöytä</item>
        <item>Soittaminen</item>
        <item>Viestintä</item>
        <item>Selain</item>
