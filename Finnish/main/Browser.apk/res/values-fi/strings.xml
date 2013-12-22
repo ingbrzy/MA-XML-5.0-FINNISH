@@ -54,7 +54,7 @@
   <string name="autofill_profile_editor_delete_profile">Poista</string>
   <string name="autofill_profile_editor_email_address">Email:</string>
   <string name="autofill_profile_editor_heading">Type the text you want to auto-fill in web forms.</string>
-  <string name="autofill_profile_editor_name"Koko nimi:</string>
+  <string name="autofill_profile_editor_name">Koko nimi:</string>
   <string name="autofill_profile_editor_phone_number">puhelin:</string>
   <string name="autofill_profile_editor_phone_number_invalid">Väärä puhelinnumero.</string>
   <string name="autofill_profile_editor_save_profile">Tallenna</string>
