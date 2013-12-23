@@ -58,8 +58,8 @@
   <string name="free_style_edit_tab_free_component">Ilmaiset komponentit</string>
   <string name="free_style_edit_tab_shortcut">Pikakuvakkeet</string>
   <string name="free_style_edit_tab_widget">Widgetit</string>
-  <string name="free_style_enter_tip">Liu'uta alas kahdella sormella siirtyäksesi MiSpace:een</string>
-  <string name="free_style_exit_tip">Liu'uta ylös kahdella sormella poistuaksesi MiSpace:sta</string>
+  <string name="free_style_enter_tip">"Liu'uta alas kahdella sormella siirtyäksesi MiSpace: een"</string>
+  <string name="free_style_exit_tip">"Liu'uta ylös kahdella sormella poistuaksesi MiSpace: sta"</string>
   <string name="free_style_londing_text">Valmistellaan MiSpacea...</string>
   <string name="gadget_clear_button_label">Task Cleaner</string>
   <string name="gadget_clock_12_label">Kello 2x1</string>
