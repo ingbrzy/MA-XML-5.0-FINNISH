@@ -58,8 +58,8 @@
   <string name="free_style_edit_tab_free_component">Ilmaiset komponentit</string>
   <string name="free_style_edit_tab_shortcut">Pikakuvakkeet</string>
   <string name="free_style_edit_tab_widget">Widgetit</string>
-  <string name="free_style_enter_tip">Liu-uta alas kahdella sormella siirtyäksesi MiSpace:een</string>
-  <string name="free_style_exit_tip">Liu-uta ylös kahdella sormella poistuaksesi MiSpace:sta</string>
+  <string name="free_style_enter_tip">Liu'uta alas kahdella sormella siirtyäksesi MiSpace:een</string>
+  <string name="free_style_exit_tip">Liu'uta ylös kahdella sormella poistuaksesi MiSpace:sta</string>
   <string name="free_style_londing_text">Valmistellaan MiSpacea...</string>
   <string name="gadget_clear_button_label">Task Cleaner</string>
   <string name="gadget_clock_12_label">Kello 2x1</string>
@@ -92,7 +92,7 @@
   <string name="guide_tips_editing_mode">Pidä widgettiä pohjassa vetääksesi sen näytölle</string>
   <string name="home_indicator">kohde alhaalla</string>
   <string name="install">Asenna</string>
-  <string name="invalid_contact_shortcut">Virheellinen yhteystiedon oikotie</string>
+  <string name="invalid_contact_shortcut">Virheellinen yhteystiedon pikakuvake</string>
   <string name="loading">Ladataan...</string>
   <string name="loading_desktop">Ladataan kotivalikkoa...</string>
   <string name="loading_resource_detail_fail">Resurssin lataus epäonnistui!</string>
@@ -120,10 +120,10 @@
   <string name="permdesc_read_settings">Sallii sovelluksen lukea asetuksia ja oikoteitä Kotinäytöllä.</string>
   <string name="permdesc_uninstall_shortcut">Sallii sovelluksen poistaa oikoteitä kysymättä.</string>
   <string name="permdesc_write_settings">Sallii sovelluksen muuttaa asetuksia ja oikoteitä Kotinäytöllä.</string>
-  <string name="permlab_install_shortcut">Asenna oikotiet</string>
+  <string name="permlab_install_shortcut">Asenna pikakuvakkeet</string>
   <string name="permlab_install_widget">Asenna widgetit</string>
   <string name="permlab_read_settings">Lue Kotinäytön asetuksia ja oikoteitä</string>
-  <string name="permlab_uninstall_shortcut">Poista oikotiet</string>
+  <string name="permlab_uninstall_shortcut">Poista pikakuvakkeet</string>
   <string name="permlab_write_settings">Muokkaa kotinäytön asetuksia ja oikoteitä</string>
   <string name="photo_adjust">Muokkaa kuvaa</string>
   <string name="photo_confirm">Varmista</string>
@@ -235,9 +235,9 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="title_select_live_folder">Valitse kansio</string>
-  <string name="title_select_shortcut">Valitse oikotie</string>
+  <string name="title_select_shortcut">Valitse pikakuvake</string>
   <string name="toggle_select_title">Valitse nappi</string>
-  <string name="toggle_title">Toggle</string>
+  <string name="toggle_title">Napit</string>
   <string name="transformation_type_classic">Klassinen</string>
   <string name="transformation_type_classic_no_overshoot">Klassinen (Ei yliampumista)</string>
   <string name="transformation_type_crossfade">Crossfade</string>
@@ -247,7 +247,7 @@
   <string name="transformation_type_rotate">Kääntyminen</string>
   <string name="transformation_type_stack">Laskeutuva</string>
   <string name="uninstall">Poista</string>
-  <string name="uninstall_dialog_message">Kaikki data katoaa poistaessa</string>
+  <string name="uninstall_dialog_message">Kaikki tiedot katoavat poistaessa</string>
   <string name="uninstall_dialog_title_format">Poista \"%s\"</string>
   <string name="unknown_artist_name">Tuntematon artisti</string>
   <string name="unnamed_folder_name">Nimetön</string>
