@@ -64,7 +64,7 @@
   <string name="qm_auto_time_turn_off_title">Aseta aika, jolloin hiljainen tila asetus loppuu</string>
   <string name="qm_auto_time_turn_on">Alkaen</string>
   <string name="qm_auto_time_turn_on_title">Aseta aika, jolloin hiljainen tila asetus alkaa</string>
-  <string name="qm_notification">Hiljainen tila päälle.</string>
+  <string name="qm_notification">Hiljainen tila päällä.</string>
   <string name="qm_open">Enable Quiet Mode</string>
   <string name="qm_other_settings">Kehittynyt</string>
   <string name="qm_other_settings_group">Muut asetukset</string>
