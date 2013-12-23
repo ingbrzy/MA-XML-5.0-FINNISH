@@ -188,7 +188,7 @@
   <string name="resource_update">Päivitä</string>
   <string name="resource_waiting_download">Odotetaan...</string>
   <string name="screen_button_disabled_message">Painikkeet ruudun alaosassa ovat poissa käytöstä. Saat ne käyttöön painamalla \"Aloitus\" ja \"Virta\"</string>
-  <string name="screen_button_enabled_message">Painikkeet ruudun alaosassa ovat käytöstä</string>
+  <string name="screen_button_enabled_message">Painikkeet ruudun alaosassa ovat käytössä</string>
   <string name="screen_rotation_freeze_message">Näytön kääntö lukittu vaakatasoon</string>
   <string name="scroll_tip_format_when_announce_accessibility">Sivu %1$d, %2$d sovellusta</string>
   <string name="sdcard_status_changed_dialog_message">"Sovellus sulkeutuu. Avaa uudestaan sovellus päivittääksesi resurssit."</string>
