@@ -33,7 +33,7 @@
   <string name="fw_blocked">Torjumisen tilastot</string>
   <string name="fw_blocked_count" formatted="false">Siepattu: %d Puhelua ja %d Viestiä</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d <Käyttäjät merkitsivät sen</string>
+  <string name="marked_by_others">%d Käyttäjät merkitsivät sen</string>
   <string name="marked_by_user">Käyttäjän merkitsemä</string>
   <string name="menu_add">Lisää</string>
   <string name="menu_add_into_contact">Lisää olemassaoleviin yhteystietoihin</string>
