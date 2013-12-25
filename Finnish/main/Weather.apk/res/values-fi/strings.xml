@@ -9,7 +9,7 @@
   <string name="act_find_city_hot_title">Suositut kaupungit</string>
   <string name="act_find_city_null_data">Ei tuloksia.</string>
   <string name="act_find_city_title">Lisää sijainti</string>
-  <string name="act_init_dialog_finish">Global weather info has been added.</string>
+  <string name="act_init_dialog_finish">Maailmanlaajuiset säätiedot on lisätty.</string>
   <string name="act_set_city_find_side">Paikannetaan kaupunkia...</string>
   <string name="act_set_city_find_side_error">Paikannus epäonnistui.</string>
   <string name="act_set_city_find_side_on">Avaa sijainti</string>
@@ -28,8 +28,8 @@
   <string name="act_weather_update_time">%s Päivitetty</string>
   <string name="add_city">Lisää sijainti</string>
   <string name="alert_message_delete">Poista valitut kohteet?</string>
-  <string name="alert_provider_message">You need to enable location access via your mobile network.</string>
-  <string name="alert_provider_title">Location notification</string>
+  <string name="alert_provider_message">Sinun täytyy sallia paikannus matkapuhelinverkon kautta.</string>
+  <string name="alert_provider_title">Sijainti ilmoitus</string>
   <string name="alert_title_delete">Poista</string>
   <string name="app_love_font_lng">%s</string>
   <string name="app_love_sms_title">Viestin sisältö</string>
@@ -38,8 +38,8 @@
   <string name="app_nohave_net">Ei verkkoa</string>
   <string name="app_unquiet_net">Huonolaatuinen verkkoyhteys</string>
   <string name="aqi_details_dangerous">Sydän- tai keuhkotautisten, vanhojen ihmisten ja lasten pitäisi välttää ulkonalikkumista. Kaikkien muiden pitäisi välttää ulkona liiallista ponnistelua.</string>
-  <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
-  <string name="aqi_details_good">Weather is suitable to go out.</string>
+  <string name="aqi_details_fine">Yliherkkien ihmisten pitäisi harkita pitkittyneen tai liiallisen rasituksen vähentämistä.</string>
+  <string name="aqi_details_good">Sää on soveliasta ulkoilulle.</string>
   <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
   <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
   <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
