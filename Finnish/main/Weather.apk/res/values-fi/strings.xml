@@ -37,7 +37,7 @@
   <string name="app_name">Sää</string>
   <string name="app_nohave_net">Ei verkkoa</string>
   <string name="app_unquiet_net">Huonolaatuinen verkkoyhteys</string>
-  <string name="aqi_details_dangerous">Sydän- tai keuhkotautisten, vanhojen ihmisten ja lasten pitäisi välttää ulkonalikkumista. Kaikkien muiden pitäisi välttää ulkona liiallista ponnistelua.</string>
+  <string name="aqi_details_dangerous">Sydän- tai keuhkotautisten, vanhojen ihmisten ja lasten pitäisi välttää ulkona liikkumista. Kaikkien muiden pitäisi välttää ulkona liiallista ponnistelua.</string>
   <string name="aqi_details_fine">Yliherkkien ihmisten pitäisi harkita pitkittyneen tai liiallisen rasituksen vähentämistä.</string>
   <string name="aqi_details_good">Sää on soveliasta ulkoilulle.</string>
   <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
@@ -81,7 +81,7 @@
   <string name="menu_share">Jaa</string>
   <string name="menu_trend">Trend</string>
   <string name="save_screen_shot_failed">Kuvankaappauksen tallennus epäonnistui.</string>
-  <string name="selected_format">Selected %d item(s)</string>
+  <string name="selected_format">Valittu %d kohde(tta)</string>
   <string name="send_sms_notification">Forward weather notifications</string>
   <string name="send_sms_notification_summary">"Send today's weather data to your contacts via text message"</string>
   <string name="send_weather_sms_cycle">%1$s sääennuste：%2$s</string>
@@ -104,7 +104,7 @@ Today %1$s's weather is %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Jaa säätiedot</string>
   <string name="sina_share_fail">Lähettäminen epäonnistui!</string>
   <string name="sina_share_pendding">Lähettää...</string>
-  <string name="sina_share_success">Shared successfully!</string>
+  <string name="sina_share_success">Jaettu onnistuneesti!</string>
   <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
   <string name="sms_notification">Jaa tekstiviestillä</string>
