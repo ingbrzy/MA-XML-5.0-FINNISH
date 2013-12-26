@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">Tietoa puhelimesta</string>
   <string name="active_xiaomi_account">Aktiivinen</string>
-  <string name="active_xiaomi_account_msg">"Mene MIUI foorumeille aktivoidaksesi Xiaomi tunnuksen:"</string>
+  <string name="active_xiaomi_account_msg">"Mene MIUI foorumeille aktivoidaksesi Xiaomi tilin:"</string>
   <string name="active_xiaomi_account_title">Aktivoi Xiaomi tili</string>
   <string name="app_name">Päivittäjä</string>
   <string name="apply_buddy_update_info_message">Paina päivitä nyt, puhelin aloittaa päivityksen</string>
@@ -162,7 +162,7 @@
   <string name="upgrade_close">Sulje</string>
   <string name="upgrade_kernel">Nykyinen kernel vaatii päivitystä</string>
   <string name="upgrade_kernel_msg">"Nykyisen kernelin versio ei täsmää MIUI ROMiin. Sinun täytyy päivittää kerneli manuaalisesti. Katso ohjeet:"</string>
-  <string name="verify_and_apply_dialog_message">Tarkistetaan MD5 checksum...</string>
+  <string name="verify_and_apply_dialog_message">Tarkistetaan MD5 tarkistus summa..</string>
   <string name="verify_and_apply_dialog_title">Tarkista tiedostojen yhteensopivuus</string>
   <string name="view_install_log">Katso virheloki</string>
   <string name="view_upgrade_tutorial">Katso ohjeet</string>
