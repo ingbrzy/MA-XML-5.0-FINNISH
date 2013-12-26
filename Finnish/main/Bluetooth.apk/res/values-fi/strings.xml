@@ -12,7 +12,7 @@
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="bpp_cancel">Peruuta</string>
-  <string name="bpp_main">Bluetooth Printing</string>
+  <string name="bpp_main">Bluetooth Tulostus</string>
   <string name="bpp_printing_button_text">Tulostaminen</string>
   <string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
   <string name="bpp_session_key_dialog_title">Type session key for %1$s</string>
