@@ -18,9 +18,9 @@
   <string name="bpp_session_key_dialog_title">Type session key for %1$s</string>
   <string name="bpp_setting_text">Asetukset</string>
   <string name="bt_enable_cancel">Peruuta</string>
-  <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-  <string name="bt_enable_line2">Laitetaanko Bluetooth pÃ¤Ã¤lle nyt?</string>
-  <string name="bt_enable_ok">Laita pÃ¤Ã¤lle</string>
+  <string name="bt_enable_line1">Käyttääksesi Bluetooth palveluita, sinun täytyy ensin laittaa Bluetooth päälle.</string>
+  <string name="bt_enable_line2">Laitetaanko Bluetooth päälle nyt?</string>
+  <string name="bt_enable_ok">Laita päälle</string>
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
