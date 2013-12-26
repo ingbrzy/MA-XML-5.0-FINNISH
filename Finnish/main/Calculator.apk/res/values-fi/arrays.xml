@@ -20,22 +20,22 @@
         <item>=</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
+        <item>vasen sulje</item>
+        <item>oikea sulje</item>
         <item>factorial</item>
         <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
+        <item>logaritmi</item>
+        <item>neliöjuuri</item>
         <item>divided by</item>
         <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
+        <item>lisää</item>
+        <item>vähennä</item>
         <item> point </item>
         <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
+        <item>tangentti</item>
+        <item>sini</item>
+        <item>cosini</item>
         <item>pi</item>
-        <item>equals</item>
+        <item>on yhtä suuri kuin</item>
     </string-array>
 </resources>
