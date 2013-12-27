@@ -65,11 +65,11 @@
   <string name="qm_auto_time_turn_on">Alkaen</string>
   <string name="qm_auto_time_turn_on_title">Aseta aika, jolloin hiljainen tila asetus alkaa</string>
   <string name="qm_notification">Hiljainen tila päällä.</string>
-  <string name="qm_open">Enable Quiet Mode</string>
+  <string name="qm_open">Ota Hiljainen Tila käyttöön</string>
   <string name="qm_other_settings">Kehittynyt</string>
   <string name="qm_other_settings_group">Muut asetukset</string>
   <string name="qm_other_settings_info">Adjust action for calls and messages when quiet mode is enabled</string>
-  <string name="qm_repeated_call_setting_title">"Don't restrict repeated incoming calls"</string>
+  <string name="qm_repeated_call_setting_title">"Älä estä toistuvia saapuvia puheluita"</string>
   <string name="qm_repeated_call_summary_3min">Toista puhelua samalta henkilöltä kolmen minuutin kuluessa ei hiljennetä</string>
   <string name="qm_repeated_call_summary_none">Älä tee poikkeusta toistuviin soittoihin</string>
   <string name="qm_special_call_setting_group">Poikkeukset</string>
