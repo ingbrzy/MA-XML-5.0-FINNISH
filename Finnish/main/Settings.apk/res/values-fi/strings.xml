@@ -58,7 +58,7 @@
   <string name="act_action_reject_accept">Siirrä puhelut</string>
   <string name="act_action_reject_mute">Siirrä saapuvat puhelut ja hiljennä viestit</string>
   <string name="act_action_reject_reject">Siirrä saapuvat puhelut ja viestit</string>
-  <string name="act_call"Siirrä puhelut välittömästi</string>
+  <string name="act_call">Siirrä puhelut välittömästi</string>
   <string name="act_del_ms">"Älä näytä"</string>
   <string name="act_del_ms_summary">Hylättyjä viestejä ei näytetä</string>
   <string name="act_hangup_call">"Älä muista siirrettyjä puheluita"</string>
