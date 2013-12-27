@@ -6,9 +6,9 @@
   <string name="airplane_error_title">Airplane mode</string>
   <string name="app_name">Bluetooth Jako</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
-  <string name="auth_notif_message">Kirjoita sesssion avainkoodi %1$s</string>
+  <string name="auth_notif_message">Kirjoita istunnon avainkoodi %1$s</string>
   <string name="auth_notif_ticker">OBEX todennuspyyntö</string>
-  <string name="auth_notif_title">Avainkoodi pyyntö puheliluettelon muokkaukselle</string>
+  <string name="auth_notif_title">Avainkoodi pyyntö puhelinluettelon muokkaukselle</string>
   <string name="bluetooth_share_file_name">bluetooth_sisältö_jako</string>
   <string name="bpp_authentication_timeout_message">Avainkoodin antaminen aikakatkaistiin %1$s</string>
   <string name="bpp_cancel">Peruuta</string>
