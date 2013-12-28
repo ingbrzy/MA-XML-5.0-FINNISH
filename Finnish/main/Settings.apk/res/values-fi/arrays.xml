@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Single mic Noise Supression</item>
-        <item>Dual mic Noise Supression</item>
+        <item>Yhden mikrofonin taustamelunvaimennus</item>
+        <item>Kahden mikrofonin taustamelunvaimennus</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Ei mitään</item>
@@ -19,11 +19,11 @@
     </string-array>
     <string-array name="preferred_app_entries">
        <item>Työpöytä</item>
-       <item>Soittaminen</item>
-       <item>Viestintä</item>
+       <item>Puhelin</item>
+       <item>Viestit</item>
        <item>Selain</item>
        <item>Kamera</item>
-       <item>Albumit</item>
+       <item>Galleria</item>
        <item>Musiikki</item>
        <item>Video</item>
        <item>Sähköposti</item>
