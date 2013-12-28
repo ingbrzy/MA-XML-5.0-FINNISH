@@ -13,27 +13,27 @@
         <item quantity="one">%d minuutti</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Salasanan tulee sisältää vähintään %d kirjainta.</item>
-        <item quantity="one">Salasanan tulee sisältää vähintään 1 kirjain.</item>
+        <item quantity="other">Salasanassa on oltava vähintään %d kirjainta.</item>
+        <item quantity="one">Salasanassa on oltava vähintään yksi kirjain.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Salasanan tulee sisältää vähintään %d pientä kirjainta.</item>
-        <item quantity="one">Salasanan tulee sisältää vähintään 1 pieni kirjain.</item>
+        <item quantity="other">Salasanassa on oltava vähintään %d pientä kirjainta.</item>
+        <item quantity="one">Salasanassa on oltava vähintään yksi pieni kirjain.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Salasanan tulee sisältää vähintään %d isoa kirjainta.</item>
-        <item quantity="one">Salasanan tulee sisältää vähintään 1 iso kirjain.</item>
+        <item quantity="other">Salasanassa on oltava vähintään %d isoa kirjainta.</item>
+        <item quantity="one">Salasanassa on oltava vähintään yksi iso kirjain.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Salasanan tulee sisältää vähintään %d numeromerkkiä.</item>
-        <item quantity="one">Salasanan tulee sisältää vähintään 1 numeromerkki.</item>
+        <item quantity="other">Salasanassa on oltava vähintään %d numeroa.</item>
+        <item quantity="one">Salasanassa on oltava vähintään yksi numero.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Salasanan tulee sisältää vähintään %d erikoismerkkiä.</item>
-        <item quantity="one">Salasanan tulee sisältää vähintään 1 erikoismerkki.</item>
+        <item quantity="other">Salasanassa on oltava vähintään %d erikoismerkkiä.</item>
+        <item quantity="one">Salasanassa on oltava vähintään yksi erikoismerkki.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Salasanassa on oltava vähintään %d muu merkki kuin kirjain.</item>
-        <item quantity="one">Salasanassa on oltava vähintään 1 muu merkki kuin kirjain.</item>
+        <item quantity="other">Salasanassa on oltava vähintään %d muuta merkkiä kuin kirjain.</item>
+        <item quantity="one">Salasanassa on oltava vähintään yksi muu merkki kuin kirjain.</item>
     </plurals>
 </resources>
