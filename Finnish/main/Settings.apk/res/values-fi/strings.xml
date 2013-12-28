@@ -250,7 +250,7 @@
   <string name="battery_info_health_dead">Kuollut</string>
   <string name="battery_info_health_good">Hyvä</string>
   <string name="battery_info_health_label">Akun terveys:</string>
-  <string name="battery_info_health_over_voltage">Ylijännitte</string>
+  <string name="battery_info_health_over_voltage">Ylijännite</string>
   <string name="battery_info_health_overheat">Ylikuumentunut</string>
   <string name="battery_info_health_unknown">Tuntematon</string>
   <string name="battery_info_health_unspecified_failure">Tuntematon virhe</string>
