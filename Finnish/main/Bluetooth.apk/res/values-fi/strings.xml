@@ -160,7 +160,7 @@
   <string name="unknownNumber">Tuntematon</string>
   <string name="unknown_device">Tuntematon laite</string>
   <string name="unknown_file">Tuntematon tiedosto</string>
-  <string name="unknown_file_desc">"Ei sovellusta joka voisi avata tämäntyyppisen tiedoston. "</string>
+  <string name="unknown_file_desc">"Ei sovellusta, joka voisi avata tämäntyyppisen tiedoston. "</string>
   <string name="update_record">Vahvista tallennus</string>
   <string name="upload_fail_cancel">Peruuta</string>
   <string name="upload_fail_line1">"Tiedostoa ei lähetetty kohteeseen \"%1$s\"."</string>
