@@ -15,7 +15,7 @@
         <item>Muokattu</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Tiny</item>
+        <item>pikkuruinen</item>
         <item>Pieni</item>
         <item>Normaali</item>
         <item>Suuri</item>
@@ -37,12 +37,12 @@
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
+        <item>kiinalainen (GBK)</item>
+        <item>kiinalainen (Big5)</item>
+        <item>japanilainen (ISO-2022-JP)</item>
+        <item>japanilainen (SHIFT_JIS)</item>
+        <item>japanilainen (EUC-JP)</item>
+        <item>korealainen (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Ei ikinä</item>
@@ -119,18 +119,18 @@
         <item>0xffbbbbbb</item>
     </integer-array>
     <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google_list_item</item>
+        <item>haku_google</item>
+        <item>ic_haku_kone_google_luettelo_kohta</item>
         <item>google</item>
     </string-array>
     <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo_list_item</item>
+        <item>haku_yahoo</item>
+        <item>ic_haku_kone_yahoo_luettelo_kohta</item>
         <item>yahoo</item>
     </string-array>
     <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing_list_item</item>
+        <item>haku_bing</item>
+        <item>ic_haku_kone_bing_luettelo_kohta</item>
         <item>bing</item>
     </string-array>
     <string-array name="pref_ua_choices">
@@ -142,25 +142,25 @@
         <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Page up/down</item>
-        <item>Switch window</item>
+        <item>Sivu ylös/alas</item>
+        <item>Vaihda ikkuna</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
+        <item>Sivu eteenpäin/taaksepäin</item>
+        <item>Vaihda ikkuna</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Smart</item>
-        <item>Always</item>
+        <item>Ei koskaan</item>
+        <item>Älykäs</item>
+        <item>Aina</item>
     </string-array>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
-        <item>Dark</item>
+        <item>Valkoinen</item>
+        <item>Keltainen</item>
+        <item>Harmaa</item>
+        <item>Ruskea</item>
+        <item>Vihreä</item>
+        <item>Sininen</item>
+        <item>Tumma</item>
     </string-array>
 </resources>
