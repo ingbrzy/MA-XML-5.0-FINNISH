@@ -211,67 +211,67 @@
   <string name="file_name">Kansion nimi</string>
   <string name="file_picker">Valitse polku</string>
   <string name="file_picker_new_folder">Uusi kansio</string>
-  <string name="file_picker_sdcard_not_found">SD card not detected, please check if the device is currently mounted or in use</string>
-  <string name="filename_empty_alert_message">"Filename can't be empty"</string>
-  <string name="filename_illegal_alert_message">Filename contains illegal characters, file has been automatically removed.</string>
+  <string name="file_picker_sdcard_not_found">SD-korttia ei tunnisteta, tarkista että laite on tällä hetkellä asennettu tai käytössä</string>
+  <string name="filename_empty_alert_message">"Tiedostonimi ei voi olla tyhjä"</string>
+  <string name="filename_illegal_alert_message">Tiedostonimi sisältää kiellettyjä merkkejä, tiedosto on automaattisesti poistettu.</string>
   <string name="find_on_page">Etsi sivulta</string>
   <string name="folder_name">Kansion nimi</string>
   <string name="folder_name_too_long">Kansion nimi on liian pitkä</string>
   <string name="forward">Eteenpäin</string>
   <string name="general_set_default_browser_dialog_close_txt">Sulje</string>
   <string name="general_set_default_browser_dialog_ok_txt">OK</string>
-  <string name="general_set_default_browser_dialog_summary">Use MIUI-integrated apps for faster and smoother performance</string>
-  <string name="general_set_default_browser_title">Set as default browser</string>
-  <string name="geolocation_permissions_prompt_dont_share">Decline</string>
-  <string name="geolocation_permissions_prompt_message" formatted="false">%s wants to know your location</string>
-  <string name="geolocation_permissions_prompt_remember">Remember preference</string>
-  <string name="geolocation_permissions_prompt_share">Share location</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location. Change this on the Settings &gt; Advanced &gt; Website screen.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location. Change this on the Settings &gt; Advanced &gt; Website screen.</string>
+  <string name="general_set_default_browser_dialog_summary">Käytä MIUI integroituja sovelluksia nopeamman ja sujuvamman suorituskyvyn vuoksi</string>
+  <string name="general_set_default_browser_title">Aseta oletusselaimeksi</string>
+  <string name="geolocation_permissions_prompt_dont_share">Hylkäys</string>
+  <string name="geolocation_permissions_prompt_message" formatted="false">%s haluaa tietää sijaintisi</string>
+  <string name="geolocation_permissions_prompt_remember">Muista valinta</string>
+  <string name="geolocation_permissions_prompt_share">Jaa sijainti</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Tämä sivusto voi käyttää sijaintiasi. Muuta tämä, Asetukset &gt; Lisäasetukset &gt; Verkkosivuston näyttö.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Tämä sivusto ei voi käyttää sijaintiasi. Muuta tämä, Asetukset &gt; Lisäasetukset &gt; Verkkosivuston näyttö.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Peruuta</string>
-  <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
+  <string name="geolocation_settings_page_dialog_message">Anna lupa tälle sivustolle käyttää sijaintiasi?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
-  <string name="geolocation_settings_page_summary_allowed">This site can currently access your location</string>
-  <string name="geolocation_settings_page_summary_not_allowed">"This site can't currently access your location"</string>
-  <string name="geolocation_settings_page_title">Clear location access</string>
+  <string name="geolocation_settings_page_summary_allowed">Tämä sivusto voi tällä hetkellä käyttää sijaintiasi</string>
+  <string name="geolocation_settings_page_summary_not_allowed">"Tämä sivusto ei voi tällä hetkellä käyttää sijaintiasi"</string>
+  <string name="geolocation_settings_page_title">Anna lupa sijainnin käytölle</string>
   <string name="go_home">Kotisivu</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Mene</string>
-  <string name="have_sent_bookmark_to_home_screen">Bookmark sent to home screen</string>
+  <string name="have_sent_bookmark_to_home_screen">Kirjanmerkki lähetetty aloitusnäytölle</string>
   <string name="history">Historia</string>
-  <string name="history_browsed">Browsing history</string>
+  <string name="history_browsed">Selaushistoria</string>
   <string name="history_most_visited">Käydyimmät</string>
-  <string name="history_saved_webpage">Save web page</string>
+  <string name="history_saved_webpage">Tallenna verkkosivu</string>
   <string name="history_track">Historia</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Kotisivu asetettu.</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Tuo kirjanmerkit</string>
-  <string name="import_bookmark_failure">Bookmarks FAILED To Import!</string>
-  <string name="import_bookmark_sucess">Bookmarks imported successfully</string>
-  <string name="import_bookmarks_dialog_add">Add bookmarks to Google account</string>
-  <string name="import_bookmarks_dialog_confirm_add" formatted="false">Add bookmarks currently on this device and begin syncing bookmarks with %s?</string>
-  <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Delete bookmarks currently on this device and begin syncing bookmarks with %s?</string>
-  <string name="import_bookmarks_dialog_delete_select_account">Delete bookmarks currently on this device and begin syncing with Google account</string>
-  <string name="import_bookmarks_dialog_description">"Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don't want to sync them."</string>
-  <string name="import_bookmarks_dialog_import" formatted="false">Add your Android bookmarks to bookmarks for %s</string>
-  <string name="import_bookmarks_dialog_remove">Delete bookmarks</string>
-  <string name="import_bookmarks_dialog_select_add_account">Add bookmarks currently on this device and begin syncing with Google account</string>
-  <string name="import_bookmarks_dialog_title">Sync with Google account</string>
+  <string name="import_bookmark_failure">Kirjanmerkkien tuonti epäonnistui!</string>
+  <string name="import_bookmark_sucess">Kirjanmerkkien tuonti onnistui</string>
+  <string name="import_bookmarks_dialog_add">Lisää kirjanmerkit Google tiliin</string>
+  <string name="import_bookmarks_dialog_confirm_add" formatted="false">Lisää kirjanmerkit tähän laitteeseen ja aloita kirjanmerkkien synkronointi %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Poista kirjanmerkit tästä laitteesta ja aloita kirjanmerkkien synkronointi %s?</string>
+  <string name="import_bookmarks_dialog_delete_select_account">Poista kirjanmerkit tästä laitteesta ja aloita kirjanmerkkien synkronointi Google tilin kanssa</string>
+  <string name="import_bookmarks_dialog_description">"Tämän laitteen kirjanmerkit eivät ole vielä liitetty Google tiliin. Tallenna nämä kirjanmerkit lisäämällä ne tilille. Poista nämä kirjanmerkit, jos et halua synkronoida niitä."</string>
+  <string name="import_bookmarks_dialog_import" formatted="false">Lisää Android kirjanmerkit laitteen kirjanmerkkeihin %s</string>
+  <string name="import_bookmarks_dialog_remove">Poista kirjanmerkit</string>
+  <string name="import_bookmarks_dialog_select_add_account">Lisää kirjanmerkit tähän laitteeseen ja aloita synkronointi Google-tilin kanssa</string>
+  <string name="import_bookmarks_dialog_title">Synkronoi Google-tilin kanssa</string>
   <string name="import_bookmarks_wizard_cancel">Peruuta</string>
   <string name="import_bookmarks_wizard_done">Valmis</string>
   <string name="import_bookmarks_wizard_next">Seuraava</string>
   <string name="import_bookmarks_wizard_previous">Edellinen</string>
-  <string name="importing_favorite_files">Importing Data ...</string>
-  <string name="in_incognito">Incognito mode is active, no browser history will be left.</string>
-  <string name="instant_search_label">Google with Instant (Labs)</string>
-  <string name="is_first_history_item">Is the first history item</string>
-  <string name="is_first_tab">Is the first tab</string>
-  <string name="is_last_history_item">Is the last history item</string>
-  <string name="is_last_tab">Is the last tab</string>
-  <string name="is_page_bottom">At the bottom of the page</string>
-  <string name="is_page_top">At the top of the page already</string>
-  <string name="js_engine_flags">Set JS flags</string>
+  <string name="importing_favorite_files">Tuodaan tietoja ...</string>
+  <string name="in_incognito">Incognito-tila on aktiivinen, selaimen historian ei jää merkintää.</string>
+  <string name="instant_search_label">Google välittömästi (Labs)</string>
+  <string name="is_first_history_item">On ensimmäinen kohde historiassa</string>
+  <string name="is_first_tab">On ensimmäinen välilehti</string>
+  <string name="is_last_history_item">On viimeinen kohde historiassa</string>
+  <string name="is_last_tab">On viimeinen välilehti</string>
+  <string name="is_page_bottom">Sivun alareunassa</string>
+  <string name="is_page_top">Jo sivun yläreunassa</string>
+  <string name="js_engine_flags">Aseta JS liput</string>
   <string name="loadSuspended">"The browser can't load this page because there's no Internet connection."</string>
   <string name="loadSuspendedTitle">No connection</string>
   <string name="loading_rest_candidates">Loading rest candidates</string>
