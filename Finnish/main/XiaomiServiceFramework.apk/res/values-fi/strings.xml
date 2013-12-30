@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_denied">Access denied</string>
+  <string name="access_denied">Pääsy evätty</string>
   <string name="access_token_expired_warning">Weibo account has expired, please reconnect</string>
   <string name="access_token_invalid_warning">Weibo account is invalid, please reconnect</string>
-  <string name="account">Account</string>
-  <string name="account_detail">Xiaomi account: %1$s</string>
+  <string name="account">Tili</string>
+  <string name="account_detail">Xiaomi tili: %1$s</string>
   <string name="account_dspt">"Xiaomi Account can synchronize and backup your messages, contacts, pictures, etc"</string>
-  <string name="account_hint_text">E-mail/Phone number</string>
-  <string name="account_name">Account: %1$s</string>
+  <string name="account_hint_text">Sähköposti/Puhelinnumero</string>
+  <string name="account_name">Tili: %1$s</string>
   <string name="activate_phone_failed_notif_title">Failed to enable MiCloud service</string>
   <string name="activate_phone_failed_notif_title_msim">Failed to start MiCloud for SIM %s</string>
   <string name="activate_phone_send_sms_fail">Failed to send activation SMS, unable to open sync service</string>
   <string name="activate_phone_send_sms_failed_notif">Failed to send activation SMS</string>
   <string name="activate_phone_server_error">Server error，unable to open sync service</string>
-  <string name="activate_phone_server_error_notif">Server error</string>
+  <string name="activate_phone_server_error_notif">Palvelinvirhe</string>
   <string name="activate_status_desc_acquire_phone_number">Acquiring phone number from server</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while acquiring phone number.</string>
   <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server error while acquiring phone number. Waiting to retry...</string>
@@ -48,8 +48,8 @@
   <string name="activate_status_desc_sms_sent">Activation SMS was sent successfully</string>
   <string name="activate_status_title_activating">Activating your SIM card, please wait...</string>
   <string name="activate_status_title_activating_msim">Activating your SIM card %s...</string>
-  <string name="activating">Activating...</string>
-  <string name="add_weibo_account">Add Account</string>
+  <string name="activating">Aktivoidaan...</string>
+  <string name="add_weibo_account">Lisää tili</string>
   <string name="alert_notif_title_dspt">Please restore synchronization to ensure data security</string>
   <string name="alert_title_remove_account">Delete Account</string>
   <string name="app_name">Xiaomi Services Framework</string>
@@ -59,7 +59,7 @@
   <string name="bind_sina_weibo">Authorise Sina Weibo</string>
   <string name="bind_weibo_description">Find phone contacts, friends and other information directly from your account</string>
   <string name="binded">Associated</string>
-  <string name="btn_activate">Activate</string>
+  <string name="btn_activate">Aktivoi</string>
   <string name="btn_count_down_wait">%1$s seconds to wait</string>
   <string name="btn_voucher">Mi Credit card (%1$s)</string>
   <string name="btn_wait_call">Waiting</string>
@@ -108,17 +108,17 @@
   <string name="find_device_enabling">Turning on...</string>
   <string name="find_device_error_network">Network unavailable</string>
   <string name="find_device_error_server">Server error</string>
-  <string name="find_device_notice_p1">When you have lost your phone, please visit</string>
+  <string name="find_device_notice_p1">Jos hukkaat puhelimesi, käy osoitteessa</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">to find, lock it, or wipe the data</string>
   <string name="find_device_success_title">Locate device is enabled</string>
   <string name="find_password_on_web_msg">Please visit account.xiaomi.com to retrieve your password</string>
-  <string name="forget_password">Forgot Password? </string>
+  <string name="forget_password">Unohditko salasanan? </string>
   <string name="get_back_pwd">Recover account password</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Enter captcha</string>
-  <string name="input_password_hint">Input password</string>
+  <string name="input_password_hint">Syötä salasana</string>
   <string name="input_vcode_hint">Enter verfication code</string>
   <string name="input_vcode_prompt">Please enter verification code</string>
   <string name="int_phone_user_notice">When registering using a number outside of China please enter your country code, e.g. +44xxxxxxxxx</string>
@@ -126,10 +126,10 @@
   <string name="internet_message">MiCloud messaging</string>
   <string name="label_order_name">Product name: </string>
   <string name="label_order_price">Quantity: </string>
-  <string name="login">Login</string>
-  <string name="login_failed">Login failed</string>
+  <string name="login">Kirjaudu sisään</string>
+  <string name="login_failed">Kirjautuminen epäonnistui</string>
   <string name="login_instead_reg">Login using this phone number</string>
-  <string name="login_notice">Signing in...</string>
+  <string name="login_notice">Kirjaudutaan sisään...</string>
   <string name="master_alert_notif_dspt" formatted="false">"During this period you have added %s name phone contacts, %s SMS, %s photos, %s of notes and other data.
 
  If your phone is lost or erased, these data will be permanently lost. It is recommended that you restore synchronization to ensure data security"</string>
@@ -138,8 +138,8 @@
   <string name="mibi_license_message">Xiaomi Mi Credit Service. By clicking OK you agree to comply with %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit User Agreement</string>
   <string name="mibi_license_title">Mi Credit User agreement</string>
-  <string name="micloud_account">Xiaomi account</string>
-  <string name="micloud_account_label">Account: %1$s</string>
+  <string name="micloud_account">Xiaomi tili</string>
+  <string name="micloud_account_label">Tili: %1$s</string>
   <string name="micloud_account_name">Xiaomi Account</string>
   <string name="micloud_account_not_actived">Account not activated</string>
   <string name="micloud_activate_account_fail_notify_title">Failed to activate your Xiaomi account</string>
@@ -157,10 +157,10 @@
   <string name="micloud_activing_account_failed">Failed to activate your account</string>
   <string name="micloud_click_email">Click the link in the E-mail to activate your Xiaomi Account</string>
   <string name="micloud_click_email_to_valid">Click the activation link in the message sent to your inbox</string>
-  <string name="micloud_delete_account">Delete account</string>
+  <string name="micloud_delete_account">Poista tili</string>
   <string name="micloud_dspt">Cloud services include MiCloud messaging, mobile sync, locating device and other features. You can also manage your data online at any time!</string>
-  <string name="micloud_email">E-mail address</string>
-  <string name="micloud_error_email">Invalid E-mail</string>
+  <string name="micloud_email">Sähköpostiosoite</string>
+  <string name="micloud_error_email">Virheellinen sähköposti</string>
   <string name="micloud_error_empty_captcha_code">Enter captcha code.</string>
   <string name="micloud_error_empty_pwd">Password is blank</string>
   <string name="micloud_error_empty_username">Username is blank</string>
@@ -173,12 +173,12 @@
   <string name="micloud_intro_02_part_02">Cloud services helps you sync up contacts, messages, photos and other data on to various mobile devices.</string>
   <string name="micloud_intro_03_part_01">Never lose your data again and ensure that contents are secure</string>
   <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
-  <string name="micloud_is_what">What is MiCloud?</string>
+  <string name="micloud_is_what">Mikä on MiCloud?</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">Password mismatch</string>
   <string name="micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string>
-  <string name="micloud_proceed">Continue</string>
+  <string name="micloud_proceed">Jatka</string>
   <string name="micloud_reg_new">Create new</string>
   <string name="micloud_resend_active_email">Re-send activation E-mail</string>
   <string name="micloud_summary">Login to Xiaomi account to sync Contacts, Gallery Albums and other functions.</string>
@@ -210,11 +210,11 @@
   <string name="my_mili_record">My Mi Credit</string>
   <string name="my_xiaomi_account">My current Xiaomi account</string>
   <string name="next">Next</string>
-  <string name="noRemind">"Don't remind"</string>
+  <string name="noRemind">"Älä muistuta"</string>
   <string name="nobind">No authorised</string>
   <string name="order_price">%1$s Mi credits</string>
-  <string name="other_settings">Other settings</string>
-  <string name="password">Password</string>
+  <string name="other_settings">Muut asetukset</string>
+  <string name="password">Salasana</string>
   <string name="password_error">Please enter your password</string>
   <string name="password_hint">Please enter your Xiaomi account password:</string>
   <string name="pay_record">Payment history</string>
@@ -246,8 +246,8 @@
   <string name="prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not %1$s yuan, it will lead to charge failure and card balance loss</string>
   <string name="prepaid_picker_title_default">Select top-up amount</string>
   <string name="prepaid_picker_title_selected">Top-up amount</string>
-  <string name="prev">Back</string>
-  <string name="process_result">Result:</string>
+  <string name="prev">Takaisin</string>
+  <string name="process_result">Tulos:</string>
   <string name="progress_bankcall_card_creating">Generating order...</string>
   <string name="progress_bankcall_card_querying">Obtaining bank account type, please wait...</string>
   <string name="progress_connecting">Connecting...</string>
