@@ -142,7 +142,7 @@
   <string name="enable_encrypt_summery1">"Järjestelmä salaa Xiaomi tiliin perustuvan paikallisen varmuuskopiosi. Sinun täytyy kirjautua Xiaomi tiliisi kun poistat tietoja tai käytät muita laitteita palauttaaksesi varmuuskopion."</string>
   <string name="enable_encrypt_summery2">"Uusi varmuuskopio salataan automaattisesti. Sinun täytyy kirjautua Xiaomi tiliisi kun poistat tietoja tai käytät muita laitteita palauttaaksi varmuuskopion."</string>
   <string name="enable_encrypt_title">Salli salaus</string>
-  <string name="enable_encrypt_xiaomi_account">Tämä varmuuskopio luotiin% 1 $ s, poista nykyinen tili ja kirjaudu sisään% 2 $ s, palauttaaksesi tiedot.</string>
+  <string name="enable_encrypt_xiaomi_account">Tämä varmuuskopio luotiin %1$s, poista nykyinen tili ja kirjaudu sisään %2$s, palauttaaksesi tiedot.</string>
   <string name="exchange_account">Vaihda tili</string>
   <string name="fail">epäonnistui</string>
   <string name="findlost_contact">Palauttaa poistetut yhteystiedot</string>
