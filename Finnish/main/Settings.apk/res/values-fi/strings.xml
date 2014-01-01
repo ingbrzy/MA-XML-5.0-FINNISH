@@ -347,14 +347,14 @@
   <string name="bluetooth_disable_profile_title">Poista profiili käytöstä?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s laitteelta katkaistaan median ääni.</string>
   <string name="bluetooth_disconnect_all_profiles">Tämä katkaisee yhteyden kohteeseen:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
-  <string name="bluetooth_disconnect_headset_profile">%1$s will be disconnected from handsfree audio.</string>
-  <string name="bluetooth_disconnect_hid_profile">%1$s will be disconnected from input device.</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">"%1$s will be disconnected from sharing this phone's Internet connection."</string>
+  <string name="bluetooth_disconnect_headset_profile">%1$s laite katkaistaan handsfree äänestä.</string>
+  <string name="bluetooth_disconnect_hid_profile">%1$s laite katkaistaan syöttölaitteesta.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">"%1$s laite katkaistaan jakamasta tämän puhelimen Internet-yhteys."</string>
   <string name="bluetooth_disconnect_pan_user_profile">Internet-yhteys laitteen %1$s kautta katkaistaan.</string>
   <string name="bluetooth_disconnect_title">Katkaise yhteys?</string>
   <string name="bluetooth_disconnected">Yhteys katkaistu</string>
   <string name="bluetooth_disconnecting">Katkaistaan yhteyttä…</string>
-  <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Luodaksesi laiteparin kohteeseen:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Syötä siihen:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, sitten valitse Paluu tai Enter.</string>
   <string name="bluetooth_dock_settings">Telakan asetukset</string>
   <string name="bluetooth_dock_settings_a2dp">Musiikille ja medialle</string>
   <string name="bluetooth_dock_settings_headset">Puhelimen kaiuttimena</string>
@@ -541,7 +541,7 @@ Kirjoita PIN luodaksesi laiteparin laitteen \"%1$s\" kanssa. [Korkea turvataso k
   <string name="cleaner_support_hints">Ohjelman tarjoaa Clean Master</string>
   <string name="clear_activities">Tyhjennä oletukset</string>
   <string name="clear_activities_summary">Käytä tätä sovellusta oletuksena joihinkin toimintoihin</string>
-  <string name="clear_all_calllog"Tyhjennä puheluhistoria</string>
+  <string name="clear_all_calllog">Tyhjennä puheluhistoria</string>
   <string name="clear_all_mslog">Tyhjennä viestihistoria</string>
   <string name="clear_cache_btn_text">Tyhjennä välimuisti</string>
   <string name="clear_data_dlg_text">"Kaikki tämän sovelluksen tiedot poistetaan pysyvästi. Tämä sisältää kaikki tiedostot, asetukset, tilit, tietokannat, jne."</string>
