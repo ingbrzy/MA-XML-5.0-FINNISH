@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MusiikkiFX</string>
-  <string name="bass_boost_strength">Bassojen tehostus</string>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Basson tehostus</string>
   <string name="ci_extreme">FX tehostus</string>
   <string name="eq_dialog_title">Taajuuskorjain</string>
-  <string name="headset_plug">Liitä kuulokkeet saadaksesi nämä tehosteet</string>
+  <string name="headset_plug">Liitä kuulokkeet kuullaksesi tehosteet</string>
   <string name="main_toggle_effects_title">Ääniefekti</string>
   <string name="no_effects">Efekti ei ole käytettävissä</string>
   <string name="picker_title">Ääniefektien säätö</string>
@@ -13,5 +13,5 @@
   <string name="pr_title">Kaiku:</string>
   <string name="setup">Aseta</string>
   <string name="user">Käyttäjä</string>
-  <string name="virtualizer_strength">3D efekti</string>
+  <string name="virtualizer_strength">3D tehostus</string>
 </resources>
