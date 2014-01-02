@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d related songs</item>
-        <item quantity="one">%d related song</item>
+        <item quantity="other">%d samantapaista kappaletta</item>
+        <item quantity="one">%d samantapainen kappale</item>
     </plurals>
     <plurals name="Ntracks_total">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d kappaletta</item>
+        <item quantity="one">%d kappale</item>
     </plurals>
     <plurals name="Ntracks_string">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d kappaletta</item>
+        <item quantity="one">%d kappale</item>
     </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d kappaletta</item>
+        <item quantity="one">%d kappale</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">%d album</item>
+        <item quantity="other">%d albumia</item>
+        <item quantity="one">%d albumi</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">songs</item>
-        <item quantity="one">song</item>
+        <item quantity="other">kappaletta</item>
+        <item quantity="one">kappale</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">albums</item>
-        <item quantity="one">album</item>
+        <item quantity="other">albumia</item>
+        <item quantity="one">albumi</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">artists</item>
-        <item quantity="one">artist</item>
+        <item quantity="other">artistia</item>
+        <item quantity="one">artisti</item>
     </plurals>
     <plurals name="Nplaylists">
-        <item quantity="other">playlists</item>
-        <item quantity="one">playlist</item>
+        <item quantity="other">soittolistaa</item>
+        <item quantity="one">soittolista</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">" folders"</item>
-        <item quantity="one">" folder"</item>
+        <item quantity="other">" kansiota"</item>
+        <item quantity="one">" kansio"</item>
     </plurals>
     <plurals name="Nitems_batch_selection">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Valittu %d kohdetta</item>
+        <item quantity="one">Valittu %d kohde</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">There are %d songs on SD card</item>
-        <item quantity="one">There is %d song on SD card</item>
+        <item quantity="other">%d kappaletta on SD-kortilla</item>
+        <item quantity="one">%d kappale on SD-kortilla</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d kappaletta lisättiin soittolistaan.</item>
+        <item quantity="one">1 kappale lisättiin soittolostaan.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d kappaletta lisättiin soittolistaan.</item>
+        <item quantity="one">1 kappale lisättiin soittolistaan.</item>
     </plurals>
     <plurals name="Nonlinecategory">
-        <item quantity="other">" categories"</item>
-        <item quantity="one">" category"</item>
+        <item quantity="other">" kategoriaa"</item>
+        <item quantity="one">" kategoria"</item>
     </plurals>
     <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d songs</item>
-        <item quantity="one">%1$s, %2$d song</item>
+        <item quantity="other">%1$s, %2$d kappaletta</item>
+        <item quantity="one">%1$s, %2$d kappale</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d songs were deleted.</item>
-        <item quantity="one">1 song was deleted.</item>
+        <item quantity="other">%d kappaletta poistettiin.</item>
+        <item quantity="one">1 kappale poistettiin.</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d songs will be downloaded.</item>
-        <item quantity="one">1 song will be downloaded.</item>
+        <item quantity="other">%d kappaletta ladataan.</item>
+        <item quantity="one">1 kappale ladataan.</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d songs removed from playlist.</item>
-        <item quantity="one">1 song removed from playlist.</item>
+        <item quantity="other">%d kappaletta poistettiin soittolistalta.</item>
+        <item quantity="one">1 kappale poistettiin soittolistalta.</item>
     </plurals>
     <plurals name="Nhot_tracks_total">
-        <item quantity="other">%d top rated songs</item>
-        <item quantity="one">%d top rated song</item>
+        <item quantity="other">%d suosituinta kappaletta</item>
+        <item quantity="one">%d suosituin kappale</item>
     </plurals>
 </resources>
