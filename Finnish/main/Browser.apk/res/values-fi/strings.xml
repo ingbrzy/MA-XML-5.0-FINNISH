@@ -11,8 +11,8 @@
   <string name="accessibility_button_go">Mene</string>
   <string name="accessibility_button_goto">Mene</string>
   <string name="accessibility_button_larger">Suurempi</string>
-  <string name="accessibility_button_more">Lisä asetukset</string>
-  <string name="accessibility_button_navscreen">Sivun hallinta</string>
+  <string name="accessibility_button_more">Lisäasetukset</string>
+  <string name="accessibility_button_navscreen">Sivunhallinta</string>
   <string name="accessibility_button_newincognitotab">Avaa uuden incognito-välilehden</string>
   <string name="accessibility_button_newtab">Avaa uusi välilehti</string>
   <string name="accessibility_button_refresh">Päivitä sivu</string>
