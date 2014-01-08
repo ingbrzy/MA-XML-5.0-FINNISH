@@ -1099,14 +1099,14 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Asetukset</string>
-  <string name="input_method_settings_button">Settings</string>
+  <string name="input_method_settings_button">Asetukset</string>
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
-  <string name="input_methods_settings_label_format">%1$s settings</string>
+  <string name="input_methods_settings_label_format">%1$s asetukset</string>
   <string name="input_methods_settings_title">Text input</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
-  <string name="install_applications">Unknown sources</string>
-  <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
+  <string name="install_applications">Tuntemattomat lähteet</string>
+  <string name="install_unknown_applications">Salli sovellusten asennus tuntemattomista lähteistä</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1148,9 +1148,9 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="keyboard_layout_picker_title">Keyboard layouts</string>
   <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
   <string name="keyboard_settings_title">Android näppäimistö</string>
-  <string name="language_keyboard_settings_title">Language &amp; input</string>
+  <string name="language_keyboard_settings_title">Kieli &amp; syöttö</string>
   <string name="language_picker_title">Kieli</string>
-  <string name="language_settings">Language &amp; input</string>
+  <string name="language_settings">Kieli &amp; syöttö</string>
   <string name="language_settings_category">Kieliasetukset</string>
   <string name="large_font">Suuri</string>
   <string name="last_check_canceled">Scan recommended: Previous scan was canceled before it finished</string>
@@ -1198,7 +1198,7 @@ Ready to start? Touch Next."</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lock_title">Securing your phone</string>
-  <string name="lockpassword_cancel_label">Cancel</string>
+  <string name="lockpassword_cancel_label">Peruuta</string>
   <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
   <string name="lockpassword_choose_your_password_header">Choose your password</string>
   <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
@@ -1228,11 +1228,11 @@ Ready to start? Touch Next."</string>
   <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
   <string name="lockpattern_change_lock_pin_label">Change PIN</string>
   <string name="lockpattern_confirm_button_text">Confirm</string>
-  <string name="lockpattern_continue_button_text">Continue</string>
+  <string name="lockpattern_continue_button_text">Jatka</string>
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
-  <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
+  <string name="lockpattern_need_to_unlock">Varmista tallennettu kuvio</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">Try again</string>
+  <string name="lockpattern_need_to_unlock_wrong">Yritä uudelleen</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
@@ -1329,7 +1329,7 @@ Attention: this operation cannot be undone."</string>
   <string name="memory_size">Total space</string>
   <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Discard</string>
-  <string name="menu_delete">Delete APN</string>
+  <string name="menu_delete">Poista APN</string>
   <string name="menu_edit">Muokkaa</string>
   <string name="menu_item_about_content">Security: %s</string>
   <string name="menu_item_about_title">Tietoa</string>
@@ -1353,8 +1353,8 @@ Attention: this operation cannot be undone."</string>
   <string name="mms_log_tab_title">Message log</string>
   <string name="mms_vibrate_abbreviation">"Messages "</string>
   <string name="model_number">Model Number</string>
-  <string name="move_app">Move</string>
-  <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
+  <string name="move_app">Siirrä</string>
+  <string name="move_app_failed_dlg_text">"Ei voitu siirtää sovellusta. %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
@@ -1628,15 +1628,15 @@ please follow the steps to complete installation"</string>
   <string name="perm_privacy_app_installed">Asennus valmis!</string>
   <string name="perm_privacy_app_launch">Käynnistä</string>
   <string name="perm_privacy_app_log">Logs</string>
-  <string name="perm_privacy_app_manage">TIedot</string>
+  <string name="perm_privacy_app_manage">Tiedot</string>
   <string name="perm_privacy_app_trust">Luotan tähän Sovellukseen</string>
   <string name="perm_privacy_app_trust_dialog_content">MIUI will not ask you for confirmation of any security and privacy related operations from this app.</string>
   <string name="perm_privacy_app_trust_dialog_title">Trust this app</string>
   <string name="perm_privacy_app_trust_summary">Trusted</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI will monitor this app</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI will trust this app</string>
-  <string name="perm_privacy_app_uninstall">Uninstall</string>
-  <string name="perm_privacy_count">Allowed: %1$d Denied: %2$d</string>
+  <string name="perm_privacy_app_uninstall">Poista</string>
+  <string name="perm_privacy_count">Sallittu: %1$d Estetty: %2$d</string>
   <string name="perm_root_manage_empty">No apps with ROOT permission</string>
   <string name="perm_service_disabled">Service is disabled</string>
   <string name="perm_service_enabled">Service is enabled</string>
@@ -1873,7 +1873,7 @@ please follow the steps to complete installation"</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Default app Settings</string>
-  <string name="preferred_app_settings_default">Default</string>
+  <string name="preferred_app_settings_default">Oletus</string>
   <string name="preferred_app_settings_reset">Restore defaults</string>
   <string name="preferred_app_settings_reset_message">Are you sure want to restore default application Settings?</string>
   <string name="preferred_application_title">Preferred %s</string>
@@ -2033,7 +2033,7 @@ please follow the steps to complete installation"</string>
  "</string>
   <string name="reset_app_preferences_title">Reset app preferences?</string>
   <string name="residual_cancel">Peruuta</string>
-  <string name="residual_clean">Clean</string>
+  <string name="residual_clean">Puhdista</string>
   <string name="residual_tips_hints">%s residual files found on SD card</string>
   <string name="restore_default_apn">Restoring default APN settings.</string>
   <string name="restore_default_apn_completed">Reset default APN settings completed.</string>
@@ -2069,7 +2069,7 @@ please follow the steps to complete installation"</string>
   <string name="score">Pisteet</string>
   <string name="score_good_state">Puhelin on jo optimoitu</string>
   <string name="score_need_optimize">Optimointi suositeltavaa</string>
-  <string name="screen">Screen</string>
+  <string name="screen">Näyttö</string>
   <string name="screen_button_custom">Customize screen key positions</string>
   <string name="screen_button_key">Screen virtual keys</string>
   <string name="screen_color_temperature">Color temperature</string>
@@ -2122,7 +2122,7 @@ please follow the steps to complete installation"</string>
   <string name="sdcard_settings_unmounted_status">"It's now safe to remove the USB storage."</string>
   <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
   <string name="sdcard_unmount">Unmount USB storage</string>
-  <string name="search_about">about</string>
+  <string name="search_about">tietoa</string>
   <string name="search_accelerometer">accelerometer</string>
   <string name="search_access_control">access control</string>
   <string name="search_airplane">airplane</string>
@@ -2341,13 +2341,13 @@ Attempts Remaining :"</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sync_active">Sync active</string>
   <string name="sync_automatically">Auto-sync app data</string>
-  <string name="sync_calendar">Calendar</string>
-  <string name="sync_contacts">Contacts</string>
-  <string name="sync_disabled">Sync is OFF</string>
+  <string name="sync_calendar">Kalenteri</string>
+  <string name="sync_contacts">Yhteystiedot</string>
+  <string name="sync_disabled">Synkronointi on POIS PÄÄLTÄ</string>
   <string name="sync_enable">Enable sync</string>
-  <string name="sync_enabled">Sync is ON</string>
+  <string name="sync_enabled">Synkronointi on PÄÄLLÄ</string>
   <string name="sync_error">Sync error</string>
-  <string name="sync_failed">Sync failed</string>
+  <string name="sync_failed">Synkronointi epäonnistui</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Syncing now…</string>
   <string name="sync_is_failing">Sync is currently experiencing problems. It will be back shortly.</string>
@@ -2378,9 +2378,9 @@ Attempts Remaining :"</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
-  <string name="time_picker_title">Time</string>
+  <string name="time_picker_title">Aika</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
-  <string name="timezone_settings">Time zone</string>
+  <string name="timezone_settings">Aikavyöhyke</string>
   <string name="title_app_update_no">%d apps have updates</string>
   <string name="title_app_update_yes">All apps up to date</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
@@ -2436,7 +2436,7 @@ Attempts Remaining :"</string>
   <string name="tts_engine_error_reselect">Choose another engine</string>
   <string name="tts_engine_name_is_disabled_summary">%s is disabled</string>
   <string name="tts_engine_name_is_enabled_summary">%s is enabled</string>
-  <string name="tts_engine_name_settings">%s settings</string>
+  <string name="tts_engine_name_settings">%s asetukset</string>
   <string name="tts_engine_preference_section_title">Preferred engine</string>
   <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
   <string name="tts_engine_settings_button">Launch engine settings</string>
@@ -2498,7 +2498,7 @@ Attempts Remaining :"</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Please enable screen password to set guard</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
-  <string name="untitled_apn">Untitled</string>
+  <string name="untitled_apn">Nimetön</string>
   <string name="upload_debug_log_summary">Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data</string>
   <string name="upload_debug_log_title">User experience program</string>
   <string name="usage_log">App usage statistics</string>
@@ -2513,7 +2513,7 @@ Attempts Remaining :"</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
-  <string name="usage_type_phone">Phone</string>
+  <string name="usage_type_phone">Puhelin</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Pysy hereillä</string>
   <string name="usage_type_wifi_running">Wi-Fi running</string>
@@ -2602,7 +2602,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_app_stop">Stop scanning</string>
   <string name="virus_scan_app_stop_scan">Stop scan</string>
   <string name="virus_scan_app_uninstall">Remove (% d)</string>
-  <string name="virus_scan_app_waiting">Waiting…</string>
+  <string name="virus_scan_app_waiting">Odottaa…</string>
   <string name="virus_scan_can_use_wifi">Use online definitions to scan</string>
   <string name="virus_scan_clear">Clean up</string>
   <string name="virus_scan_dangerous">Riski</string>
@@ -2612,11 +2612,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_file_type_virus_apk">Virus (install pkg)</string>
   <string name="virus_scan_file_type_virus_installed">Virus (installed app)</string>
   <string name="virus_scan_find">%d risk(s) discovered</string>
-  <string name="virus_scan_finish">Done</string>
+  <string name="virus_scan_finish">Valmis</string>
   <string name="virus_scan_finish_text">OK, the bad stuff is gone!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner has been compromised. You need to factory reset your phone.</string>
   <string name="virus_scan_installed_package">%s (installed app)</string>
-  <string name="virus_scan_is_scanning">Scanning...</string>
+  <string name="virus_scan_is_scanning">Skannataan...</string>
   <string name="virus_scan_judge_is_virus">Check apps for viruses before installation</string>
   <string name="virus_scan_last_risk">Suspicious apps discovered in the most recent scan have not been not removed.</string>
   <string name="virus_scan_last_scan_date">Most recent scan was %d days ago</string>
@@ -2639,7 +2639,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_others_title">Related settings</string>
   <string name="virus_scan_package_label_unknown">unknown</string>
   <string name="virus_scan_parpare">Starting engine...</string>
-  <string name="virus_scan_risk_button_name">Risk</string>
+  <string name="virus_scan_risk_button_name">Riski</string>
   <string name="virus_scan_risk_list_empty">No risks detected.</string>
   <string name="virus_scan_risk_title">%d suspicious apps detected</string>
   <string name="virus_scan_safe">Clear</string>
@@ -2750,7 +2750,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wfd_enable_wifi_diag_title">You can only use Wi-Fi Display when Wi-Fi is enabled. Enable it now?</string>
   <string name="wfd_enabler_title">Enable Wi-Fi Display</string>
   <string name="wfd_menu_search">Search for devices</string>
-  <string name="wfd_menu_searching">Searching…</string>
+  <string name="wfd_menu_searching">Etsitään…</string>
   <string name="wfd_menu_teardown">Stop</string>
   <string name="wfd_settings_description">Connect to display via Wi-Fi</string>
   <string name="wfd_settings_title">Wi-Fi Display</string>
@@ -2879,9 +2879,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
   <string name="wifi_settings_title">Wi-Fi Asetukset</string>
   <string name="wifi_setup_add_network">Lisää verkko</string>
-  <string name="wifi_setup_back">Back</string>
-  <string name="wifi_setup_cancel">Cancel</string>
-  <string name="wifi_setup_connect">Connect</string>
+  <string name="wifi_setup_back">Takaisin</string>
+  <string name="wifi_setup_cancel">Peruuta</string>
+  <string name="wifi_setup_connect">Yhdistä</string>
   <string name="wifi_setup_description_connected">Touch &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
 
 Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
@@ -2891,9 +2891,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_setup_forget">Unohda</string>
   <string name="wifi_setup_next">Seuraava</string>
   <string name="wifi_setup_not_connected">Ei yhdistetty</string>
-  <string name="wifi_setup_refresh_list">Refresh list</string>
-  <string name="wifi_setup_save">Save</string>
-  <string name="wifi_setup_skip">Skip</string>
+  <string name="wifi_setup_refresh_list">Päivitä lista</string>
+  <string name="wifi_setup_save">Tallenna</string>
+  <string name="wifi_setup_skip">Ohita</string>
   <string name="wifi_setup_status_connecting">Connecting…</string>
   <string name="wifi_setup_status_eap_not_supported">"EAP isn't supported."</string>
   <string name="wifi_setup_status_edit_network">Type network configuration</string>
@@ -2951,7 +2951,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_state_enabled">Enabled</string>
   <string name="wifi_state_enabling">Enabling</string>
   <string name="wifi_state_label">Wi-Fi state:</string>
-  <string name="wifi_state_unknown">Unknown</string>
+  <string name="wifi_state_unknown">Tuntematon</string>
   <string name="wifi_status">Tila</string>
   <string name="wifi_status_test">Wi-Fi status</string>
   <string name="wifi_stopping">Sammutetaan Wi-Fi...</string>
@@ -3004,10 +3004,10 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
   <string name="work_done">Valmis</string>
-  <string name="wps_category">WPS Security</string>
+  <string name="wps_category">WPS Turvallisuus</string>
   <string name="wps_connect_summary">Make sure router supports WPS mode</string>
   <string name="wps_connect_title">Connect using WPS</string>
-  <string name="xiaomi_account">Xiaomi tunnus</string>
+  <string name="xiaomi_account">Xiaomi tili</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit center</string>
   <string name="yes">OK</string>
