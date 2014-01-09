@@ -166,22 +166,22 @@ Junk"</string>
   <string name="no_enough_storage_indication">Ei tarpeeksi tallennustilaa, liittäminen epäonnistui. Ole hyvä ja poista tarpeettomia tiedostoja ja yritä uudelleen tai käytä Tiedostojen Siivousta vapauttaaksesi tilaa.</string>
   <string name="no_enough_storage_title">Ei tarpeeksi tallennustilaa saatavilla</string>
   <string name="no_file">Ei tiedostoja</string>
-  <string name="no_more_space">No free space</string>
-  <string name="no_tasks">No tasks</string>
-  <string name="no_temp_file_indication">No temporary files</string>
-  <string name="no_thumbnail_indication">No thumbnail files</string>
-  <string name="no_wifi">No Wi-Fi network</string>
-  <string name="no_wifi_hint">No Wi-Fi connection found</string>
-  <string name="notif_server_starting">FTP Server started</string>
-  <string name="notif_title">FTP Server</string>
-  <string name="open_changed_file_message">"The file you are trying to open has been modified, you could:
-1. Download (update the local file)
-2. Upload (update the remote file)"</string>
-  <string name="open_changed_file_title">File modified</string>
-  <string name="operating">Running…</string>
-  <string name="operation_cancel">Cancel</string>
-  <string name="operation_compress">Compress</string>
-  <string name="operation_compressing">Compressing...</string>
+  <string name="no_more_space">Ei vapaata tilaa</string>
+  <string name="no_tasks">Ei tehtäviä</string>
+  <string name="no_temp_file_indication">Ei väliaikaisia tiedostoja</string>
+  <string name="no_thumbnail_indication">Ei pienoiskuva tiedostoja</string>
+  <string name="no_wifi">Ei Wi-Fi-verkkoa</string>
+  <string name="no_wifi_hint">Wi-Fi-yhteyttä ei löytynyt</string>
+  <string name="notif_server_starting">FTP palvelin käynnistyi</string>
+  <string name="notif_title">FTP Palvelin</string>
+  <string name="open_changed_file_message">"Tiedosto, jota yrität avata, on muutettu, voisit:
+1. Ladata (päivittää paikallisen tiedoston)
+2. Lähetä (päivittää etätiedostojärjestelmää)"</string>
+  <string name="open_changed_file_title">Tiedosto muunnettu</string>
+  <string name="operating">Käynnissä…</string>
+  <string name="operation_cancel">Peruuta</string>
+  <string name="operation_compress">Pakkaus</string>
+  <string name="operation_compressing">Pakkaa...</string>
   <string name="operation_copy">Kopioi</string>
   <string name="operation_copying">Kopioidaan...</string>
   <string name="operation_copying_detail">Kopioidaan tiedostoja (%1$d/%2$d)</string>
@@ -189,13 +189,13 @@ Junk"</string>
   <string name="operation_create_folder_message">Syötä kansion nimi</string>
   <string name="operation_decompressing">Puretaan...</string>
   <string name="operation_delete">Poista</string>
-  <string name="operation_delete_confirm_message">Confirm Deletion?</string>
-  <string name="operation_delete_confirm_message_folder">"Deleting the folder will also delete all files within it."</string>
+  <string name="operation_delete_confirm_message">Vahvista poisto?</string>
+  <string name="operation_delete_confirm_message_folder">"Kansion poistaminen poistaa myös kaikki sen sisältämät tiedostot."</string>
   <string name="operation_deleting">Poistetaan...</string>
   <string name="operation_deleting_detail">Poistetaan tiedostoja (%1$d/%2$d)</string>
-  <string name="operation_download_link">Generate download link</string>
+  <string name="operation_download_link">Luo latauslinkki</string>
   <string name="operation_favorite">Lisää Suosikkeihin</string>
-  <string name="operation_hide_sys">Hide hidden files</string>
+  <string name="operation_hide_sys">Piilota piilotetut tiedostot</string>
   <string name="operation_info">Tiedot</string>
   <string name="operation_move">Siirrä</string>
   <string name="operation_moving">Siirretään...</string>
@@ -212,34 +212,34 @@ Junk"</string>
   <string name="operation_send">Lähetä</string>
   <string name="operation_show_sys">Näytä piilotetut tiedostot</string>
   <string name="operation_unfavorite">Poista Suosikeista</string>
-  <string name="pan_settting">MiDrive settings</string>
-  <string name="paused">Paused</string>
-  <string name="pull_to_signin">Drag down to sign in and get free disk space</string>
-  <string name="query_bind_state">Querying bind status, please wait...</string>
-  <string name="release_to_signin">Release to sign in</string>
-  <string name="rename_description">Renaming, please wait…</string>
-  <string name="rename_failed">Renaming《%1$s》failed</string>
-  <string name="restart_cleaning">Restart</string>
-  <string name="scanned">Scan completed</string>
-  <string name="scanning" formatted="false">Scanning %d app ... (total %d apps)</string>
+  <string name="pan_settting">MiDrive asetukset</string>
+  <string name="paused">Keskeytetty</string>
+  <string name="pull_to_signin">Vedä alas kirjautuaksesi sisään ja saadaksesi vapaata levytilaa</string>
+  <string name="query_bind_state">Kyselyt sitovat olotilan, odota...</string>
+  <string name="release_to_signin">Julkaise sisäänkirjautuaksesi</string>
+  <string name="rename_description">Uudelleennimeäminen, odota…</string>
+  <string name="rename_failed">Uudelleennimeäminen《%1$s》epäonnistui</string>
+  <string name="restart_cleaning">Uudelleenkäynnistä</string>
+  <string name="scanned">Tarkistus on valmis</string>
+  <string name="scanning" formatted="false">Tarkistaa %d sovellukset ... (kokonais %d sovellukset)</string>
   <string name="scanning_on_going">Skannataan...</string>
-  <string name="sd_card_available">Space available:%1$s</string>
-  <string name="sd_card_size">SD card:%1$s</string>
-  <string name="sd_full">SD card is full</string>
-  <string name="sd_size_label">SD card storage</string>
+  <string name="sd_card_available">Tilaa vapaana:%1$s</string>
+  <string name="sd_card_size">SD kortti:%1$s</string>
+  <string name="sd_full">SD kortti on täynnä</string>
+  <string name="sd_size_label">SD kortti tallennustila</string>
   <string name="search_hint">Etsi tiedostoja</string>
   <string name="search_title">Etsi tiedostoja</string>
-  <string name="send_to_midrive">Send to MiDrive</string>
-  <string name="send_to_midrive_failed_message">Failed to send to MiDrive. Content is not supported</string>
-  <string name="server_control_advanced_settings">Advanced settings</string>
-  <string name="server_control_charset">Transfer encoding</string>
-  <string name="server_control_settings">Server Settings</string>
-  <string name="share_link_failed">Generating folder external link failed</string>
-  <string name="show_message">File cannot be open without downloading</string>
+  <string name="send_to_midrive">Lähetä MiDriveen</string>
+  <string name="send_to_midrive_failed_message">Ei voitu lähettää MiDriveen. Sisältöä ei tueta</string>
+  <string name="server_control_advanced_settings">Lisäasetukset</string>
+  <string name="server_control_charset">Siirron koodaus</string>
+  <string name="server_control_settings">Palvelimen asetukset</string>
+  <string name="share_link_failed">Kansion tuottaminen, ulkoinen linkki epäonnistui</string>
+  <string name="show_message">Tiedosto ei voida avata ilman lataamista</string>
   <string name="sign_description">Kirjaudutaan sisään...</string>
-  <string name="signin_error">Network currently unavailable, please try again</string>
-  <string name="signin_success">"Sign in successful!
-Get free space %1$s"</string>
+  <string name="signin_error">Verkkoa ei tällä hetkellä saatavilla, yritä uudelleen</string>
+  <string name="signin_success">"Sisäänkirjautuminen onnistui!
+Hanki vapaata tilaa %1$s"</string>
   <string name="space_info">Network space: %1$s available，total: %2$s</string>
   <string name="space_usage">Usage</string>
   <string name="start_cleanup">Start cleanup</string>
