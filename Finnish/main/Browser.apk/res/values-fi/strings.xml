@@ -272,7 +272,7 @@
   <string name="is_page_bottom">Sivun alareunassa</string>
   <string name="is_page_top">Jo sivun yläreunassa</string>
   <string name="js_engine_flags">Aseta JS liput</string>
-  <string name="loadSuspended">"Selain ei voi ladata tätä sivu koska ei ole Internet-yhteyttä."</string>
+  <string name="loadSuspended">"Selain ei voi ladata tätä sivua koska ei ole Internet-yhteyttä."</string>
   <string name="loadSuspendedTitle">Ei yhteyttä</string>
   <string name="loading_rest_candidates">Lataa loput ehdokkaat</string>
   <string name="loading_video">Lataa video…</string>
@@ -431,7 +431,7 @@
   <string name="pref_lab_fullscreen">Kokonäyttö</string>
   <string name="pref_lab_fullscreen_summary">Käytä kokonäytöntilaa piilottaaksesi tilarivin</string>
   <string name="pref_lab_quick_controls">Nopea hallinta</string>
-  <string name="pref_lab_quick_controls_summary">Liuta peukaloa vasempaan tai oikeaan laitaan avataksesi Nopean Hallinnan ja piilottaaksesi Sovellus ja URL palkit</string>
+  <string name="pref_lab_quick_controls_summary">Liu`uta peukaloa vasempaan tai oikeaan laitaan avataksesi Nopean Hallinnan ja piilottaaksesi Sovellus ja URL palkit</string>
   <string name="pref_lab_title">Labs</string>
   <string name="pref_link_prefetch_dialogtitle">Verkkosivu latautuu etukäteen</string>
   <string name="pref_link_prefetch_summary">Salli selaimen ladata etukäteen taustalla linkitettyjä verkkosivuja</string>
