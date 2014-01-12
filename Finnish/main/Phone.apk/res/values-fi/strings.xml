@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ContactScreen">Add/Edit SIM Contact</string>
-  <string name="ExportContactScreen">Export phone contacts to SIM card</string>
-  <string name="absent_num">ABSENT NUMBER</string>
-  <string name="accessibility_call_muted">Call muted.</string>
-  <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
-  <string name="addSimEntries">Add SIM Contact</string>
-  <string name="add_button_miui">Add</string>
-  <string name="add_fdn_contact">Add fixed dialing number</string>
-  <string name="add_sip_account">Add account</string>
-  <string name="add_vm_number_str">Add number</string>
+  <string name="ContactScreen">Lisää / muokkaa SIM kortin yhteystiedot</string>
+  <string name="ExportContactScreen">Vie puhelimen yhteystiedot SIM-kortille</string>
+  <string name="absent_num">PUUTTUVA NUMERO</string>
+  <string name="accessibility_call_muted">Soitto vaimennettu.</string>
+  <string name="accessibility_speakerphone_enabled">Puhelimen kaiutin käytössä.</string>
+  <string name="addSimEntries">Lisää SIM Yhteystiedot</string>
+  <string name="add_button_miui">Lisää</string>
+  <string name="add_fdn_contact">Lisää muokattu valittava puhelinnumero</string>
+  <string name="add_sip_account">Lisää tili</string>
+  <string name="add_vm_number_str">Lisää numero</string>
   <string name="add_zero_prefix">Add 0 prefix while dialing mobile number</string>
   <string name="adding_fdn_contact">Adding fixed dialing number…</string>
   <string name="additional_cdma_call_settings">Additional CDMA call settings</string>
