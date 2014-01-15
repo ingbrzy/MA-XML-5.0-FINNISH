@@ -180,7 +180,7 @@
   <string name="assisted_gps">Käytä avustettua GPS:ää</string>
   <string name="assisted_gps_disabled">Käytä palvelinavustettua GPS:ää (Ota käyttöön parantaaksesi GPS:n tehokkuutta)</string>
   <string name="assisted_gps_enabled">Käytä palvelinavustettua GPS:ää (poista käytöstä vähentääksesi mobiiliverkon käyttöä)</string>
-  <string name="audio_record_proc_title">Taustamelun vaimennus</string>
+  <string name="audio_record_proc_title">Taustamelunvaimennus</string>
   <string name="auto_caps">Automaattiset isot kirjaimet</string>
   <string name="auto_caps_summary">Kirjoita jokaisen lauseen ensimmäinen sana isolla alkukirjaimella</string>
   <string name="auto_launch_disable_text">Oletuksia ei asetettu.</string>
@@ -202,9 +202,9 @@
   <string name="available_size">%s saatavilla</string>
   <string name="awake">Laitteen hereilläoloaika</string>
   <string name="back_key">Takaisin nappi</string>
-  <string name="background_data">Taustadata</string>
-  <string name="background_data_dialog_message">Poistamalla taustadatan käytöstä pidennät akun kestoa ja vähennät datan käyttöä. Jotkin sovellut voivat silti käyttää taustadata-yhteyttä.</string>
-  <string name="background_data_dialog_title">Poista taustadata käytöstä?</string>
+  <string name="background_data">Taustatiedonsiirto</string>
+  <string name="background_data_dialog_message">Poistamalla taustatiedonsiirron käytöstä pidennät akun kestoa ja vähennät datan käyttöä. Jotkin sovellut voivat silti käyttää taustatiedonsiirtoyhteyttä.</string>
+  <string name="background_data_dialog_title">Poista taustatiedonsiirto käytöstä?</string>
   <string name="background_data_summary">Sovellukset voivat synkronoida, lähettää ja vastaanottaa dataa koska tahansa</string>
   <string name="background_process_stop_description">"Tämä on vanha sovellusprosessi, joka on käynnissä siltä varalta, että sitä tarvitaan uudelleen. Sen pysäyttäminen ei ole yleensä tarpeen."</string>
   <string name="backup_configure_account_default_summary">Tilejä ei varmuuskopioida tällä hetkellä</string>
@@ -373,8 +373,7 @@
   <string name="bluetooth_enter_passkey_msg">"Luodaksesi laiteparin laitteen:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;kanssa, kirjoita laitteen pyytämä salausavain:"</string>
   <string name="bluetooth_enter_passkey_other_device">Saatat joutua kirjoittamaan tämän salausavaimen myös toiseen laitteeseen.</string>
   <string name="bluetooth_enter_pin_msg">"Luodaksesi laiteparin laitteen:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;kanssa, kirjoita laitteen pyytämä PIN:"</string>
-  <string name="bluetooth_enter_pin_msg_hs">"
-Kirjoita PIN luodaksesi laiteparin laitteen \"%1$s\" kanssa. [Korkea turvataso käytössä: Tarvitsee 16 merkkisen avaimen]"</string>
+  <string name="bluetooth_enter_pin_msg_hs">"Kirjoita PIN luodaksesi laiteparin laitteen \"%1$s\" kanssa. [Korkea turvataso käytössä: Tarvitsee 16 merkkisen avaimen]"</string>
   <string name="bluetooth_enter_pin_other_device">Saatat joutua kirjoittamaan tämän PIN-koodin myös toiseen laitteeseen.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s haluaisi pääsyn tiedostoihisi ja kansioihisi. Annetaanko lupa laitteelle %2$s?</string>
@@ -521,7 +520,7 @@ Kirjoita PIN luodaksesi laiteparin laitteen \"%1$s\" kanssa. [Korkea turvataso k
   <string name="cancel_button">Peruuta</string>
   <string name="cancel_optimize">Peruuta</string>
   <string name="cancel_scan">Peruuta</string>
-  <string name="cant_sync_dialog_message">Tämän kohteen synkronointi on tällä hetkellä pois käytöstä. Muuttaaksesi tätä asetusta, ota taustadata ja automaattinen synkronointi käyttöön väliaikaisesti.</string>
+  <string name="cant_sync_dialog_message">Tämän kohteen synkronointi on tällä hetkellä pois käytöstä. Muuttaaksesi tätä asetusta, ota taustatiedonsiirto ja automaattinen synkronointi käyttöön väliaikaisesti.</string>
   <string name="cant_sync_dialog_title">"Ei voida synkronoida manuaalisesti"</string>
   <string name="carrier_enabled">APN päällä/pois päältä</string>
   <string name="carrier_enabled_summaryOff">APN pois päältä</string>
@@ -598,18 +597,14 @@ Kirjoita PIN luodaksesi laiteparin laitteen \"%1$s\" kanssa. [Korkea turvataso k
   <string name="crypt_keeper_button_text">Salaa puhelin</string>
   <string name="crypt_keeper_confirm_title">Salataanko?</string>
   <string name="crypt_keeper_cooldown">Uudelleenyritys ^1 sekunnissa.</string>
-  <string name="crypt_keeper_desc">"Voit salata tilisi, asetukset, ladatut sovellukset ja niiden tiedot, mediaa, ja muita tiedostoja. Salauksen jälkeen sinun täytyy syöttää PIN-koodi tai salasana puhelimen käynnistyessä avataksesi salauksen. Muulla tavalla salausta ei voida purkaa, paitsi suorittamalla tehdasasetusten palautuksen, tämä poistaa kaikki tiedot puhelimesta.
-
-Salaus voi kestää yli tunnin. Käynnistä salaus täydellä akulla ja pidä puhelin latauksessa kunnes salaus on valmis. Jos salausprosessi keskeytyy, saatat menettää osan tai kaikki tiedot puhelimesta."</string>
+  <string name="crypt_keeper_desc">"Voit salata tilisi, asetukset, ladatut sovellukset ja niiden tiedot, mediaa, ja muita tiedostoja. Salauksen jälkeen sinun täytyy syöttää PIN-koodi tai salasana puhelimen käynnistyessä avataksesi salauksen. Muulla tavalla salausta ei voida purkaa, paitsi suorittamalla tehdasasetusten palautuksen, tämä poistaa kaikki tiedot puhelimesta. Salaus voi kestää yli tunnin. Käynnistä salaus täydellä akulla ja pidä puhelin latauksessa kunnes salaus on valmis. Jos salausprosessi keskeytyy, saatat menettää osan tai kaikki tiedot puhelimesta."</string>
   <string name="crypt_keeper_dialog_need_password_message">Lukitusnäytön PIN-koodi tai salasana täytyy asettaa ennen kuin salaus voidaan aloittaa.</string>
   <string name="crypt_keeper_dialog_need_password_title">Ei lukitusnäytön PIN-koodia tai salasanaa</string>
   <string name="crypt_keeper_encrypt_summary">Vaadi PIN-koodi tai salasana puhelimen käynnistyessä avataksesi salauksen</string>
   <string name="crypt_keeper_encrypt_title">Salaa puhelin</string>
   <string name="crypt_keeper_encrypted_summary">Salattu</string>
   <string name="crypt_keeper_enter_password">Kirjoita salasana</string>
-  <string name="crypt_keeper_failed_summary">"Salausprosessi keskeytyi ja sitä ei voitu suorittaa loppuun. Tämän seurauksena puhelimen tiedot eivät ole enään käytettävissä. 
-
-Jatkaaksesi puhelimen käyttöä, tehdasasetusten palautus pitää suorittaa. Kun määrität puhelimen palautuksen jälkeen, sinulla on mahdollisuus palauttaa kaikki tiedot jotka on varmuuskopioitu Google-tilillesi."</string>
+  <string name="crypt_keeper_failed_summary">"Salausprosessi keskeytyi ja sitä ei voitu suorittaa loppuun. Tämän seurauksena puhelimen tiedot eivät ole enään käytettävissä. Jatkaaksesi puhelimen käyttöä, tehdasasetusten palautus pitää suorittaa. Kun määrität puhelimen palautuksen jälkeen, sinulla on mahdollisuus palauttaa kaikki tiedot jotka on varmuuskopioitu Google-tilillesi."</string>
   <string name="crypt_keeper_failed_title">Salaus epäonnistui</string>
   <string name="crypt_keeper_final_desc">"Salausprosessia ei voi peruuttaa, ja jos keskeytät sen, menetät tietoja. Salaus kestää vähintään tunnin, jonka aikana puhelin käynnistyy uudelleen useita kertoja."</string>
   <string name="crypt_keeper_low_charge_text">Lataa akku ja yritä uudelleen.</string>
@@ -629,19 +624,13 @@ Jatkaaksesi puhelimen käyttöä, tehdasasetusten palautus pitää suorittaa. Ku
   <string name="data_usage_app_restrict_background">Rajoita taustatiedonsiirtoa</string>
   <string name="data_usage_app_restrict_background_summary">Poista taustatiedonsiirto käytöstä mobiiliverkossa. Ei-mobiiliverkoissa taustatiedonsiirto on käytössä.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Rajoittaaksesi sovelluksen taustatiedonsiirtoa, aseta ensin mobiilitiedonsiirtoraja.</string>
-  <string name="data_usage_app_restrict_dialog">"Tämä ominaisuus saattaa estää taustatiedonsiirrosta riippuvaisen sovelluksen toiminnan jos käytössä on vain mobiiliverkkoja.
-
-Voit säätää tiedonsiirron asetuksia tarkemmin sovelluksen asetuksista."</string>
+  <string name="data_usage_app_restrict_dialog">"Tämä ominaisuus saattaa estää taustatiedonsiirrosta riippuvaisen sovelluksen toiminnan jos käytössä on vain mobiiliverkkoja. Voit säätää tiedonsiirron asetuksia tarkemmin sovelluksen asetuksista."</string>
   <string name="data_usage_app_restrict_dialog_title">Rajoitetaanko taustatiedonsiirtoa?</string>
   <string name="data_usage_app_restricted">Rajoitettu</string>
   <string name="data_usage_app_settings">Näytä sovelluksen asetukset</string>
   <string name="data_usage_auto_sync_off_dialog">"Tämä säästää datan ja akun käyttöä, mutta sinun täytyy synkronoida jokainen tili manuaalisesti saadaksesi viimeisimmät tiedot. Et myöskään saa ilmoituksia, kun päivityksiä tulee saataville."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Poista automaattisen synkronoinnin tiedonsiirto käytöstä?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Kaikki muutokset, joita teet tileillesi verkkosivuilla, kopioidaan automaattisesti puhelimeen.
-
-Jotkut tilit voivat myös kopioida automaattisesti kaikki tekemäsi muutokset puhelimesta verkkosivuille. Google-tili toimii tällä tavalla.
-
-Voit valita mitä tietoja synkronoidaan millekin tilille, avaamalla Asetukset &gt; Tilit."</string>
+  <string name="data_usage_auto_sync_on_dialog">"Kaikki muutokset, joita teet tileillesi verkkosivuilla, kopioidaan automaattisesti puhelimeen. Jotkut tilit voivat myös kopioida automaattisesti kaikki tekemäsi muutokset puhelimesta verkkosivuille. Google-tili toimii tällä tavalla. Voit valita mitä tietoja synkronoidaan millekin tilille, avaamalla Asetukset &gt; Tilit."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Otetaanko automaattisen synkronoinnin tiedonsiirto käyttöön?</string>
   <string name="data_usage_change_cycle">Vaihda jaksoa…</string>
   <string name="data_usage_cycle">Tietojenkäytön jakso</string>
@@ -900,9 +889,7 @@ Voit valita mitä tietoja synkronoidaan millekin tilille, avaamalla Asetukset &g
   <string name="enable_traces_summary_none">Ei jälkiä käytössä tällä hetkellä</string>
   <string name="enable_traces_summary_num">%1$d jälkeä käytössä tällä hetkellä</string>
   <string name="enable_traces_title">Ota jäljet käyttöön</string>
-  <string name="enforce_read_external_confirm_message">"Kun USB-varasto on suojattuna, sovellusten täytyy pyytää lupa lukeakseen tietoja ulkoiselta muistilta.
-
-Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät ovat päivittäneet sovelluksen."</string>
+  <string name="enforce_read_external_confirm_message">"Kun USB-varasto on suojattuna, sovellusten täytyy pyytää lupa lukeakseen tietoja ulkoiselta muistilta. Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät ovat päivittäneet sovelluksen."</string>
   <string name="enforce_read_external_confirm_title">Suojaa USB-varasto?</string>
   <string name="enforce_read_external_summary">Sovellusten täytyy pyytää lupa lukeakseen USB-varastoa</string>
   <string name="enforce_read_external_title">Suojaa USB-varasto</string>
@@ -1049,7 +1036,7 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="header_category_personal">HENKILÖKOHTAINEN</string>
   <string name="header_category_system">JÄRJESTELMÄ</string>
   <string name="header_category_wireless_networks">YHTEYDET &amp; VERKOT</string>
-  <string name="header_data_and_synchronization">Data &amp; synchronization</string>
+  <string name="header_data_and_synchronization">Tiedot &amp; synkronointi</string>
   <string name="headset_calibrate">Kalibroi painikkeet buttons</string>
   <string name="headset_calibrate_apply">Käytä</string>
   <string name="headset_calibrate_confirm">Tallennetaanko uudet kalibroinnin asetukset?</string>
@@ -1109,24 +1096,24 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="install_unknown_applications">Salli tuntemattomista lähteistä tulevien sovelluksien asentaminen</string>
   <string name="insufficient_storage">Ei riittävästi tallennustilaa.</string>
   <string name="intent_sender_account_label">Tili:</string>
-  <string name="intent_sender_action_label">Action:</string>
-  <string name="intent_sender_data_label">Data:</string>
-  <string name="intent_sender_resource_label">Resource:</string>
+  <string name="intent_sender_action_label">Toiminta:</string>
+  <string name="intent_sender_data_label">Tieto:</string>
+  <string name="intent_sender_resource_label">Resurssi:</string>
   <string name="intent_sender_sendbroadcast_text">Send broadcast</string>
-  <string name="intent_sender_startactivity_text">Start activity</string>
-  <string name="internal_format">Erase Internal storage</string>
-  <string name="internal_format_summary">Erases all data on the internal storage, such as music and photos</string>
-  <string name="internal_media_format_button_text">Erase Internal storage</string>
-  <string name="internal_media_format_desc">Erase all Internal storage? You will lose </string>
-  <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after Internel storage is erased!"</string>
+  <string name="intent_sender_startactivity_text">Aloita toiminta</string>
+  <string name="internal_format">Tyhjennä sisäinen muisti</string>
+  <string name="internal_format_summary">Tyhjentää kaiken tiedon sisäiseltä muistilta, kuten musiikit ja kuvat</string>
+  <string name="internal_media_format_button_text">Tyhjennä sisäinen muisti</string>
+  <string name="internal_media_format_desc">Tyhjennä kaikki sisäiseltä muistilta? Tulet menettämään </string>
+  <string name="internal_media_format_final_desc">"Tyhjennä sisäinen muisti, poistaen kaikki sisältyvät tiedostot? Tätä toimintoa ei voi kumota! Puhelin käynnistyy uudelleen tyhjennyksen jälkeen!"</string>
   <string name="internal_media_format_title">Tyhjennä sisäinen muisti</string>
   <string name="internal_memory">Sisäinen muisti</string>
   <string name="internal_storage">Järjestelmän muisti</string>
   <string name="invalid_location">"Asennussijainti ei kelvollinen."</string>
-  <string name="invalid_size_value">"Couldn't compute package size."</string>
+  <string name="invalid_size_value">"Pakkauskokoa ei voitu laskea."</string>
   <string name="ipaddr_label">IPaddr:</string>
-  <string name="item_app_permission">App permissions</string>
-  <string name="item_install_monitor">Install monitor</string>
+  <string name="item_app_permission">Sovelluksen käyttöoikeudet</string>
+  <string name="item_install_monitor">Asenna seuranta</string>
   <string name="item_mms">Suodata ei-toivotut viestit</string>
   <string name="item_usb_debug">USB-vianetsintä</string>
   <string name="item_virus">Virus</string>
@@ -1168,280 +1155,253 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="led_frequence_summary">Aseta LED-valon vilkkumisen välinen aika</string>
   <string name="led_pulse_summary">Kun uusi ilmoitus vastaanotetaan, vilkuta LED-valoa pulssimaisesti</string>
   <string name="led_settings">LED</string>
-  <string name="legal_information">Legal information</string>
-  <string name="license_title">License</string>
-  <string name="link_speed_label">Link speed:</string>
-  <string name="local_backup_password_summary_change">Touch to change or remove the password for desktop full backups</string>
-  <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>
-  <string name="local_backup_password_title">Desktop backup password</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
-  <string name="local_backup_password_toast_success">New backup password set</string>
-  <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-  <string name="location_gps">GPS satellites</string>
-  <string name="location_neighborhood_level">Allow anonymous location data to be sent to Google. Also allow permitted apps to use data from sources such as Wi-Fi and mobile networks to determine your approximate location.</string>
-  <string name="location_neighborhood_level_wifi">Location determined by Wi-Fi</string>
-  <string name="location_network_based">"Google's location service"</string>
-  <string name="location_settings_title">Location services</string>
-  <string name="location_street_level">Let apps use GPS to pinpoint your location</string>
-  <string name="location_title">Minun sijainti</string>
-  <string name="lock_after_timeout">Lukitse itsekseen</string>
-  <string name="lock_after_timeout_summary">%1$s näytön sammumisen jälkeen</string>
-  <string name="lock_intro_message">"Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
-
-Ready to start? Touch Next."</string>
-  <string name="lock_screen_unlock_show">Disable swipe screen</string>
+  <string name="legal_information">Oikeudellisia tietoja</string>
+  <string name="license_title">Lisenssi</string>
+  <string name="link_speed_label">Yhteysnopeus:</string>
+  <string name="local_backup_password_summary_change">Kosketa muuttaaksesi tai poistaaksesi salasanan työpöydän täydeltä varmuuskopioinnilta</string>
+  <string name="local_backup_password_summary_none">"Työpöydän täysi varmuuskopiointi ei ole tällä hetkellä suojattu"</string>
+  <string name="local_backup_password_title">Työpöydän varmuuskopioinnin salasana</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">"Uusi ja varmistettu salasana ei täsmää"</string>
+  <string name="local_backup_password_toast_success">Uusi varmuuskopioinnin salasana asetettu</string>
+  <string name="local_backup_password_toast_validation_failure">Virhe asetettaessa varmuuskopioinnin salasanaa</string>
+  <string name="location_gps">GPS-satelliitit</string>
+  <string name="location_neighborhood_level">Salli nimettömien paikkatietojen lähetys Googlelle. Salli myös sovellusten arvioida sijaintisi Wi-Fi ja mobiiliverkkojen avulla.</string>
+  <string name="location_neighborhood_level_wifi">Sijainti määritetty Wi-Fi:n mukaan</string>
+  <string name="location_network_based">"Googlen sijaintipalvelu"</string>
+  <string name="location_settings_title">Sijaintipalvelut</string>
+  <string name="location_street_level">Anna sovellusten käyttää GPS:ää sijainnin paikantamiseen</string>
+  <string name="location_title">Oma sijainti</string>
+  <string name="lock_after_timeout">Lukitse automaattisesti</string>
+  <string name="lock_after_timeout_summary">%1$s lukituksen jälkeen</string>
+  <string name="lock_intro_message">"Suojaa puhelin luvattomalta käytöltä luomalla henkilökohtainen näytön lukituksenpoistokuvio. Liu'uta sormea ja yhdistä vähintään neljä pistettä halutussa järjestyksessä seuraavassa näytössä. Valmis aloittamaan? Kosketa Seuraava."</string>
+  <string name="lock_screen_unlock_show">Poista näytön pyyhkäisy käytöstä</string>
   <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
-  <string name="lock_settings_common_title">Lock settings</string>
-  <string name="lock_settings_picker_settings">Set screen lock</string>
-  <string name="lock_settings_picker_title">Choose screen lock</string>
-  <string name="lock_settings_title">Screen security</string>
-  <string name="lock_setup">Setup is complete.</string>
-  <string name="lock_sounds_enable_title">Screen lock sound</string>
-  <string name="lock_title">Securing your phone</string>
+  <string name="lock_settings_common_title">Lukitusasetukset</string>
+  <string name="lock_settings_picker_settings">Aseta ruudunlukitus</string>
+  <string name="lock_settings_picker_title">Valitse ruudunlukitus</string>
+  <string name="lock_settings_title">Ruudun suojaus</string>
+  <string name="lock_setup">Asetus valmis.</string>
+  <string name="lock_sounds_enable_title">Ruudunlukitusääni</string>
+  <string name="lock_title">Suojataan puhelinta</string>
   <string name="lockpassword_cancel_label">Peruuta</string>
-  <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
-  <string name="lockpassword_choose_your_password_header">Choose your password</string>
-  <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
-  <string name="lockpassword_choose_your_pin_header">Choose your PIN</string>
-  <string name="lockpassword_confirm_passwords_dont_match">"Passwords don't match"</string>
-  <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
-  <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
-  <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
-  <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
+  <string name="lockpassword_choose_lock_generic_header">Avauksen valinta</string>
+  <string name="lockpassword_choose_your_password_header">Valitse salasana</string>
+  <string name="lockpassword_choose_your_pattern_header">Valitse kuvio</string>
+  <string name="lockpassword_choose_your_pin_header">Valitse PIN-koodi</string>
+  <string name="lockpassword_confirm_passwords_dont_match">"Salasanat ei täsmää"</string>
+  <string name="lockpassword_confirm_pins_dont_match">"PIN-koodit ei täsmää"</string>
+  <string name="lockpassword_confirm_your_password_header">Vahvista salasana</string>
+  <string name="lockpassword_confirm_your_pattern_header">Vahvista kuvio</string>
+  <string name="lockpassword_confirm_your_pin_header">Vahvista PIN-koodi</string>
   <string name="lockpassword_continue_label">Jatka</string>
-  <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
+  <string name="lockpassword_illegal_character">Salasana sisältää epäkelvon merkin.</string>
   <string name="lockpassword_ok_label">OK</string>
-  <string name="lockpassword_password_recently_used">"Device administrator doesn't allow using a recent password."</string>
-  <string name="lockpassword_password_requires_alpha">Password must contain at least one letter.</string>
-  <string name="lockpassword_password_requires_digit">Password must contain at least one digit.</string>
-  <string name="lockpassword_password_requires_symbol">Password must contain at least one symbol.</string>
-  <string name="lockpassword_password_set_toast">Password has been set</string>
-  <string name="lockpassword_password_too_long">Password must be fewer than %d characters.</string>
-  <string name="lockpassword_password_too_short">Password must be at least %d characters</string>
-  <string name="lockpassword_pattern_set_toast">Pattern has been set</string>
-  <string name="lockpassword_pin_contains_non_digits">PIN must contain only digits 0-9.</string>
-  <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow using a recent PIN."</string>
-  <string name="lockpassword_pin_set_toast">PIN has been set</string>
-  <string name="lockpassword_pin_too_long">PIN must be fewer than %d digits.</string>
-  <string name="lockpassword_pin_too_short">PIN must be at least %d digits</string>
-  <string name="lockpassword_press_continue">Touch Continue when done</string>
-  <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
-  <string name="lockpattern_change_lock_pin_label">Change PIN</string>
-  <string name="lockpattern_confirm_button_text">Confirm</string>
+  <string name="lockpassword_password_recently_used">"Laitteen ylläpitäjä ei salli edellistä salasanaa."</string>
+  <string name="lockpassword_password_requires_alpha">Salasanan pitää sisältää vähintään yksi kirjain.</string>
+  <string name="lockpassword_password_requires_digit">Salasanan pitää sisältää vähintään yksi numero.</string>
+  <string name="lockpassword_password_requires_symbol">Salasanan pitää sisältää vähintään yksi symboli.</string>
+  <string name="lockpassword_password_set_toast">Salasana asetettu</string>
+  <string name="lockpassword_password_too_long">Salasanan oltava alle %d merkkiä pitkä.</string>
+  <string name="lockpassword_password_too_short">Salasanassa on oltava vähintään %d merkkiä</string>
+  <string name="lockpassword_pattern_set_toast">Kuvio asetettu</string>
+  <string name="lockpassword_pin_contains_non_digits">PIN-koodiin hyväksytään vain numerot (0-9).</string>
+  <string name="lockpassword_pin_recently_used">"Laitteen ylläpitäjä ei salli edellistä PIN-koodia."</string>
+  <string name="lockpassword_pin_set_toast">PIN-koodi asetettu</string>
+  <string name="lockpassword_pin_too_long">PIN-koodissa oltava alle %d numeroa.</string>
+  <string name="lockpassword_pin_too_short">PIN-koodissa oltava vähintään %d numeroa</string>
+  <string name="lockpassword_press_continue">Kosketa Jatka kun olet valmis</string>
+  <string name="lockpattern_change_lock_pattern_label">Vaihda avauskuvio</string>
+  <string name="lockpattern_change_lock_pin_label">Vaihda PIN-koodi</string>
+  <string name="lockpattern_confirm_button_text">Hyväksy</string>
   <string name="lockpattern_continue_button_text">Jatka</string>
-  <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
-  <string name="lockpattern_need_to_unlock">Varmista tallennettu kuvio</string>
+  <string name="lockpattern_need_to_confirm">Piirrä kuvio uudelleen hyväksyäksesi</string>
+  <string name="lockpattern_need_to_unlock">Hyväksy tallennettu kuvio</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Yritä uudelleen</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern</string>
-  <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
-  <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>
-  <string name="lockpattern_recording_inprogress">Release finger when done</string>
-  <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
-  <string name="lockpattern_recording_intro_header">Draw an unlock pattern. Please connect at least 4 points.</string>
-  <string name="lockpattern_restart_button_text">Redraw</string>
-  <string name="lockpattern_retry_button_text">Retry</string>
-  <string name="lockpattern_settings_change_lock_pattern">Change unlock pattern</string>
-  <string name="lockpattern_settings_choose_lock_pattern">Set unlock pattern</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Power button instantly locks</string>
-  <string name="lockpattern_settings_enable_summary">Must draw pattern to unlock screen</string>
-  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrate on touch</string>
-  <string name="lockpattern_settings_enable_title">Require pattern</string>
-  <string name="lockpattern_settings_enable_visible_pattern_title">Make pattern visible</string>
-  <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
-  <string name="lockpattern_settings_title">Unlock pattern</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
+  <string name="lockpattern_pattern_confirmed_header">Uusi avauskuviosi</string>
+  <string name="lockpattern_pattern_entered_header">Kuvio tallennettu</string>
+  <string name="lockpattern_recording_incorrect_too_short">Yhdistä vähintään %d pistettä. Yritä uudelleen:</string>
+  <string name="lockpattern_recording_inprogress">Nosta sormi kun olet valmis</string>
+  <string name="lockpattern_recording_intro_footer">Apua Menu-näppäimellä.</string>
+  <string name="lockpattern_recording_intro_header">Piirrä avauskuvio. Yhdistä vähintään 4 pistettä.</string>
+  <string name="lockpattern_restart_button_text">Piirrä uudelleen</string>
+  <string name="lockpattern_retry_button_text">Yritä uudelleen</string>
+  <string name="lockpattern_settings_change_lock_pattern">Vaihda avauskuvio</string>
+  <string name="lockpattern_settings_choose_lock_pattern">Aseta avauskuvio</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Virtapainike lukitsee välittömästi</string>
+  <string name="lockpattern_settings_enable_summary">Avauskuvion piirtäminen vaaditaan puhelimen avaukseen</string>
+  <string name="lockpattern_settings_enable_tactile_feedback_title">Värinä koskettaessa</string>
+  <string name="lockpattern_settings_enable_title">Vaadi kuvio</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title">Näytä kuvio</string>
+  <string name="lockpattern_settings_help_how_to_record">Kuinka avauskuvio piirretään</string>
+  <string name="lockpattern_settings_title">Avauskuvio</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Yritä uudelleen %d sekunnin jälkeen.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Liian monta väärää yritystä!</string>
   <string name="lockpattern_tutorial_cancel_label">Peruuta</string>
   <string name="lockpattern_tutorial_continue_label">Seuraava</string>
   <string name="log_count">(%d)</string>
-  <string name="lte_ram_dump_off">Turn off lte ram dump</string>
-  <string name="lte_ram_dump_on">Turn on lte ram dump</string>
-  <string name="macaddr_label">MAC addr:</string>
-  <string name="main_running_process_description">Main process in use.</string>
-  <string name="man_add_application">Manually add auto start apps</string>
-  <string name="manage_device_admin">Device administrators</string>
-  <string name="manage_device_admin_summary">View or deactivate device administrators</string>
-  <string name="manage_space_text">Manage space</string>
-  <string name="manageapplications_settings_summary">Manage and remove installed apps</string>
-  <string name="manageapplications_settings_title">Manage apps</string>
+  <string name="lte_ram_dump_off">Sammuta lte ram dump</string>
+  <string name="lte_ram_dump_on">Kytke lte ram dump</string>
+  <string name="macaddr_label">MAC-osoite:</string>
+  <string name="main_running_process_description">Pääprosessi käytössä.</string>
+  <string name="man_add_application">Lisää automaattisesti käynnistyvät sovellukset manuaalisesti</string>
+  <string name="manage_device_admin">Laitteen ylläpitäjät</string>
+  <string name="manage_device_admin_summary">Tarkastele tai poista laitteen ylläpitäjiä</string>
+  <string name="manage_space_text">Tilan hallinta</string>
+  <string name="manageapplications_settings_summary">Hallitse ja poista asennettuja sovelluksia</string>
+  <string name="manageapplications_settings_title">Hallitse sovelluksia</string>
   <string name="manually_add_network">Lisää verkko</string>
-  <string name="mark_number_dialog_maintitle">Block and report number</string>
-  <string name="mark_number_dialog_subtitle">Developed in conjunction with Sogou</string>
-  <string name="master_clear_accounts">"
-
-You are currently signed into the following accounts:
-"</string>
-  <string name="master_clear_all">"Are you sure you want to erase all data and reset to factory settings?
-Attention: this operation cannot be undone."</string>
+  <string name="mark_number_dialog_maintitle">Estä ja raportoi numero</string>
+  <string name="mark_number_dialog_subtitle">Kehitetty yhteistyössä Sogou:n kanssa</string>
+  <string name="master_clear_accounts">"Olet tällä hetkellä kirjautuneena seuraaville tileille:"</string>
+  <string name="master_clear_all">"Haluatko varmasti poistaa kaikki tiedot ja palauttaa tehdasasetukset? Huomio: Tätä toimintoa ei voi kumota."</string>
   <string name="master_clear_button_text">Palauta tehdasasetukset</string>
-  <string name="master_clear_confirm_title">Reset?</string>
-  <string name="master_clear_desc">"This will erase all data from your phone's "&lt;b&gt;internal storage&lt;/b&gt;", including:
-
-"&lt;li&gt;Your Google account&lt;/li&gt;"
-"&lt;li&gt;System and app data and settings&lt;/li&gt;"
-"&lt;li&gt;Downloaded apps&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Music&lt;/li&gt;"
-"&lt;li&gt;Photos&lt;/li&gt;"
-"&lt;li&gt;Other user data&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">"
-
-To clear music, pictures, and other user data, the "</string>
-  <string name="master_clear_erase_application_progress">Erasing applications...</string>
-  <string name="master_clear_failed">"No reset was performed because the System Clear service isn't available."</string>
-  <string name="master_clear_final_button_text">Erase everything</string>
-  <string name="master_clear_final_desc">"Erase all your personal information and downloaded apps? You can't reverse this action!"</string>
-  <string name="master_clear_gesture_explanation">You need to draw your unlock pattern to confirm a factory data reset.</string>
-  <string name="master_clear_gesture_prompt">Draw your unlock pattern</string>
-  <string name="master_clear_personal_data">"Are you sure you want to erase your personal data?
-Attention: this operation cannot be undone."</string>
-  <string name="master_clear_personal_data_application">"Are you sure you want to erase your personal data and installed applications？
-Attention: this operation cannot be undone."</string>
-  <string name="master_clear_personal_data_sdcard">"Are you sure you want to erase your personal data and format sdcard？
-Attention: this operation cannot be undone."</string>
-  <string name="master_clear_summary">Erases all data on phone</string>
+  <string name="master_clear_confirm_title">Palauta?</string>
+  <string name="master_clear_desc">"Tämä poistaa kaikki tiedot puhelimen "&lt;b&gt;sisäiseltä muistilta&lt;/b&gt;", sisältäen: "&lt;li&gt;Google tilisi&lt;/li&gt;" "&lt;li&gt;Järjestelmän ja sovellusten tiedot ja asetukset&lt;/li&gt;" "&lt;li&gt;Ladatut sovellukset&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Musiikit&lt;/li&gt;" "&lt;li&gt;Kuvat&lt;/li&gt;" "&lt;li&gt;Muut käyttäjätiedot&lt;/li&gt;</string>
+  <string name="master_clear_desc_erase_external_storage">"Puhdistaaksesi musiikit, kuvat ja muut käyttäjätiedot, "</string>
+  <string name="master_clear_erase_application_progress"Poistetaan sovelluksia...</string>
+  <string name="master_clear_failed">"Palautusta ei suoritettu koska Järjestelmän puhdistuspalvelu ei ole käytettävissä."</string>
+  <string name="master_clear_final_button_text">Poista kaikki</string>
+  <string name="master_clear_final_desc">"Poista kaikki henkilökohtaiset tiedot ja ladatut sovellukset? Tätä toimintoa ei voi kumota!"</string>
+  <string name="master_clear_gesture_explanation">Avauskuvion piirtäminen vaaditaan hyväksyäksesi tehdasasetusten palautuksen.</string>
+  <string name="master_clear_gesture_prompt">Piirrä avauskuvio</string>
+  <string name="master_clear_personal_data">"Haluatko varmasti poistaa henkilökohtaiset tiedot? Huomio: Tätä toimintoa ei voi kumota."</string>
+  <string name="master_clear_personal_data_application">"Haluatko varmasti poistaa henkilökohtaiset tiedot ja asennetut sovellukset? Huomio: Tätä toimintoa ei voi kumota."</string>
+  <string name="master_clear_personal_data_sdcard">"Haluatko varmasti poistaa henkilökohtaiset tiedot ja alustaa muistikortin? Huomio: Tätä toimintoa ei voi kumota."</string>
+  <string name="master_clear_summary">Poistaa kaikki tiedot puhelimesta</string>
   <string name="master_clear_title">Tehdasasetusten palautus</string>
-  <string name="media_button">Media button</string>
-  <string name="media_format_button_text">Erase USB storage</string>
-  <string name="media_format_desc">Erase all USB storage? You will lose </string>
-  <string name="media_format_final_button_text">Erase everything</string>
-  <string name="media_format_final_desc">"Erase the USB storage, deleting all files stored there? You can't reverse this action!"</string>
-  <string name="media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the USB storage.</string>
-  <string name="media_format_gesture_prompt">Draw your unlock pattern</string>
+  <string name="media_button">Media-painike</string>
+  <string name="media_format_button_text">Tyhjennä USB-muisti</string>
+  <string name="media_format_desc">Tyhjennä kaikki USB-muistilta? Tulet menettämään </string>
+  <string name="media_format_final_button_text">Poista kaikki</string>
+  <string name="media_format_final_desc">"Tyhjennetäänkö USB-muisti, poistaen kaikki sen sisältämät tiedostot? Tätä toimintoa ei voi kumota!"</string>
+  <string name="media_format_gesture_explanation">Avauskuvion piirtäminen vaaditaan hyväksyäksesi USB-muistin tyhjennyksen.</string>
+  <string name="media_format_gesture_prompt">Piirrä avauskuvio</string>
   <string name="media_format_summary">Erases all data in USB storage</string>
-  <string name="media_format_title">Erase USB storage</string>
-  <string name="media_volume_summary">Set volume for music and videos</string>
+  <string name="media_format_title">Tyhjennä USB-muisti</string>
+  <string name="media_volume_summary">Aseta äänenvoimakkuus musiikille ja videoille</string>
   <string name="media_volume_title">Media</string>
-  <string name="medium_font">Medium</string>
-  <string name="mem_lock">Lukko</string>
-  <string name="mem_unlock">Unlock</string>
-  <string name="member_firewall_log" formatted="false">Blocked: Number%d, details%d</string>
+  <string name="medium_font">Keskikoko</string>
+  <string name="mem_lock">Lukitse</string>
+  <string name="mem_unlock">Avaa</string>
+  <string name="member_firewall_log" formatted="false">Estetty: Number%d, details%d</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Apps (app data &amp; media content)</string>
-  <string name="memory_available">Available</string>
-  <string name="memory_calculating_size">Calculating…</string>
-  <string name="memory_dcim_usage">Pictures, videos</string>
-  <string name="memory_downloads_usage">Downloads</string>
-  <string name="memory_media_misc_usage">Misc.</string>
+  <string name="memory_apps_usage">Sovellukset (Sovellusten tiedot &amp; mediasisältö)</string>
+  <string name="memory_available">Käytettävissä</string>
+  <string name="memory_calculating_size">Lasketaan…</string>
+  <string name="memory_dcim_usage">Kuvat, videot</string>
+  <string name="memory_downloads_usage">Lataukset</string>
+  <string name="memory_media_misc_usage">Muut</string>
   <string name="memory_media_usage">Media</string>
-  <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
-  <string name="memory_size">Total space</string>
-  <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
-  <string name="menu_cancel">Discard</string>
+  <string name="memory_music_usage">Äänet (musiikki, soittoäänet, podcastit, jne.)</string>
+  <string name="memory_size">Tallennustilaa yhteensä</string>
+  <string name="memory_title">Käytettävissä %1$s\u0009\u0009Yhteensä %2$s</string>
+  <string name="menu_cancel">Hylkää</string>
   <string name="menu_delete">Poista APN</string>
   <string name="menu_edit">Muokkaa</string>
-  <string name="menu_item_about_content">Security: %s</string>
+  <string name="menu_item_about_content">Suojaus: %s</string>
   <string name="menu_item_about_title">Tietoa</string>
-  <string name="menu_key">Menu key</string>
-  <string name="menu_new">New APN</string>
+  <string name="menu_key">Menu-näppäin</string>
+  <string name="menu_new">Uusi APN</string>
   <string name="menu_restore">Palauta oletukset</string>
   <string name="menu_save">Tallenna</string>
-  <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
+  <string name="menu_stats_last_unplugged">Kun viimeksi irrotettu %1$s</string>
   <string name="menu_stats_refresh">Päivitä</string>
-  <string name="menu_stats_total">Usage totals</string>
-  <string name="menu_stats_unplugged">%1$s since unplugged</string>
-  <string name="misc_files">Misc files</string>
-  <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
-  <string name="miui_screensaver_show_time">Duration</string>
-  <string name="miui_screensaver_show_time_select_title">Set duration</string>
-  <string name="miui_screensaver_state_off">Off</string>
-  <string name="miui_screensaver_state_on">On</string>
-  <string name="miui_screensaver_title">Screensaver</string>
-  <string name="miui_screensaver_usage">Once activated, pictures in the screensaver album will be shown repeately 5 seconds after the screen turns off.</string>
-  <string name="mms_log_tab_title">Message log</string>
-  <string name="mms_vibrate_abbreviation">"Messages "</string>
-  <string name="model_number">Model Number</string>
+  <string name="menu_stats_total">Käyttö yhteensä</string>
+  <string name="menu_stats_unplugged">%1$s irrotuksen jälkeen</string>
+  <string name="misc_files">Muut tiedostot</string>
+  <string name="misc_files_selected_count">Valittu %1$d yhteismäärästä %2$d</string>
+  <string name="misc_files_selected_count_bytes">%1$s yhteismäärästä %2$s</string>
+  <string name="miui_screensaver_show_time">Kesto</string>
+  <string name="miui_screensaver_show_time_select_title">Aseta kesto</string>
+  <string name="miui_screensaver_state_off">Pois päältä</string>
+  <string name="miui_screensaver_state_on">Päällä</string>
+  <string name="miui_screensaver_title">Näytönsäästäjä</string>
+  <string name="miui_screensaver_usage">Aktivoinnin jälkeen kuvat näytönsäästäjä-albumista toistuvat 5 sekunnin kuluttua näytön sammumisesta.</string>
+  <string name="mms_log_tab_title">Viestihistoria</string>
+  <string name="mms_vibrate_abbreviation">"Viestit "</string>
+  <string name="model_number">Mallinumero</string>
   <string name="move_app">Siirrä</string>
   <string name="move_app_failed_dlg_text">"Ei voitu siirtää sovellusta. %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
-  <string name="move_app_to_internal">Move to phone</string>
-  <string name="move_app_to_sdcard">Move to USB storage</string>
-  <string name="moving">Moving</string>
-  <string name="msd_driver_download">Download driver</string>
-  <string name="msd_driver_mac_download">"For Macs, download the driver and click AndroidFileTransfer.dmg to install
-Get the driver at http://miui.com/mac"</string>
-  <string name="msd_driver_windows_xp_download">"For PCs, download the driver and click Setup.exe to install
-Get the driver at http://miui.com/win"</string>
-  <string name="msd_help_summary">"Difficulty accessing your device via computer?
-Select your computer’s operating system:"</string>
-  <string name="msd_help_title">MTP Help</string>
-  <string name="msd_install">Reinstall the driver.</string>
+  <string name="move_app_to_internal">Siissä puhelimeen</string>
+  <string name="move_app_to_sdcard">Siirrä USB-muistiin</string>
+  <string name="moving">Siirretään</string>
+  <string name="msd_driver_download">Lataa ajuri</string>
+  <string name="msd_driver_mac_download">"Mac-koneille, lataa ajuri ja käynnistä AndroidFileTransfer.dmg asentaaksesi Hae ajurit osoitteesta http://miui.com/mac"</string>
+  <string name="msd_driver_windows_xp_download">"PC-koneille, lataa ajuri ja käynnistä Setup.exe asentaaksesi Hae ajurit osoitteesta http://miui.com/win"</string>
+  <string name="msd_help_summary">"Ongelmia laitteelle-pääsyn kanssa tietokoneen kautta? Valitse tietokoneesi käyttöjärjestelmä:"</string>
+  <string name="msd_help_title">MTP Apu</string>
+  <string name="msd_install">Asenna ajuri uudelleen.</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Seuraava</string>
-  <string name="msd_install_retry_linux">"If your computer does not detect MI 2,
-Try the following:
-1) Use installation tools sudo aptitude install mtpfs libfuse-dev libmad0-dev
-2) Create a directory mkdir /media/mtp
-3) Confirm user group permissions in the current fuse user group
-4) Re-login
-5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
-6) Uninstall device fusermount -u /media/mtp
- Note: For ubuntu 8.04 environment"</string>
-  <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
-Try the following:
-"</string>
-  <string name="msd_install_retry_windows_vista">"If the computer did not detect MI 2 properly,
-Try the following:
-"</string>
-  <string name="msd_install_retry_windows_xp">"If your computer did not detect MI 2 properly,
-try the following:
-"</string>
-  <string name="msd_install_status_done">Driver already installed</string>
-  <string name="msd_install_status_undo">Install driver</string>
-  <string name="msd_install_succeed">Driver installed successfully</string>
-  <string name="msd_install_windows_xp_step_2_1">"1.If the Setup Wizard pops up, 
-please follow the steps to complete installation"</string>
-  <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
-  <string name="multi_sim_settings_title">Multi SIM Settings</string>
+  <string name="msd_install_retry_linux">"Jos tietokone ei havaitse laitetta MI 2,
+Yritä seuraavaa:
+1) Käytä asennuskomentoa sudo aptitude install mtpfs libfuse-dev libmad0-dev
+2) Luo hakemisto mkdir /media/mtp
+3) Vahvista käyttäjäryhmän käyttöoikeudet nykyisellä fuse user group
+4) Kirjaudu uudelleen
+5) Pääsy liitetylle laitteelle mtpfs /media/mtp tiedostohallinnan kautta; sama kuin paikallinen hakemisto
+6) Poista laitteen asennus fusermount -u /media/mtp
+ Huomautus: ubuntu 8.04 ympäristölle"</string>
+  <string name="msd_install_retry_mac">"Jos tietokone ei havaitse laitetta MI 2 kunnolla, Yritä seuraavaa:"</string>
+  <string name="msd_install_retry_windows_vista">"Jos tietokone ei havaitse laitetta MI 2 kunnolla, Yritä seuraavaa:"</string>
+  <string name="msd_install_retry_windows_xp">"Jos tietokone ei havaitse laitetta MI 2 kunnolla, Yritä seuraavaa:"</string>
+  <string name="msd_install_status_done">Ajuri on jo asennettu</string>
+  <string name="msd_install_status_undo">Asenna ajuri</string>
+  <string name="msd_install_succeed">Ajuri asennettu onnistuneesti</string>
+  <string name="msd_install_windows_xp_step_2_1">"1.Jos ohjattu asennustoiminto ponnahtaa esiin, seuraa ohjeiden mukaan viimeistelläksesi asennuksen"</string>
+  <string name="multi_sim_settings_summary">Määritä MultiSIM-asetukset äänelle, tiedoille ja tekstiviesteille</string>
+  <string name="multi_sim_settings_title">MultiSIM-asetukset</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
-  <string name="multi_touch_points_preference">Reboot to enable</string>
-  <string name="musicfx_title">Music effects</string>
-  <string name="nearby_wifi">Available networks</string>
+  <string name="multi_touch_points_preference">Käynnistä puhelin uudelleen ottaaksesi käyttöön</string>
+  <string name="musicfx_title">Musiikkitehosteet</string>
+  <string name="nearby_wifi">Käytettävissä olevat verkot</string>
   <string name="need_check">Some items can be optimized...</string>
-  <string name="network_assistant">Data usage</string>
-  <string name="network_detail">%s Network details</string>
-  <string name="network_settings_title">Mobile networks</string>
-  <string name="network_state_label">Network state:</string>
-  <string name="networkid_label">Network ID:</string>
-  <string name="networks">Operator selection</string>
-  <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
-  <string name="new_bw_list_button">Add contact</string>
-  <string name="next_button_label">Next</string>
-  <string name="next_label">Next</string>
+  <string name="network_assistant">Datan käyttö</string>
+  <string name="network_detail">%s Verkon tiedot</string>
+  <string name="network_settings_title">Mobiiliverkot</string>
+  <string name="network_state_label">Verkon tila:</string>
+  <string name="networkid_label">Verkon ID:</string>
+  <string name="networks">Operaattorin valinta</string>
+  <string name="new_backup_pw_prompt">Kirjoita uusi salasana täydelle varmuuskopioinnille tähän</string>
+  <string name="new_bw_list_button">Lisää kontakti</string>
+  <string name="next_button_label">Seuraava</string>
+  <string name="next_label">Seuraava</string>
   <string name="nfc_category_title">NFC</string>
-  <string name="nfc_quick_toggle_summary">Allow data exchange when phone touches another device</string>
+  <string name="nfc_quick_toggle_summary">Salli tiedonsiirto kun puhelin koskettaa toista laitetta</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="no">No</string>
-  <string name="no_application">Nothing</string>
-  <string name="no_applications">No apps.</string>
-  <string name="no_device_admins">No available device administrators</string>
-  <string name="no_media_button_receiver">No</string>
-  <string name="no_nearby_wifi">No networks detected.</string>
-  <string name="no_running_services">Nothing running.</string>
-  <string name="no_services">Not active services</string>
-  <string name="noise_suppression">Noise suppression</string>
-  <string name="normal_date_format">Regional (%s)</string>
-  <string name="notification_pulse_title">Pulse notification light</string>
-  <string name="notification_sound_dialog_title">Choose notification ringtone</string>
-  <string name="notification_sound_title">Default notification</string>
-  <string name="notification_vibrate_abbreviation">Notification</string>
-  <string name="notification_volume_title">Notification</string>
-  <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
-  <string name="nsd_quick_toggle_title">Network service discovery</string>
-  <string name="number_add_hint">Input number</string>
-  <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
-  <string name="only_when_charging">Only whilst charging</string>
-  <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
-  <string name="open_wifi_connect_summary">Click to manage</string>
-  <string name="open_wifi_connect_title">Connect to open network %1$s</string>
-  <string name="opt_accept_whitelist">Accept calls from numbers on exceptions list</string>
-  <string name="opt_cancel_desc">Cancel</string>
-  <string name="opt_clean_garbage">Cleared %d MB</string>
-  <string name="opt_disabled_autorun">Disabled %d startup programs</string>
-  <string name="opt_done_desc">Complete</string>
-  <string name="opt_freed_ram">Free %dMBs of memory</string>
+  <string name="no">Ei</string>
+  <string name="no_application">Ei mitään</string>
+  <string name="no_applications">Ei sovelluksia.</string>
+  <string name="no_device_admins">Ei laitteen ylläpitäjiä saatavilla</string>
+  <string name="no_media_button_receiver">Ei</string>
+  <string name="no_nearby_wifi">Ei verkkoja lähistöllä.</string>
+  <string name="no_running_services">Ei mitään käynnissä.</string>
+  <string name="no_services">Ei aktiivisia palveluita</string>
+  <string name="noise_suppression">Melunvaimennus</string>
+  <string name="normal_date_format">Alueellinen (%s)</string>
+  <string name="notification_pulse_title">Pulssimainen ilmoitusvalo</string>
+  <string name="notification_sound_dialog_title">Valitse ilmoitusten soittoääni</string>
+  <string name="notification_sound_title">Oletus ilmoitusääni</string>
+  <string name="notification_vibrate_abbreviation">Ilmoitukset</string>
+  <string name="notification_volume_title">Ilmoitukset</string>
+  <string name="nsd_quick_toggle_summary">Salli toisen laitteen sovellusten löytää tämän laitteen sovellukset</string>
+  <string name="nsd_quick_toggle_title">Verkkopalvelun löytäminen</string>
+  <string name="number_add_hint">Syötä numero</string>
+  <string name="oem_radio_info_label">OEM-kohtaiset Tiedot/Asetukset</string>
+  <string name="only_when_charging">Vain, kun laturi on kytketty</string>
+  <string name="onscreen_keyboard_settings_summary">Ruutunäppäimistön asetukset</string>
+  <string name="open_wifi_connect_summary">Valitse hallitaksesi</string>
+  <string name="open_wifi_connect_title">Yhdistä avataksesi verkon %1$s</string>
+  <string name="opt_accept_whitelist">Hyväksy soitot poikkeuslistan numeroista</string>
+  <string name="opt_cancel_desc">Peruuta</string>
+  <string name="opt_clean_garbage">Tyhjennetty %d MB</string>
+  <string name="opt_disabled_autorun">Poistettu %d käynnistysohjelmaa käytöstä</string>
+  <string name="opt_done_desc">Valmis</string>
+  <string name="opt_freed_ram">Vapauta %dMB muistia</string>
   <string name="opt_garbage_size">Garbage size：</string>
   <string name="opt_item_app_perm">Permission control</string>
   <string name="opt_item_autorun">Auto start</string>
@@ -2000,7 +1960,7 @@ please follow the steps to complete installation"</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Set preferred network type:</string>
   <string name="radio_info_signal_location_label">Location:</string>
-  <string name="radio_info_signal_strength_label">Signal strength:</string>
+  <string name="radio_info_signal_strength_label">Signaalin voimakkuus:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Päivitä</string>
   <string name="radio_info_smsc_update_label">Update</string>
@@ -2306,7 +2266,7 @@ Attempts Remaining :"</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Serial number</string>
   <string name="status_service_state">Service state</string>
-  <string name="status_signal_strength">Signal strength</string>
+  <string name="status_signal_strength">Signaalin voimakkuus</string>
   <string name="status_unavailable">Ei saatavilla</string>
   <string name="status_up_time">Käynnissäoloaika</string>
   <string name="status_wifi_mac_address">Wi-Fi MAC address</string>
@@ -2942,8 +2902,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_share_uploading">Sharing public Wi-Fi network</string>
   <string name="wifi_show_advanced">Show advanced options</string>
   <string name="wifi_show_password">Näytä salasana</string>
-  <string name="wifi_signal">Signal strength</string>
-  <string name="wifi_speed">Link speed</string>
+  <string name="wifi_signal">Signaalin voimakkuus</string>
+  <string name="wifi_speed">Yhteysnopeus</string>
   <string name="wifi_ssid">Network SSID</string>
   <string name="wifi_starting">Käynnistetään Wi-Fi...</string>
   <string name="wifi_state_disabled">Disabled</string>
