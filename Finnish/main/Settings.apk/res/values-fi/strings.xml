@@ -1418,7 +1418,7 @@ Yritä seuraavaa:
   <string name="opt_reject_blacklist_stranger_summary">Puhelut estetyistä numeroista hylätään automaattisesti</string>
   <string name="opt_restore_perm">Palautettu yksityisyyslupien oletusarvot %d ohjelmalle</string>
   <string name="opt_resume_desc">Jatka</string>
-  <string name="opt_scanning">Skannataan…：</string>
+  <string name="opt_scanning">Tarkistetaan…：</string>
   <string name="opt_score">83</string>
   <string name="opt_score_desc">pts</string>
   <string name="opt_state_done">Valmis</string>
@@ -1535,15 +1535,15 @@ Yritä seuraavaa:
   <string name="perm_hips_phoneid_imeisn">Pääsy IMEI/SN</string>
   <string name="perm_hips_phoneid_imsi">Pääsy IMSI numeroon</string>
   <string name="perm_hips_phoneid_number">Pääsy puhelinnumeroosi</string>
-  <string name="perm_hips_prompt_all">Salli kaikki</string>
+  <string name="perm_hips_prompt_all">Kysy kaikki</string>
   <string name="perm_hips_reject_all">Estä kaikki</string>
-  <string name="perm_hips_risky">Riskialttiit luvat (%1$d)</string>
+  <string name="perm_hips_risky">Riskialttiit käyttöoikeudet (%1$d)</string>
   <string name="perm_hips_root">ROOT</string>
-  <string name="perm_hips_root_desc">Pyydä ROOT Lupaa</string>
+  <string name="perm_hips_root_desc">Pyydä ROOT-käyttöoikeutta</string>
   <string name="perm_hips_root_desc_stable">Ei käytettävissä vakaassa MIUI-versiossa</string>
   <string name="perm_hips_root_hint">%1$s apps are allowed to get ROOT Permission</string>
   <string name="perm_hips_root_title">Obtain ROOT Permission</string>
-  <string name="perm_hips_safe">Normal Permissions (%1$d)</string>
+  <string name="perm_hips_safe">Normaalit käyttöoikeudet (%1$d)</string>
   <string name="perm_hips_security_prompt_accept">Salli (%d)</string>
   <string name="perm_hips_security_prompt_accept_root">Salli</string>
   <string name="perm_hips_security_prompt_caption">Turvavaroitus</string>
@@ -1656,7 +1656,7 @@ Yritä seuraavaa:
   <string name="power_autorun_apps_empty">No auto-start apps</string>
   <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase your phone's power consumption"</string>
   <string name="power_autorun_control_title">Auto-start</string>
-  <string name="power_autorun_empty">No apps installed</string>
+  <string name="power_autorun_empty">Ei asennettuja sovelluksia</string>
   <string name="power_battery_history_days">%1$d päivää %2$d tuntia %3$d minuuttia</string>
   <string name="power_battery_history_hours">%1$d h %2$d min</string>
   <string name="power_battery_history_minutes">%1$d min</string>
@@ -1681,14 +1681,14 @@ Yritä seuraavaa:
   <string name="power_chooser_check_box_summary">Choose a power management profile to extend battery life</string>
   <string name="power_chooser_check_box_title">Conserve battery</string>
   <string name="power_chooser_mine_summary">Save original system settings</string>
-  <string name="power_chooser_mine_title">Custom</string>
+  <string name="power_chooser_mine_title">Oma</string>
   <string name="power_chooser_sleep_summary">Disable all functions (phone, messages, Internet) except for alarm clock</string>
   <string name="power_chooser_sleep_title">Sleep</string>
   <string name="power_chooser_smart_summary">Save current settings, clear processes at lock screen</string>
-  <string name="power_chooser_smart_title">Default mode</string>
+  <string name="power_chooser_smart_title">Oletustila</string>
   <string name="power_chooser_standby_summary">Disable Internet functions</string>
-  <string name="power_chooser_standby_title">Marathon mode</string>
-  <string name="power_chooser_title">Conserve battery</string>
+  <string name="power_chooser_standby_title">Marathon-tila</string>
+  <string name="power_chooser_title">Virransäästö</string>
   <string name="power_chooser_user_define_summary">Create a custom configuration for battery</string>
   <string name="power_chooser_user_define_title">Add custom profile</string>
   <string name="power_consume_other">Muu</string>
@@ -1713,7 +1713,7 @@ Yritä seuraavaa:
   <string name="power_dialog_cancel">Peruuta</string>
   <string name="power_dialog_cpu_state_balance">Tasapainotettu</string>
   <string name="power_dialog_cpu_state_balance_desc">Nosta suoritintehoa vain tarvittaessa</string>
-  <string name="power_dialog_cpu_state_performance">Performance</string>
+  <string name="power_dialog_cpu_state_performance">Suorituskyky</string>
   <string name="power_dialog_cpu_state_performance_desc">Make CPU performance a priority over battery life</string>
   <string name="power_dialog_cpu_state_save">Säästä akkua</string>
   <string name="power_dialog_cpu_state_save_desc">Make battery life a priority over CPU performance</string>
@@ -1737,11 +1737,11 @@ Yritä seuraavaa:
   <string name="power_mode">Power settings</string>
   <string name="power_mode_airplane_mode">Lentokonetila</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Lukitse näyttö %1$d minuutin jälkeen</string>
-  <string name="power_mode_auto_clean_memory">Clean memory automatically</string>
-  <string name="power_mode_auto_clean_memory_in_five_minutes">After five minutes</string>
-  <string name="power_mode_auto_clean_memory_in_one_minute">After one minute</string>
-  <string name="power_mode_auto_clean_memory_in_ten_minutes">After ten minutes</string>
-  <string name="power_mode_auto_clean_memory_never">Ei ikinä</string>
+  <string name="power_mode_auto_clean_memory">Tyhjennä muisti automaattisesti</string>
+  <string name="power_mode_auto_clean_memory_in_five_minutes">Viiden minuutin jälkeen</string>
+  <string name="power_mode_auto_clean_memory_in_one_minute">Minuutin jälkeen</string>
+  <string name="power_mode_auto_clean_memory_in_ten_minutes">Kymmenen minuutin jälkeen</string>
+  <string name="power_mode_auto_clean_memory_never">Ei koskaan</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
   <string name="power_mode_cpu_state">Suoritin käyttö</string>
   <string name="power_mode_cpu_state_balance">Balance</string>
@@ -1979,7 +1979,7 @@ Yritä seuraavaa:
   <string name="remove_account_label">Poista tili</string>
   <string name="remove_all_keywords">Poistetaanko kaikki avainsanat?</string>
   <string name="remove_call_log">Delete all call logs?</string>
-  <string name="remove_contact">Delete this contact?</string>
+  <string name="remove_contact">Poistetaanko yhteystieto?</string>
   <string name="remove_delete">Poista</string>
   <string name="remove_device_admin">Deactivate</string>
   <string name="remove_from_frequently_fragment">Remove \"%s\" from quick settings?</string>
@@ -2024,7 +2024,7 @@ Yritä seuraavaa:
   <string name="runningservices_settings_title">Running services</string>
   <string name="save_button">Tallenna</string>
   <string name="scan_done">Tarkistus valmis</string>
-  <string name="scan_list_label">Scan results:</string>
+  <string name="scan_list_label">Tarkistuksen tulokset:</string>
   <string name="scanning_virus">Tarkistetaan...</string>
   <string name="score">Pisteet</string>
   <string name="score_good_state">Puhelin on jo optimoitu</string>
@@ -2056,8 +2056,8 @@ Yritä seuraavaa:
   <string name="screensaver_timeout_summary">Timeout after %1$s spent idle</string>
   <string name="screensaver_timeout_title">Screensaver Timeout</string>
   <string name="screensaver_timeout_zero_summary">Ei ikinä</string>
-  <string name="sd_card_settings_label">USB muisti</string>
-  <string name="sd_card_storage">USB muisti</string>
+  <string name="sd_card_settings_label">USB-muisti</string>
+  <string name="sd_card_storage">USB-muisti</string>
   <string name="sd_eject">Unmount shared storage</string>
   <string name="sd_eject_summary">Unmount the internal USB storage</string>
   <string name="sd_ejecting_summary">Unmount in progress</string>
@@ -2065,7 +2065,7 @@ Yritä seuraavaa:
   <string name="sd_format">Erase USB storage</string>
   <string name="sd_format_summary">Erases all data on the internal USB storage, such as music and photos</string>
   <string name="sd_insert_summary">Insert USB storage for mounting</string>
-  <string name="sd_memory">USB muisti</string>
+  <string name="sd_memory">USB-muisti</string>
   <string name="sd_mount">Mount USB storage</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
@@ -2272,7 +2272,7 @@ Attempts Remaining :"</string>
   <string name="status_wifi_mac_address">Wi-Fi MAC address</string>
   <string name="status_wimax_mac_address">4G MAC address</string>
   <string name="storage_format">Format</string>
-  <string name="storage_label">Storage</string>
+  <string name="storage_label">Tallennustila</string>
   <string name="storage_low_summary">Some system functions, such as syncing, may not work correctly. Try to free space by deleting or unpinning items, such as apps or media content.</string>
   <string name="storage_low_title">Storage space is running out</string>
   <string name="storage_menu_usb">USB computer connection</string>
@@ -2280,7 +2280,7 @@ Attempts Remaining :"</string>
   <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>
   <string name="storage_size_content">%1$s Used | %2$s Available</string>
-  <string name="storage_size_title">Storage</string>
+  <string name="storage_size_title">Tallennustila</string>
   <string name="storage_title_usb">USB computer connection</string>
   <string name="storageuse_settings_summary">View storage used by apps</string>
   <string name="storageuse_settings_title">Storage use</string>
@@ -2316,7 +2316,7 @@ Attempts Remaining :"</string>
   <string name="sync_menu_sync_now">Synkronoi nyt</string>
   <string name="sync_one_time_sync">"Kosketa synkronoidaksesi nyt
 %1$s"</string>
-  <string name="sync_plug">Welcome to Google sync - A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. "</string>
+  <string name="sync_plug">Tervetuloa Google synkronointiin - A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. "</string>
   <string name="sync_settings">Tilit &amp; synkronointi</string>
   <string name="sync_wifi_label">Wi-Fi asetukset</string>
   <string name="sync_wifi_only">Vain Wi-Fi</string>
@@ -2413,9 +2413,9 @@ Attempts Remaining :"</string>
   <string name="tts_settings">Text-to-speech settings</string>
   <string name="tts_settings_changed_demo">Your settings have changed. This is an example of how they sound.</string>
   <string name="tts_settings_title">Text-to-speech output</string>
-  <string name="turn_off_radio">Turn off radio</string>
-  <string name="turn_off_security_lock">Disable screen lock</string>
-  <string name="turn_on_radio">Turn on radio</string>
+  <string name="turn_off_radio">Sammuta radio</string>
+  <string name="turn_off_security_lock">Ota lukitusnäyttö pois käytöstä</string>
+  <string name="turn_on_radio">Ota radio käyttöön</string>
   <string name="turn_on_smart_antispam_hint">Identify unwanted calls</string>
   <string name="turn_on_smart_antispam_summary_off">Filter using local number database</string>
   <string name="turn_on_smart_antispam_summary_on">Only available when connected to Wi-Fi or 3G network</string>
@@ -2431,7 +2431,7 @@ Attempts Remaining :"</string>
   <string name="unlock_disable_lock_pattern_summary">Remove unlock pattern</string>
   <string name="unlock_disable_lock_pin_summary">Remove unlock PIN</string>
   <string name="unlock_disable_lock_title">Turn off screen lock</string>
-  <string name="unlock_set_enter_system">Skip screen lock</string>
+  <string name="unlock_set_enter_system">Ohita lukitusnäyttö</string>
   <string name="unlock_set_enter_system_summary">Go directly to Home screen from wake</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Low security, experimental</string>
   <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
@@ -2564,7 +2564,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_app_uninstall">Poista (% d)</string>
   <string name="virus_scan_app_waiting">Odottaa…</string>
   <string name="virus_scan_can_use_wifi">Use online definitions to scan</string>
-  <string name="virus_scan_clear">Clean up</string>
+  <string name="virus_scan_clear">Puhdista</string>
   <string name="virus_scan_dangerous">Riski</string>
   <string name="virus_scan_description">"This app is a major risk to your phone's security."</string>
   <string name="virus_scan_file_type_risk_apk">Suspicious app (install pkg)</string>
@@ -2575,7 +2575,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_finish">Valmis</string>
   <string name="virus_scan_finish_text">OK, the bad stuff is gone!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner has been compromised. You need to factory reset your phone.</string>
-  <string name="virus_scan_installed_package">%s (installed app)</string>
+  <string name="virus_scan_installed_package">%s (asennettu sovellus)</string>
   <string name="virus_scan_is_scanning">Tarkistetaan...</string>
   <string name="virus_scan_judge_is_virus">Check apps for viruses before installation</string>
   <string name="virus_scan_last_risk">Suspicious apps discovered in the most recent scan have not been not removed.</string>
@@ -2598,14 +2598,14 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_not_found_virus">viruksia ei löytynyt</string>
   <string name="virus_scan_others_title">Related settings</string>
   <string name="virus_scan_package_label_unknown">tuntematon</string>
-  <string name="virus_scan_parpare">Starting engine...</string>
+  <string name="virus_scan_parpare">Käynnistetään moottoria...</string>
   <string name="virus_scan_risk_button_name">Riski</string>
   <string name="virus_scan_risk_list_empty">Riskejä ei havaittu.</string>
   <string name="virus_scan_risk_title">%d epäilyttävää sovellusta havaittu</string>
-  <string name="virus_scan_safe">Clear</string>
+  <string name="virus_scan_safe">Puhdas</string>
   <string name="virus_scan_settings">Asetukset</string>
   <string name="virus_scan_settings_title">Virus definition settings</string>
-  <string name="virus_scan_start">Scan for viruses</string>
+  <string name="virus_scan_start">Virustarkistus</string>
   <string name="virus_scan_stop">Tauko</string>
   <string name="virus_scan_support">Ohjelman tarjoaa Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>
@@ -2664,10 +2664,10 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_voice_description">Voice volume</string>
   <string name="vpn_cancel">Peruuta</string>
   <string name="vpn_configure">Configuration</string>
-  <string name="vpn_connect">Connect</string>
-  <string name="vpn_connect_to">Connect to %s</string>
-  <string name="vpn_create">Create VPN</string>
-  <string name="vpn_dns_servers">DNS servers</string>
+  <string name="vpn_connect">Yhdistä</string>
+  <string name="vpn_connect_to">Yhdistä kohteeseen %s</string>
+  <string name="vpn_create">Luo VPN</string>
+  <string name="vpn_dns_servers">DNS serverit</string>
   <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
   <string name="vpn_edit">Edit VPN profile</string>
   <string name="vpn_ipsec_ca_cert">IPSec CA certificate</string>
@@ -2725,7 +2725,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_advanced_settings_label">IP settings</string>
   <string name="wifi_advanced_titlebar">Advanced Wi-Fi</string>
   <string name="wifi_api_test">Wi-Fi API</string>
-  <string name="wifi_auto_connect">Auto connect</string>
+  <string name="wifi_auto_connect">Yhdistä automaattisesti</string>
   <string name="wifi_cancel">Peruuta</string>
   <string name="wifi_certificate">Certificate</string>
   <string name="wifi_config_info">Wi-Fi config</string>
@@ -2742,7 +2742,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
-  <string name="wifi_eap_anonymous">Anonymous identity</string>
+  <string name="wifi_eap_anonymous">Anonyymi identiteetti</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
   <string name="wifi_eap_method">EAP method</string>
@@ -2770,11 +2770,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_ip_settings_menu_cancel">Peruuta</string>
   <string name="wifi_ip_settings_menu_save">Tallenna</string>
   <string name="wifi_menu_advanced">Advanced</string>
-  <string name="wifi_menu_connect">Connect to network</string>
-  <string name="wifi_menu_forget">Forget network</string>
-  <string name="wifi_menu_modify">Modify network</string>
+  <string name="wifi_menu_connect">Yhdistä verkkoon</string>
+  <string name="wifi_menu_forget">Unohda verkko</string>
+  <string name="wifi_menu_modify">Muokkaa verkkoa</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_scan">Scan</string>
+  <string name="wifi_menu_scan">Etsi</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
   <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
@@ -2785,10 +2785,10 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_notify_open_networks">Network notification</string>
   <string name="wifi_notify_open_networks_summary">Notify me when an open network is available</string>
   <string name="wifi_on_time">Wi-Fi on time</string>
-  <string name="wifi_other_network">Other network…</string>
+  <string name="wifi_other_network">Muu verkko…</string>
   <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Cancel invitation?</string>
-  <string name="wifi_p2p_device_info">Device information</string>
+  <string name="wifi_p2p_device_info">Laitteen tiedot</string>
   <string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
   <string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
   <string name="wifi_p2p_disconnect_title">Disconnect?</string>
@@ -2805,7 +2805,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">Wi-Fi protected setup</string>
   <string name="wifi_password">Salasana</string>
-  <string name="wifi_poor_network_detection">Avoid poor connections</string>
+  <string name="wifi_poor_network_detection">Vältä heikkoja yhteyksiä</string>
   <string name="wifi_poor_network_detection_summary">"Don't use a Wi-Fi network unless it has a good Internet connection"</string>
   <string name="wifi_quick_toggle_summary">Laita Wi-Fi päälle</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -2846,7 +2846,7 @@ Add a word by touching the Add (+) button"</string>
 
 Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
-  <string name="wifi_setup_detail">Network details</string>
+  <string name="wifi_setup_detail">Verkon tiedot</string>
   <string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks\u0090"</string>
   <string name="wifi_setup_forget">Unohda</string>
   <string name="wifi_setup_next">Seuraava</string>
@@ -2854,7 +2854,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_setup_refresh_list">Päivitä lista</string>
   <string name="wifi_setup_save">Tallenna</string>
   <string name="wifi_setup_skip">Ohita</string>
-  <string name="wifi_setup_status_connecting">Connecting…</string>
+  <string name="wifi_setup_status_connecting">Yhdistetään…</string>
   <string name="wifi_setup_status_eap_not_supported">"EAP isn't supported."</string>
   <string name="wifi_setup_status_edit_network">Type network configuration</string>
   <string name="wifi_setup_status_existing_network">Connect to existing network</string>
@@ -2883,7 +2883,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_share_count">You have shared %d networks</string>
   <string name="wifi_share_current_network">Current network</string>
   <string name="wifi_share_know">OK</string>
-  <string name="wifi_share_list_empty">No shared Wi-Fi networks</string>
+  <string name="wifi_share_list_empty">Ei jaettuja Wi-Fi verkkoja</string>
   <string name="wifi_share_login">Share public Wi-Fi password</string>
   <string name="wifi_share_login_summary">Public Wi-Fi networks can be shared with other MIUI users</string>
   <string name="wifi_share_notification_summary">MIUI has connected you to a password protected public Wi-Fi network</string>
@@ -2895,12 +2895,12 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_share_summary1">MIUI users can share password protected public Wi-Fi networks with each other.</string>
   <string name="wifi_share_summary2">If another MIUI user shares a network, you can connect directly to that network without using a password.</string>
   <string name="wifi_share_summary3">Share public Wi-Fi networks with friends and colleagues</string>
-  <string name="wifi_share_turn_off">Sharing off</string>
-  <string name="wifi_share_turn_on">Sharing on</string>
+  <string name="wifi_share_turn_off">Jakaminen pois käytöstä</string>
+  <string name="wifi_share_turn_on">Jakaminen käytössä</string>
   <string name="wifi_share_upload">Jaa</string>
   <string name="wifi_share_upload_finish">Sharing successful!</string>
   <string name="wifi_share_uploading">Sharing public Wi-Fi network</string>
-  <string name="wifi_show_advanced">Show advanced options</string>
+  <string name="wifi_show_advanced">Näytä lisäasetukset</string>
   <string name="wifi_show_password">Näytä salasana</string>
   <string name="wifi_signal">Signaalin voimakkuus</string>
   <string name="wifi_speed">Yhteysnopeus</string>
@@ -2913,7 +2913,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_state_label">Wi-Fi state:</string>
   <string name="wifi_state_unknown">Tuntematon</string>
   <string name="wifi_status">Tila</string>
-  <string name="wifi_status_test">Wi-Fi status</string>
+  <string name="wifi_status_test">Wi-Fi tila</string>
   <string name="wifi_stopping">Sammutetaan Wi-Fi...</string>
   <string name="wifi_tether_checkbox_text">Portable Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up Wi-Fi hotspot</string>
@@ -2957,7 +2957,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_wps_onstart_pbc">Press the Wi-Fi Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
   <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take up-to two minutes to complete.</string>
   <string name="wifi_wps_overlap_error">Another Wi-Fi protected session was detected. Try again in a few minutes.</string>
-  <string name="wifi_wps_setup_msg">Starting WPS...</string>
+  <string name="wifi_wps_setup_msg">Käynnistetään WPS...</string>
   <string name="wifi_wps_setup_title">Wi-Fi WPS Setup</string>
   <string name="wimax_settings">4G asetukset</string>
   <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
@@ -2972,8 +2972,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="xiaomi_money_service">MiCredit center</string>
   <string name="yes">OK</string>
   <string name="zone_auto">Automaattinen aikavyöhyke</string>
-  <string name="zone_auto_summaryOff">Use network-provided time zone</string>
-  <string name="zone_auto_summaryOn">Use network-provided time zone</string>
-  <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
+  <string name="zone_auto_summaryOff">Käytä verkon tarjoamaa aikavyöhykettä</string>
+  <string name="zone_auto_summaryOn">Käytä verkon tarjoamaa aikavyöhykettä</string>
+  <string name="zone_list_menu_sort_alphabetically">Järjestä aakkosten mukaan</string>
   <string name="zone_list_menu_sort_by_timezone">Järjestä aikavyöhykkeen mukaan</string>
 </resources>
