@@ -1261,7 +1261,7 @@
   <string name="master_clear_desc">"Tämä poistaa kaikki tiedot puhelimen "&lt;b&gt;sisäiseltä muistilta&lt;/b&gt;", sisältäen: "&lt;li&gt;Google tilisi&lt;/li&gt;" "&lt;li&gt;Järjestelmän ja sovellusten tiedot ja asetukset&lt;/li&gt;" "&lt;li&gt;Ladatut sovellukset&lt;/li&gt;</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Musiikit&lt;/li&gt;" "&lt;li&gt;Kuvat&lt;/li&gt;" "&lt;li&gt;Muut käyttäjätiedot&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"Puhdistaaksesi musiikit, kuvat ja muut käyttäjätiedot, "</string>
-  <string name="master_clear_erase_application_progress"Poistetaan sovelluksia...</string>
+  <string name="master_clear_erase_application_progress">Poistetaan sovelluksia...</string>
   <string name="master_clear_failed">"Palautusta ei suoritettu koska Järjestelmän puhdistuspalvelu ei ole käytettävissä."</string>
   <string name="master_clear_final_button_text">Poista kaikki</string>
   <string name="master_clear_final_desc">"Poista kaikki henkilökohtaiset tiedot ja ladatut sovellukset? Tätä toimintoa ei voi kumota!"</string>
