@@ -21,7 +21,7 @@
     <string name="VideoView_error_title">Video-ongelma</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Huomio</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Tätä videota ei voi suoratoistaa tällä laitteella.</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Tätä videota ei voi suoratoistaa tällä sovelluksella.</string>
     <string name="selectTextMode">Valitse tekstiä</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="month_long_standalone_january">tammikuu</string>
@@ -182,7 +182,7 @@
     <string name="badPin">Antamasi vanha PIN-koodi on virheellinen.</string>
     <string name="badPuk">Antamasi PUK-koodi on virheellinen.</string>
     <string name="mismatchPin">Antamasi PIN-koodit eivät täsmää.</string>
-    <string name="invalidPin">Anna 4–8-numeroinen PIN-koodi.</string>
+    <string name="invalidPin">Anna 4–8 -numeroinen PIN-koodi.</string>
     <string name="invalidPuk">Kirjoita vähintään 8 numeron pituinen PUK-koodi.</string>
     <string name="needPuk">SIM-korttisi on PUK-lukittu. Poista lukitus antamalla PUK-koodi.</string>
     <string name="needPuk2">Pura SIM-kortin esto antamalla PUK2-koodi.</string>
