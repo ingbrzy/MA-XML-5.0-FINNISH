@@ -242,7 +242,7 @@
   <string name="task_running_restore_hint">Palvelu on käynnissä taustalla, yritä uudelleen!</string>
   <string name="task_service_not_launched">Palvelu ei ole käynnistynyt, odota!</string>
   <string name="task_stopped_exception">Tehtävä keskeytetty</string>
-  <string name="total_num">%d tallennusta(s) yhteensä</string>
+  <string name="total_num">%d tallennusta yhteensä</string>
   <string name="unit_byte">\u0020Tavua</string>
   <string name="unit_piece">\u0020Osio(s)</string>
   <string name="unknown_hint">N/A</string>
