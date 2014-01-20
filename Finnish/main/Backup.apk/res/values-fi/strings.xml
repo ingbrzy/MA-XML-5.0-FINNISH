@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Data (Varmuuskopioi Xiaomi ja Gmail tiedot)</string>
+  <string name="account_contact_backup_info">Tiedot (Varmuuskopioi Xiaomi ja Gmail tiedot)</string>
   <string name="account_login">Kirjaudu sisään</string>
   <string name="account_summary">Varmuuskopioi Gmail, E-mail ja Xiaomi tilit</string>
   <string name="already_enable_encrypt">Salaus käytössä</string>
@@ -30,7 +30,7 @@
   <string name="backup_file_error">Varmuuskopiointi ei onnustunut.</string>
   <string name="backup_finished">Varmuuskopiointi valmis</string>
   <string name="backup_hint">Älä sammuta puhelinta, tiedostot voivat viouttua</string>
-  <string name="backup_items_app_tailer">\u0020App Tiedostot</string>
+  <string name="backup_items_app_tailer">\u0020Sovellusten Tiedostot</string>
   <string name="backup_items_sysdata_tailer">\u0020Järjestelmän tiedostot</string>
   <string name="backup_new">Uusi:</string>
   <string name="backup_progress">Varmuuskopioi...</string>
@@ -48,7 +48,7 @@
   <string name="button_ok">OK</string>
   <string name="button_restore">Palauta</string>
   <string name="button_return">Takaisin</string>
-  <string name="call_title">Puhelulogit</string>
+  <string name="call_title">Puhelulokit</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_backup">Peruuta Varmuuskopiointi</string>
   <string name="cancel_restore">Peruuta Palautus</string>
@@ -107,7 +107,7 @@
   <string name="cloud_app_restore_summary">Palauta aiemmin asennetut sovellukset ja niihin liittyvät käyttäjätiedot</string>
   <string name="cloud_app_restore_wifi_prompt">Palauta sovellukset ja käyttäjän tiedot käyttämällä internettiä Wi-Fi yhteydellä.</string>
   <string name="cloud_app_total_size">Täydellisen MiCloud varmuuskopion koko: %1$s</string>
-  <string name="cloud_app_version_size">Version: %1$s, Koko: %2$s</string>
+  <string name="cloud_app_version_size">Versio: %1$s, Koko: %2$s</string>
   <string name="cloud_app_wait_wifi">Odotetaan Wi-Fi-yhteyttä</string>
   <string name="cloud_backup_hint">Kirjaudu, tallentaaksesi ja palauttaaksesi turvallisesti varmuuskopiot</string>
   <string name="cloud_backup_login">Kirjaudu käyttämällä Xiaomi tiliäsi</string>
@@ -149,7 +149,7 @@
   <string name="findlost_contact_online">Palauta poistetut yhteystiedot Pilvestä</string>
   <string name="guarded_mode_dialog_message">Ei voida varmuuskopioida / palauta vartioidussa tilassa</string>
   <string name="guarded_mode_dialog_title">Vartioitu tila</string>
-  <string name="import_from_xiaomi_account_hint1">1.Asenna MiTalk ja kirjaudu sisään \ n http://www.miliao.com \ n \ n3. Valitse MiTalk asetukset ja valitse "Varmuuskopioi yhteystiedot Xiaomi tilile”</string>
+  <string name="import_from_xiaomi_account_hint1">1.Asenna MiTalk ja kirjaudu sisään\nhttp://www.miliao.com\n\n3. Valitse MiTalk asetukset ja valitse "Varmuuskopioi yhteystiedot Xiaomi tilile”</string>
   <string name="import_from_xiaomi_account_hint2">Huomautus: Jatka seuraavaan vaiheeseen, jos varmuuskopio on jo olemassa</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä MiTalk:ia varmuuskopioidaksesi muiden laitteiden yhteystiedot, ei MI-ONE</string>
   <string name="just_support_op_with_wifi_connected">Tuetaan vain kun käytetään Wi-Fi:ä </string>
@@ -162,13 +162,13 @@
   <string name="local_select_sysdata">Järjestelmä</string>
   <string name="local_select_userapp">Sovellukset</string>
   <string name="menu_patch_delete">Poista varmuuskopiot</string>
-  <string name="miliao_account_guide">MiTalk tili päivitetty Xiaomi tiliksi \ n Nauti kaikista Xiaomi verkkopalveluista</string>
+  <string name="miliao_account_guide">MiTalk tili päivitetty Xiaomi tiliksi\nNauti kaikista Xiaomi verkkopalveluista</string>
   <string name="miliao_account_login">kirjaudu MiTalk:iin</string>
   <string name="mms_title">Multimedia Viestitys</string>
   <string name="multi_select_title">Valitut %1$s kohdat</string>
   <string name="my_phone">Minun laitteeni</string>
   <string name="no_encrypt_password">Ei tunnusluku salausta</string>
-  <string name="no_network">Verkkovirhe \ nTarkista verkkoyhteys ja yritä uudelleen</string>
+  <string name="no_network">Verkkovirhe\nTarkista verkkoyhteys ja yritä uudelleen</string>
   <string name="note_title">Huomautukset</string>
   <string name="nothing_searched">Ei hakutuloksia</string>
   <string name="progress_backup_hint">Varmuuskopioidaan:\u0020</string>
@@ -220,17 +220,17 @@
   <string name="task_canceled">Peruutettu</string>
   <string name="task_canceled_all_local">Peruuta tehtävä</string>
   <string name="task_canceled_local">Seuraavat %s tehtävä peruttiin</string>
-  <string name="task_cloud_backup_cancel_dialog">Varmuuskopiointi ei ole vielä valmis \ nNapsauta OK, jos haluat peruuttaa tämän tehtävän</string>
+  <string name="task_cloud_backup_cancel_dialog">Varmuuskopiointi ei ole vielä valmis\nNapsauta OK, jos haluat peruuttaa tämän tehtävän</string>
   <string name="task_failed">Epäonnistui</string>
   <string name="task_failed_all_local">Tehtävä epäonnistui</string>
   <string name="task_failed_local">Tehtävää %s ei onnistunut </string>
   <string name="task_finished">Valmis</string>
-  <string name="task_local_backup_cancel_dialog">Varmuuskopiointi ei ole vielä valmis \ nNapsauta OK, jos haluat peruuttaa tämän tehtävän</string>
+  <string name="task_local_backup_cancel_dialog">Varmuuskopiointi ei ole vielä valmis\nNapsauta OK, jos haluat peruuttaa tämän tehtävän</string>
   <string name="task_pending">Odottaa</string>
   <string name="task_post_running">Jälkikäsittelyssä</string>
   <string name="task_pre_running">Valmistellaan</string>
   <string name="task_progress">Edistyminen</string>
-  <string name="task_restore_cancel_dialog">Palautus ei ole valmis \ npalautuksen peruutus saattaa vaurioittaa tietoja</string>
+  <string name="task_restore_cancel_dialog">Palautus ei ole valmis\npalautuksen peruutus saattaa vaurioittaa tietoja</string>
   <string name="task_restore_cancel_progress">Peruutetaan...</string>
   <string name="task_restore_finished_local">Palautus valmis</string>
   <string name="task_restore_none">Palauttamista ei tarvita</string>
