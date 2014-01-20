@@ -4,7 +4,7 @@
   <string name="altitude_title">Korkeus</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompassi</string>
-  <string name="calibrate_failed_no_location">Kalibrointi epäonnistui: Ei pystytä löytämään nykyistä leveys- ja pituusastetta</string>
+  <string name="calibrate_failed_no_location">Kalibrointi epäonnistui: Ei pystytty löytämään nykyisiä pituus- ja leveystietoja.</string>
   <string name="calibrate_failed_timeout">Kalibrointi epäonnistui: Palvelimen aikakatkaisu</string>
   <string name="calibrate_success">Kalibrointi valmis</string>
   <string name="cannot_get_location">Tuntematon sijainti</string>
