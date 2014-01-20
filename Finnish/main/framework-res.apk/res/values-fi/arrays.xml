@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="phoneTypes">
         <item>Puhelinnumero (koti)</item>
-        <item>Mobiili</item>
+        <item>Matkapuhelin</item>
         <item>Työ</item>
         <item>Faksi (työ)</item>
         <item>Faksi (koti)</item>
