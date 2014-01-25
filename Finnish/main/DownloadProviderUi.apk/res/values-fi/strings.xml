@@ -49,7 +49,7 @@
   <string name="keep_queued_download">Pidä</string>
   <string name="menu_enter_edit_mode">Muokkaaja</string>
   <string name="menu_preferences">Asetukset</string>
-  <string name="might_lead_to_mobile_charge">"After cancelling, there will be no download prompt from your device. This may lead to traffic increased data charges."</string>
+  <string name="might_lead_to_mobile_charge">"Peruuttamisen jälkeen, laitteesi ei ilmoita latauksista. Tämä voi johtaa liikenteen kasvattamiin datamaksuihin."</string>
   <string name="missing_title">Tuntematon</string>
   <string name="no_downloads">Ei latauksia.</string>
   <string name="open_download">Avaa</string>
@@ -77,5 +77,5 @@
   <string name="retry_download">Yritä uudelleen</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_operation_items">Valitse kohteet</string>
-  <string name="selected_count">Selected %1$d out of %2$d</string>
+  <string name="selected_count">Valittu %1$d kohde %2$d :sta</string>
 </resources>
