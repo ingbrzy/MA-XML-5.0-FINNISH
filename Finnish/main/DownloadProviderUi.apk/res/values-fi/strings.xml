@@ -9,13 +9,13 @@
   <string name="cancel_running_download">Peruuta</string>
   <string name="confirm_delete_downloads_message">%d valitut lataukset poistetaan!</string>
   <string name="confirm_delete_the_download_item_message">Vahvista latauksen poisto!</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Turning off “Lataa vain Wi-Fillä” will likely generate additional data charges. Haluatko varmasti ottaa sen pois päältä?</string>
+  <string name="confirm_disable_download_only_in_wifi_message">“Lataa vain Wi-Fillä” käytöstä poistaminen voi johtaa datankäytön lisämaksuihin. Haluatko varmasti ottaa sen pois päältä?</string>
   <string name="delete_download">Poista</string>
   <string name="delete_downloads_records">Poista lataukset</string>
   <string name="delete_the_downloaded_file">Poista ladatut tiedostot.</string>
   <string name="deselect_all">Poista kaikki valinnat</string>
   <string name="dialog_cannot_resume">Lataus keskeytynyt, ei voida jatkaa.</string>
-  <string name="dialog_failed_body">Do you wish to retry downloading the file later or delete it from the queue?</string>
+  <string name="dialog_failed_body">Haluatko yrittää ladata tiedoston uudelleen myöhemmin vai poistaa sen jonosta?</string>
   <string name="dialog_file_already_exists">Ei voi ladata, kohdetiedosto on jo olemassa.</string>
   <string name="dialog_file_missing_body">Ladattua tiedostoa ei löydy.</string>
   <string name="dialog_file_missing_title">Tiedoston avaus epäonnistui</string>
