@@ -11,4 +11,25 @@ Jos kääntäminen kiinnostaa tai haluat muuten lähettää palautetta laitappa 
 Käännös on julkaistu ja voit ladata sen täältä
 http://xiaomi.eu/community/link-forums/roms.73/
 
-Käännöstyö on yhä keskeneräinen ja kääntämistä riittää vielä varsinkin asetuksissa.
+Käännöstyö on noin 2/3 valmis. Seuraavat osiot pitää vielä kääntää:
+
+ XiaomiServiceFramework,
+ Contacts (50% käännetty),
+ ContactsProvider (70% käännetty),
+ DownloadProviderUi (80% käännetty),
+ Email,
+ LBESEC_MIUI,
+ MiuiGallery,
+ MiuiSystemUI,
+ Mms,
+ NetworkAssistant,
+ Notes,
+ PaymentService,
+ Phone,
+ Settings,
+ TelephonyProvider,
+ Transfer,
+ XiaomiServiceFramework ja
+ YellowPage
+ 
+ Mukavaa kääntämistä!
