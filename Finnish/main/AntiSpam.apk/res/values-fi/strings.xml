@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Vartija</string>
+  <string name="app_name">Suojus</string>
   <string name="bl_block_info" formatted="false">Torjuttu: Numero %d, tiedot %d</string>
   <string name="bl_no_blacklist">Torjutut lista tyhjä</string>
   <string name="bl_no_block_call">Kaikki torjutut puhelut näkyvät täällä</string>
@@ -115,7 +115,7 @@
   <string name="tab_block_log_unKnowNumber">Tuntematon numero</string>
   <string name="tab_call">Soittoloki</string>
   <string name="tab_sms">Viestiloki</string>
-  <string name="tab_title">Vartija</string>
+  <string name="tab_title">Suojus</string>
   <string name="toast_keyword_blank">Avainsana on tyhjä</string>
   <string name="toast_keyword_exist">Avainsana: %s on jo käytössä</string>
   <string name="toast_keyword_invalid">Virheellinen avainsana</string>
