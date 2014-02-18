@@ -9,18 +9,18 @@
 	<item>Galleria</item>
 	<item>Lupien hallinta</item>
 	<item>Kamera</item>
-	<item>Network Assistant</item>
-	<item>Weather Storage</item>
+	<item>Verkko-assistentti</item>
+	<item>Sään muisti</item>
 	<item>Sää</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Yhteystiedot</item>
         <item>Puheluloki</item>
         <item>Viestit</item>
-        <item>Multimedia Viestit</item>
+        <item>Multimediaviestit</item>
         <item>Järjestelmän asetukset</item>
         <item>Wi-Fi asetukset</item>
-        <item>Työpöydä asettelu</item>
+        <item>Työpöydän asettelu</item>
         <item>Hälytysten asetukset</item>
         <item>Muistiinpanot</item>
         <item>DND</item>
