@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<!-- to be translated :
   <string name="cit_OTG_plugin_check_summary">This test will detect an OTG device.</string>
   <string name="cit_OTG_plugin_check_title"> Start OTG Test</string>
   <string name="cit_OTG_plugout_check_summary"> This test will detect for an OTG device plugged in status.</string>
@@ -254,4 +255,5 @@
   <string name="cit_wifi_ap_scanning">Searching for Access points...</string>
   <string name="cit_wifi_fail_to_scan">Unable to find any Wi-Fi networks</string>
   <string name="cit_wifi_state_refresh">Refesh</string>
+    -->
 </resources>

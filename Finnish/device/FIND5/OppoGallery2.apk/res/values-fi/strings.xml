@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<!-- to be translated :
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_back_to_first_level">Close setting controls</string>
@@ -624,4 +625,5 @@ Step out of view for a moment."</string>
   <string name="wifi_not_contected_msg">Wifi is not connected，may produce a large number of GPRS flow, whether to continue?</string>
   <string name="wifi_not_contected_title">Wifi not connected</string>
   <string name="yes">Yes</string>
+  -->
 </resources>

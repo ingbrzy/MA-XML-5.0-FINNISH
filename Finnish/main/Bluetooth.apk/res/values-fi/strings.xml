@@ -9,7 +9,6 @@
   <string name="auth_notif_message">Kirjoita istunnon avainkoodi %1$s</string>
   <string name="auth_notif_ticker">OBEX todennuspyyntö</string>
   <string name="auth_notif_title">Avainkoodipyyntö puhelinluettelon muokkaukselle</string>
-  <string name="bluetooth_share_file_name">bluetooth_sisältö_jako</string>
   <string name="bpp_authentication_timeout_message">Avainkoodin antaminen aikakatkaistiin %1$s</string>
   <string name="bpp_cancel">Peruuta</string>
   <string name="bpp_main">Bluetooth-tulostus</string>
@@ -118,9 +117,7 @@
   <string name="permlab_bluetoothShareManager">Yhteys latausten hallintaan.</string>
   <string name="permlab_bluetoothWhitelist">Sallittujen Bluetooth-laitteiden lista.</string>
   <string name="permlab_handoverStatus">Vastaanota Bluetooth-luovutus siirtolähetykset.</string>
-  <string name="process"/>
   <string name="share_prepare">Valmistellaan Bluetooth-jakoa</string>
-  <string name="sharedUserId"/>
   <string name="start_server">Käynnistä TCP palvelin</string>
   <string name="status_bpp_aborted_by_printer">Tulostus epäonnistui, tulostin keskeytti</string>
   <string name="status_bpp_canceled_by_user">Käyttäjä peruutti tulostuksen</string>

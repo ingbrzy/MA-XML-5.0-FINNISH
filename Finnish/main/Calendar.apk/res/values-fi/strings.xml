@@ -140,9 +140,6 @@
   <string name="no_title_label">(Ei otsikkoa)</string>
   <string name="not_synced">Ei synkronoitu</string>
   <string name="pengzu"/>
-  <string name="prefDefault_alerts_vibrateWhen">ei ikinä</string>
-  <string name="prefDefault_alerts_vibrate_false">ei ikinä</string>
-  <string name="prefDefault_alerts_vibrate_true">aina</string>
   <string name="prefDialogTitle_vibrateWhen">Tärinä</string>
   <string name="preferences_about_title">Tietoa</string>
   <string name="preferences_alerts_popup_title">Pop-up ilmoitus</string>

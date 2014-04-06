@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<!-- to be translated :
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Toggle camera and video (currently using %s)</string>
@@ -551,4 +552,5 @@ Step out of view for a moment"</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Please check security before connecting to this Wi-Fi network</string>
+    -->
 </resources>

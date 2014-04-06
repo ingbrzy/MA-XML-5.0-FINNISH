@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<!-- to be translated :
   <string name="FMRecording_reach_storage_threshold">Recording has stopped. Your SD card storage space is low.</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="alert_dialog_cancel">Cancel</string>
@@ -142,4 +143,5 @@
   <string name="turn_on_speaker_phone">Turn on speaker phone</string>
   <string name="type_rd"/>
   <string name="view_stations_list">View station list</string>
+    -->
 </resources>
