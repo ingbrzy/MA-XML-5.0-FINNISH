@@ -272,7 +272,7 @@
   <string name="err_resource_leak">Valitettavasti, %1$s on pysähtynyt resurssivuodon takia.</string>
   <string name="error_forbidden">Tunnuksessasi on joitain ongelmia. Synkronointi otettu pois käytöstä.</string>
   <string name="error_not_acceptable">Palvelinvirhe. Synkronointi otettu pois käytöstä.</string>
-  <string name="error_title">Sync virhe %s</string>
+  <string name="error_title">Sync virhe</string>
   <string name="error_unauthorized">Liian monta epäonnistumista tilin todennuksessa. Synkronointi poistettu käytöstä.</string>
   <string name="every_day">Joka päivä</string>
   <string name="experimental_validate">Todenna</string>
