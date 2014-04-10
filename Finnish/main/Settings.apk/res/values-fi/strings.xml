@@ -2341,7 +2341,7 @@ Yritä seuraavaa:
   <string name="title_miui_update_no">Löydetty MIUI päivitys: %s</string>
   <string name="title_miui_update_yes">MIUI on ajan tasalla</string>
   <string name="title_mms_no">Viestisuodatin pois käytöstä</string>
-  <string name="title_mms_yes">Viestisuodatin käytössä/string>
+  <string name="title_mms_yes">Viestisuodatin käytössä</string>
   <string name="title_permission_no">Lupavalvonta pois käytöstä</string>
   <string name="title_permission_yes">Lupavalvonta käytössä</string>
   <string name="title_usb_no">USB-virheenkorjaus päällä</string>
@@ -2430,7 +2430,7 @@ Yritä seuraavaa:
   <string name="unlock_set_unlock_launch_picker_enable_summary">Valitse näytön lukituksen menetelmä</string>
   <string name="unlock_set_unlock_launch_picker_title">Näyttölukitus</string>
   <string name="unlock_set_unlock_mode_biometric_weak">Kasvojentunnistus</string>
-  <string name="unlock_set_unlock_mode_none">Liu'uta</string>
+  <string name="unlock_set_unlock_mode_none">"Liu'uta"</string>
   <string name="unlock_set_unlock_mode_off">Ei mitään</string>
   <string name="unlock_set_unlock_mode_password">Salasana</string>
   <string name="unlock_set_unlock_mode_pattern">Kuvio</string>
