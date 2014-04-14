@@ -5,13 +5,13 @@
         <item>Kaikki ohjelmat</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Selain</item>
-	<item>Galleria</item>
-	<item>Lupien hallinta</item>
-	<item>Kamera</item>
-	<item>Verkko-assistentti</item>
-	<item>Sään muisti</item>
-	<item>Sää</item>
+        <item>Selain</item>
+        <item>Galleria</item>
+        <item>Lupien hallinta</item>
+        <item>Kamera</item>
+        <item>Verkko-assistentti</item>
+        <item>Sään muisti</item>
+        <item>Sää</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Yhteystiedot</item>
