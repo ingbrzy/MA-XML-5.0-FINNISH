@@ -428,10 +428,10 @@
   <string name="bluetooth_preference_scan_title">Etsi laitteita</string>
   <string name="bluetooth_profile_a2dp">Median ääni</string>
   <string name="bluetooth_profile_details">Profiiliasetukset</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+  <string name="bluetooth_profile_dun">Puhelinverkkoyhteys</string>
   <string name="bluetooth_profile_headset">Puhelimen ääni</string>
   <string name="bluetooth_profile_hid">Input device</string>
-  <string name="bluetooth_profile_opp">File transfer</string>
+  <string name="bluetooth_profile_opp">Tiedoston siirto</string>
   <string name="bluetooth_profile_pan">Internet-yhteys</string>
   <string name="bluetooth_profile_pan_nap">Internet-yhteyden jako</string>
   <string name="bluetooth_profile_sap">SIM Access</string>
@@ -635,7 +635,7 @@
   <string name="data_usage_cycle">Tietojenkäytön jakso</string>
   <string name="data_usage_cycle_editor_positive">Aseta</string>
   <string name="data_usage_cycle_editor_subtitle">Jokaisen kuukauden päivämäärä:</string>
-  <string name="data_usage_cycle_editor_title">Usage cycle reset date</string>
+  <string name="data_usage_cycle_editor_title">Käyttöjakson nollauspäivä</string>
   <string name="data_usage_disable_3g_limit">Aseta 2G-3G datarajoitus</string>
   <string name="data_usage_disable_4g_limit">Aseta 4G datarajoitus</string>
   <string name="data_usage_disable_mobile">Poistetaanko mobiilitiedonsiirto käytöstä?</string>
