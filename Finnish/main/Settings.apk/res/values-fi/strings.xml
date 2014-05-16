@@ -476,7 +476,6 @@
   <string name="brightness_auto_adjust_off">Manuaalista kirkkautta voidaan säätää mieleiseksi liikuttamalla liukusäädintä. Näytön kirkkaus säilyy muuttumattomana ympäröivästä valosta riippumatta.</string>
   <string name="brightness_auto_adjust_on">Automaattisen kirkkauden vaikutusta voidaan säätää liikuttamalla liukusäädintä. Näytön kirkkaus vaihtelee säädön ja ympäröivän valon määrästä.</string>
   <string name="brightness_summary">Säädä näytön kirkkautta</string>
-  <string name="bssid_label">BSSID:</string>
   <string name="build_number">Koontinumero</string>
   <string name="builtin_keyboard_settings_summary">Fyysisen näppäimistön asetukset</string>
   <string name="builtin_keyboard_settings_title">Fyysinen näppäimistö</string>
@@ -554,7 +553,6 @@
   <string name="common_settings">Nopeat asetukset</string>
   <string name="complete_settings">Kaikki asetukset</string>
   <string name="computing_size">Lasketaan…</string>
-  <string name="config_list_label">Määritetyt verkot</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -704,7 +702,6 @@
   <string name="debug_debugging_category">Etsitään vikaa</string>
   <string name="debug_drawing_category">Drawing</string>
   <string name="debug_input_category">Input</string>
-  <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Näytä asettelun rajat</string>
   <string name="debug_layout_summary">Näytä leikkeen rajat, marginaalit, jne.</string>
   <string name="debug_log">User experience program</string>
@@ -766,7 +763,6 @@
   <string name="dirac_mode_in_ear">Xiaomi nappikuulokkeet</string>
   <string name="dirac_mode_off">Dirac pois päältä</string>
   <string name="dirac_mode_piston_100">Xiaomi piston-nappikuulokkeet</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_adb_debug_summary">Poista USB-virheenkorjaus käytöstä</string>
   <string name="disable_anti_spam_summary">Viestisuodatin pois käytöstä</string>
   <string name="disable_app_permission_summary">Käytönvalvonta on pois päältä</string>
@@ -775,7 +771,6 @@
   <string name="disable_power_key_long_press_under_keyguard">Poista käytöstä lukitusnäytössä</string>
   <string name="disable_text">Poista käytöstä</string>
   <string name="disabled">Ei käytössä</string>
-  <string name="disconnect">Katkaise yhteys</string>
   <string name="display_font_size_label">Fontin koko:</string>
   <string name="display_label">Näyttö</string>
   <string name="display_order_text">Järjestä:</string>
@@ -869,7 +864,6 @@
   <string name="empty_list_msg">"Yhtään kolmannen osapuolen sovellusta ei ole asennettu."</string>
   <string name="emptylist_fwlog_call">Estetyt puhelut kirjataan tänne.</string>
   <string name="emptylist_fwlog_ms">Kaikki estetyt tekstiviestit ja MMS-viestit kirjataan tänne.</string>
-  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB-virheenkorjaus</string>
   <string name="enable_adb_debug_summary">Kun USB kytketään, käytä ADB-komentoa</string>
   <string name="enable_adb_debug_title">Ota USB-virheenkorjaus käyttöön</string>
@@ -1020,8 +1014,6 @@
   <string name="gadget_toggle_bluetooth">Päivitetään Bluetooth asetuksia</string>
   <string name="gadget_toggle_wifi">Päivitetään WiFi asetuksia</string>
   <string name="game_controller_settings_category">Peliohjain</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="haptic_feedback_enable_title">Värinä koskettaessa</string>
   <string name="haptic_feedback_level">Värinän voimakkuus</string>
   <string name="hardkeyboard_category">Fyysisen näppäimistön asetukset</string>
@@ -1054,18 +1046,6 @@
   <string name="heavy_weight_stop_description">"Tätä sovellusta ei voida pysäyttää turvallisesti. Jos pysäytät sen, saatat menettää osan tämänhetkisestä työstäsi."</string>
   <string name="hello_world">Hei maailma!</string>
   <string name="help_label">Apua</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">Piilotetut SSID:</string>
   <string name="history_details_title">History details</string>
   <string name="home_key">Kotinäppäin</string>
   <string name="ime_security_warning">%1$s voi tallentaa kaiken kirjoitetun tekstin, mukaan lukien henkilötiedot (esim. salasanoja ja luottokorttien numeroita). Käytä tätä syöttötapaa?</string>
@@ -1110,7 +1090,6 @@
   <string name="internal_storage">Järjestelmän muisti</string>
   <string name="invalid_location">"Asennussijainti ei kelvollinen."</string>
   <string name="invalid_size_value">"Pakkauskokoa ei voitu laskea."</string>
-  <string name="ipaddr_label">IPaddr:</string>
   <string name="item_app_permission">Sovelluksen käyttöoikeudet</string>
   <string name="item_install_monitor">Asenna seuranta</string>
   <string name="item_mms">Suodata ei-toivotut viestit</string>
@@ -1156,7 +1135,6 @@
   <string name="led_settings">LED</string>
   <string name="legal_information">Oikeudellisia tietoja</string>
   <string name="license_title">Lisenssi</string>
-  <string name="link_speed_label">Yhteysnopeus:</string>
   <string name="local_backup_password_summary_change">Kosketa muuttaaksesi tai poistaaksesi salasanan työpöydän täydeltä varmuuskopioinnilta</string>
   <string name="local_backup_password_summary_none">"Työpöydän täysi varmuuskopiointi ei ole tällä hetkellä suojattu"</string>
   <string name="local_backup_password_title">Työpöydän varmuuskopioinnin salasana</string>
@@ -1242,7 +1220,6 @@
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Sammuta lte ram dump</string>
   <string name="lte_ram_dump_on">Kytke lte ram dump</string>
-  <string name="macaddr_label">MAC-osoite:</string>
   <string name="main_running_process_description">Pääprosessi käytössä.</string>
   <string name="man_add_application">Lisää automaattisesti käynnistyvät sovellukset manuaalisesti</string>
   <string name="manage_device_admin">Laitteen ylläpitäjät</string>
@@ -1362,8 +1339,6 @@ Yritä seuraavaa:
   <string name="network_assistant">Datan käyttö</string>
   <string name="network_detail">%s Verkon tiedot</string>
   <string name="network_settings_title">Mobiiliverkot</string>
-  <string name="network_state_label">Verkon tila:</string>
-  <string name="networkid_label">Verkon ID:</string>
   <string name="networks">Operaattorin valinta</string>
   <string name="new_backup_pw_prompt">Kirjoita uusi salasana täydelle varmuuskopioinnille tähän</string>
   <string name="new_bw_list_button">Lisää kontakti</string>
@@ -2004,7 +1979,6 @@ Yritä seuraavaa:
   <string name="roaming_reenable_title">Salli roaming-tila?</string>
   <string name="roaming_turn_it_on_button">Laita päälle</string>
   <string name="roaming_warning">Kun sallit roaming-tilan, siitä voi aiheutua merkittäviä verkkovierailumaksuja!</string>
-  <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">Järjestelmän puhdistus</string>
   <string name="running_processes_item_description_p_p">%1$d prosessia ja %2$d palvelua</string>
   <string name="running_processes_item_description_p_s">%1$d prosessia ja %2$d palvelu</string>
@@ -2019,7 +1993,6 @@ Yritä seuraavaa:
   <string name="runningservices_settings_title">Käynnissä olevat palvelut</string>
   <string name="save_button">Tallenna</string>
   <string name="scan_done">Tarkistus valmis</string>
-  <string name="scan_list_label">Tarkistuksen tulokset:</string>
   <string name="scanning_virus">Tarkistetaan...</string>
   <string name="score">Pisteet</string>
   <string name="score_good_state">Puhelin on jo optimoitu</string>
@@ -2231,7 +2204,6 @@ Yritä seuraavaa:
   <string name="spellchecker_quick_settings">Asetukset</string>
   <string name="spellchecker_security_warning">Oikoluku saattaa kerätä kaikki kirjoittamasi tekstit, sisältäen henkilökohtaisia tietoja kuten salasanoja ja pankkikorttien numeroita. Lähde sovellukselta %1$s. Käytetäänkö oikolukua?</string>
   <string name="spellcheckers_settings_title">Oikoluku</string>
-  <string name="ssid_label">SSID:</string>
   <string name="start_checking_memory">Tarkistetaan muistin kuntoa...</string>
   <string name="start_checking_protection">Tarkistetaan  reaaliaikasuojaa...</string>
   <string name="start_checking_trash">Tarkistetaan sovellusvälimuistia...</string>
@@ -2281,14 +2253,12 @@ Yritä seuraavaa:
   <string name="subscription_02_summary">Aseta säädöt SUB2 verkkoasetuksiin</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Tarkista sovellukset virusten varalta ennen asennusta</string>
   <string name="summary_mms">Suodata e-toivotut viestit (tarjoukset, mainokset, jne.)</string>
   <string name="summary_permission">Suojaa yksityisyyttäni kolmannen osapuolen sovelluksilta</string>
   <string name="summary_usb">Vältä viruksien leviäminen USB-yhteyden kautta</string>
   <string name="summary_virus">Löydetty %2$d virusta</string>
   <string name="summary_virus_update">Päivitä virustunnisteet automaattisesti kun WiFi yhdistetty</string>
-  <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sync_active">Synkronointi aktiivinen</string>
   <string name="sync_automatically">Synkronoi sovellustiedot automaattisesti</string>
   <string name="sync_calendar">Kalenteri</string>
@@ -2320,7 +2290,6 @@ Yritä seuraavaa:
   <string name="testing_phone_info">Puhelimen tiedot</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Käyttötiedot</string>
-  <string name="testing_wifi_info">WiFi-tiedot</string>
   <string name="tether_settings_title_all">Yhteyden jako</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-yhteyden jako</string>
   <string name="tether_settings_title_usb">USB-yhteyden jako</string>
@@ -2328,7 +2297,6 @@ Yritä seuraavaa:
   <string name="tether_settings_title_wifi">kannettava yhteyspiste</string>
   <string name="tethering_help_button_text">Apua</string>
   <string name="time_picker_title">Aika</string>
-  <string name="time_zone_auto_stub">Valitse Aikavyöhyke</string>
   <string name="timezone_settings">Aikavyöhyke</string>
   <string name="title_app_update_no">%d sovelluksella on päivityksiä</string>
   <string name="title_app_update_yes">Kaikki sovellukset ovat ajan tasalla</string>
@@ -2713,7 +2681,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_advanced_mac_address_title">MAC-osoite</string>
   <string name="wifi_advanced_settings_label">IP-asetukset</string>
   <string name="wifi_advanced_titlebar">Edistynyt WiFi</string>
-  <string name="wifi_api_test">WiFi API</string>
   <string name="wifi_auto_connect">Yhdistä automaattisesti</string>
   <string name="wifi_cancel">Peruuta</string>
   <string name="wifi_certificate">Certificate</string>
@@ -2728,9 +2695,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_disabled_network_failure">Vältetty heikkoa internet-yhteyttä</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Anonyymi identiteetti</string>
   <string name="wifi_eap_ca_cert">CA-sertifikaatti</string>
   <string name="wifi_eap_identity">Identiteetti</string>
@@ -2747,10 +2712,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_failed_save_message">Verkkoa ei voitu tallentaa</string>
   <string name="wifi_forget">Unohda</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">Lentokonetilassa</string>
   <string name="wifi_ip_address">IP-osoite</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP-asetukset</string>
   <string name="wifi_ip_settings_invalid_dns">Kirjoita voimassa oleva DNS-osoite.</string>
   <string name="wifi_ip_settings_invalid_gateway">Kirjoita voimassa oleva Gateway-osoite.</string>
@@ -2769,7 +2732,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
   <string name="wifi_more">Lisää</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Ei kantoalueella</string>
   <string name="wifi_notify_open_networks">Verkkoilmoitus</string>
   <string name="wifi_notify_open_networks_summary">Ilmoita, kun avoin verkko on käytettävissä</string>
@@ -2805,19 +2767,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_security">Turvallisuus</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
   <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">WiFi-taajuuskaista</string>
@@ -2892,14 +2844,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_speed">Yhteysnopeus</string>
   <string name="wifi_ssid">Verkon SSID</string>
   <string name="wifi_starting">Käynnistetään WiFi...</string>
-  <string name="wifi_state_disabled">Pois käytöstä</string>
-  <string name="wifi_state_disabling">Poistetaan käytöstä</string>
-  <string name="wifi_state_enabled">Käytössä</string>
-  <string name="wifi_state_enabling">Otetaan käyttöön</string>
-  <string name="wifi_state_label">WiFi:n tila:</string>
-  <string name="wifi_state_unknown">Tuntematon</string>
   <string name="wifi_status">Tila</string>
-  <string name="wifi_status_test">WiFi:n tila</string>
   <string name="wifi_stopping">Sammutetaan WiFi...</string>
   <string name="wifi_tether_checkbox_text">Kannettava WiFi-yhteyspiste</string>
   <string name="wifi_tether_configure_ap_text">Määritä WiFi-yhteyspiste</string>
@@ -2909,7 +2854,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_tether_failed_subtext">Portable WiFi Hotspot error</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
-  <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">AS Certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Peruuta</string>
   <string name="wifi_wapi_cert_create_subdir">Luo hakemisto</string>

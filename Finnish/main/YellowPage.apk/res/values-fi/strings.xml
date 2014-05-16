@@ -38,7 +38,6 @@
   <string name="express_inquiry_delivered">Delivered</string>
   <string name="express_inquiry_history">History</string>
   <string name="express_inquiry_indication">Tracking number</string>
-  <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
   <string name="express_inquiry_logistics_indication">Courier name</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">No results.</string>
