@@ -55,7 +55,6 @@
   <string name="audio_mode_earpiece">Korvakuuloke</string>
   <string name="audio_mode_speaker">kaiutin</string>
   <string name="audio_mode_wired_headset">Langalliset kuulokkeet</string>
-  <string name="audio_mode_wired_headset">Langalliset kuulokkeet</string>
   <string name="auth_username_summary">Todentamiseen käytetty käyttäjätunnus</string>
   <string name="auth_username_title">Todentautumis käyttäjätunnus</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
