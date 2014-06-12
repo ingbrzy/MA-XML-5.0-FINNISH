@@ -158,7 +158,7 @@
   <string name="app_forward_locked">Sovellus on kopiointisuojattu.</string>
   <string name="app_install_location_summary">Vaihda uusien sovellusten oletusasennussijaintia.</string>
   <string name="app_install_location_title">Ensisijainen asennussijainti</string>
-  <string name="app_log_tab_title">Permission log</string>
+  <string name="app_log_tab_title">Luvat, logikirja</string>
   <string name="app_manage_tab_title">Sovellukset</string>
   <string name="app_name">Turvallisuus</string>
   <string name="app_name_label">Sovellus</string>
@@ -512,7 +512,7 @@
   <string name="camera_key_action_shortcut_title">Pikakuvake</string>
   <string name="camera_key_action_shortcut_wake">Lukitse/Herätä laite</string>
   <string name="camera_key_action_title">MI Painike</string>
-  <string name="camera_key_action_toggle_title">Trigger toggle</string>
+  <string name="camera_key_action_toggle_title">Käynnistys kytkin</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_alert">Peruuta tekemäsi muutokset?</string>
   <string name="cancel_button">Peruuta</string>
