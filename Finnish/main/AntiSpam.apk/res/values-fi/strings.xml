@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Suojus</string>
+  <string name="app_name">Suojaus</string>
   <string name="bl_block_info" formatted="false">Torjuttu: Numero %d, tiedot %d</string>
   <string name="bl_no_blacklist">Torjutut lista tyhjä</string>
   <string name="bl_no_block_call">Kaikki torjutut puhelut näkyvät täällä</string>
@@ -65,7 +65,7 @@
   <string name="qm_auto_time_turn_on">Alkaen</string>
   <string name="qm_auto_time_turn_on_title">Aseta aika, jolloin hiljainen tila asetus alkaa</string>
   <string name="qm_notification">Hiljainen tila päällä.</string>
-  <string name="qm_open">Ota Hiljainen Tila käyttöön</string>
+  <string name="qm_open">Ota hiljainen tila käyttöön</string>
   <string name="qm_other_settings">Kehittynyt</string>
   <string name="qm_other_settings_group">Muut asetukset</string>
   <string name="qm_other_settings_info">Määritä toiminto puheluille ja viesteille kun hiljainen tila on valittuna</string>
@@ -84,7 +84,7 @@
   <string name="qm_vip_list_custom_group">Minun sallitut lista</string>
   <string name="qm_vip_list_group">Sallitut lista</string>
   <string name="qm_vip_sms_setting_button">Hiljennä sallitut listan viestit</string>
-  <string name="quiet_mode">Hiljainen Tila</string>
+  <string name="quiet_mode">Hiljainen tila</string>
   <string name="st_advanced_setting_group">Kehittyneet Asetukset</string>
   <string name="st_bl_block_setting_title">Kysy myöhemmin</string>
   <string name="st_bl_setting_group">Torjutut listan asetukset</string>
@@ -97,7 +97,7 @@
   <string name="st_block_unknown_call">Estä kaikki tuntemattomat puhelut</string>
   <string name="st_block_unknown_sms">Estä kaikki tuntemattomat viestit</string>
   <string name="st_call_group">Soita</string>
-  <string name="st_common_setting_group">Nopea katsaus</string>
+  <string name="st_common_setting_group">Suodatus asetukset</string>
   <string name="st_filter_keywords_setting_summary1">Viestit tuntemattomilta estetään.</string>
   <string name="st_filter_keywords_setting_summary2">Lisää useita avainsanoja rajaamalla ne pilkulla.</string>
   <string name="st_filter_keywords_setting_title">Aseta suodatettavat avainsanat</string>
@@ -115,7 +115,7 @@
   <string name="tab_block_log_unKnowNumber">Tuntematon numero</string>
   <string name="tab_call">Soittoloki</string>
   <string name="tab_sms">Viestiloki</string>
-  <string name="tab_title">Suojus</string>
+  <string name="tab_title">Suojaus</string>
   <string name="toast_keyword_blank">Avainsana on tyhjä</string>
   <string name="toast_keyword_exist">Avainsana: %s on jo käytössä</string>
   <string name="toast_keyword_invalid">Virheellinen avainsana</string>
