@@ -5,8 +5,8 @@
   <string name="accessibility_all_day">Koko päivän tapahtuma</string>
   <string name="accessibility_pick_end_date">Loppumispäivä</string>
   <string name="accessibility_pick_end_time">Loppumisaika</string>
-  <string name="accessibility_pick_start_date">Alkamis päivä</string>
-  <string name="accessibility_pick_start_time">Alkamis aika</string>
+  <string name="accessibility_pick_start_date">Alkamispäivä</string>
+  <string name="accessibility_pick_start_time">Alkamisaika</string>
   <string name="accessibility_pick_time_zone">Aikavyöhyke</string>
   <string name="accessibility_reminder_privacy">Yksityisyys</string>
   <string name="accessibility_reminder_showmeas">Näytä minut..</string>
@@ -21,7 +21,7 @@
   <string name="accounts">Tunnukset &amp; synkronointi</string>
   <string name="acct_not_synced">"Tätä tunnusta ei synkronoida, joten kalenteri ei ole välttämättä ajan tasalla."</string>
   <string name="acessibility_cal_notification">Kalenterin ilmoitus</string>
-  <string name="acessibility_selected_marker_description">Valitse tapahtma</string>
+  <string name="acessibility_selected_marker_description">Valitse tapahtuma</string>
   <string name="acessibility_snooze_notification">Ilmoituksen torkku</string>
   <string name="activity_summary">10 yuan lotto</string>
   <string name="activity_title">MIUI uudenvuoden lahjat</string>
@@ -34,14 +34,14 @@
   <string name="app_label">Kalenteri</string>
   <string name="attendees_label">Vierailijat</string>
   <string name="birthday_calendar_display_name">Syntymäpäivämuistutus</string>
-  <string name="birthday_event_description">"Tänään on henkilön %1$s's syntymäpäivä!"</string>
+  <string name="birthday_event_description">"Tänään on henkilön %1$s syntymäpäivä!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 päivää syntymäpäivään (%3$s)</string>
   <string name="birthday_notification_text_today">"Älä unohda onnitella syntymäpäivästä!"</string>
-  <string name="birthday_notification_title_three_days_later">"%1$s's syntymäpäivä lähestyy"</string>
-  <string name="birthday_notification_title_today">"%1$s's syntymäpäivä"</string>
+  <string name="birthday_notification_title_three_days_later">"%1$s, syntymäpäivä tulossa"</string>
+  <string name="birthday_notification_title_today">"%1$s viettää syntymäpäivää"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">P</string>
   <string name="button_month">K</string>
@@ -49,9 +49,9 @@
   <string name="change_response_title">Vaihda vastaus</string>
   <string name="chongsha"/>
   <string name="copy_db">Lähetä tietokanta</string>
-  <string name="copy_email">Kopioi sähköposti</string>
+  <string name="copy_email">Kopioi sähköpostiosoite</string>
   <string name="copy_number">Kopioi puhelinnumero</string>
-  <string name="create_an_account_desc">"Kalenteri toimii paremmin Google tunnuksella.
+  <string name="create_an_account_desc">"Kalenteri toimii paremmin Xiaomi tai Google-tilillä.
 
 • Pääset siihen mistä vain selaimesta
 • Varmuuskopioi tapahtumasi turvallisesti"</string>
@@ -105,7 +105,7 @@
   <string name="gadget_no_events">Ei tulevia kalenterin tapahtumia</string>
   <string name="gadget_title">Kalenteri</string>
   <string name="goto_today">Tänään</string>
-  <string name="hide_controls">Piilota ohjaimet</string>
+  <string name="hide_controls">Piilota painikkeet</string>
   <string name="hint_attendees">Vieraat</string>
   <string name="hint_description">Kuvaus</string>
   <string name="hint_what">Tapahtuman nimi</string>
@@ -191,7 +191,7 @@
   <string name="select_synced_calendars_title">Synkronoitavat kalenterit</string>
   <string name="select_visible_calendars_title">Näytettävät kalenterit</string>
   <string name="show_all_lunar">Näytä kuu</string>
-  <string name="show_controls">Näytä hallintalaitteet</string>
+  <string name="show_controls">Näytä painikkeet</string>
   <string name="show_day_view">Näytä päivä</string>
   <string name="show_newer_events">Paina näyttääksesi tapahtumat %1$s jälkeen</string>
   <string name="show_older_events">Paina näyttääksesi tapahtumat ennen %1$s</string>
