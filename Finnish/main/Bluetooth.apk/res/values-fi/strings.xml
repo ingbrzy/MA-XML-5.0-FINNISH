@@ -63,7 +63,7 @@
   <string name="ftp_notif_title">Avainkoodipyyntö FTP istunnolle</string>
   <string name="ftp_session_key_dialog_header">Bluetooth istunnolle tarvitaan avainkoodi</string>
   <string name="ftp_session_key_dialog_title">Anna istunnon avainkoodi %1$s</string>
-  <string name="hello">Hei Maailma, Toiminnan testaus</string>
+  <string name="hello">Hei maailma, toiminnan testaus</string>
   <string name="inbound_history_title">"Saapuva: "</string>
   <string name="inbound_noti_title">Bluetooth: Vastaanotetut tiedostot</string>
   <string name="incoming_file_confirm_Notification_caption">Vastaanota saapuva tiedosto?</string>
@@ -82,11 +82,11 @@
   <string name="map_acceptance_dialog_header">Puhelinluettelon käyttölupa</string>
   <string name="map_acceptance_dialog_title">%1$s haluaisi käyttää puhelinluetteloasi. Anna lupa %2$s?</string>
   <string name="map_acceptance_timeout_message">Yhteyden hyväksyminen aikakatkaistiin %1$s</string>
-  <string name="map_alert_conn_failed_message">Bluetooth KARTTA yhteys epäonnistui.</string>
+  <string name="map_alert_conn_failed_message">Bluetooth MAP -yhteys epäonnistui.</string>
   <string name="map_authentication_timeout_message">Avainkoodin syöttäminen aikakatkaistiin %1$s</string>
   <string name="map_notif_message">Salli juurikansioon pääsy %1$s</string>
   <string name="map_notif_ticker">OBEX todennuspyyntö</string>
-  <string name="map_notif_title">KARTTA istunnon avainkoodipyyntö</string>
+  <string name="map_notif_title">MAP-istunnon avainkoodipyyntö</string>
   <string name="map_session_key_dialog_header">Bluetooth-istunnolle tarvitaan avainkoodi</string>
   <string name="map_session_key_dialog_title">Anna istunnon avainkoodi %1$s</string>
   <string name="miui_transfer_history_title">Bluetooth-siirtohistoria</string>
@@ -118,7 +118,7 @@
   <string name="permlab_bluetoothWhitelist">Sallittujen Bluetooth-laitteiden lista.</string>
   <string name="permlab_handoverStatus">Vastaanota Bluetooth-luovutus siirtolähetykset.</string>
   <string name="share_prepare">Valmistellaan Bluetooth-jakoa</string>
-  <string name="start_server">Käynnistä TCP palvelin</string>
+  <string name="start_server">Käynnistä TCP-palvelin</string>
   <string name="status_bpp_aborted_by_printer">Tulostus epäonnistui, tulostin keskeytti</string>
   <string name="status_bpp_canceled_by_user">Käyttäjä peruutti tulostuksen</string>
   <string name="status_bpp_cancelled_by_printer">Tulostus epäonnistui, tulostin peruutti</string>
