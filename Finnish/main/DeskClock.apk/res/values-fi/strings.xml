@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Lisää hälytys</string>
-  <string name="alarm_alert">Aseta soittoääni</string>
+  <string name="alarm_alert">Aseta hälytysääni</string>
   <string name="alarm_alert_alert_silenced">Hälytys hiljennetään %d minuutin jälkeen.</string>
   <string name="alarm_alert_dismiss_text">Hylkää</string>
   <string name="alarm_alert_snooze_set">Torkku %d minuutiksi.</string>
@@ -20,7 +20,7 @@
   <string name="alarm_repeat">Toista</string>
   <string name="alarm_screen">Aseta vaihteleva soittoääni</string>
   <string name="alarm_settings">Hälytyksen asetukset</string>
-  <string name="alarm_vibrate">Tärinä</string>
+  <string name="alarm_vibrate">Värinä</string>
   <string name="alarm_volume_summary">Aseta hälytyksien ja ajastimien äänenvoimakkuudet</string>
   <string name="alarm_volume_title">Hälytyksen äänenvoimakkuus</string>
   <string name="alarmclock_empty_text">Ei hälytyksiä</string>
@@ -41,10 +41,10 @@
   <string name="day">1 päivä</string>
   <string name="day_concat">". "</string>
   <string name="days">%s päivää</string>
-  <string name="default_alarm_alert">Aseta oletussoittoääni</string>
-  <string name="default_alarm_title">Oletus soittoääni</string>
+  <string name="default_alarm_alert">Aseta oletushälytysääni</string>
+  <string name="default_alarm_title">Oletus hälytysääni</string>
   <string name="default_label">Hälytys</string>
-  <string name="default_ringtone_setting_title">Aseta oletussoittoääni</string>
+  <string name="default_ringtone_setting_title">Aseta oletushälytysääni</string>
   <string name="delelte_selected_timezone">Oletko varma että haluat poistaa valitun aikavyöhykkeen(t)?</string>
   <string name="delete">Poista</string>
   <string name="delete_alarm">Poista hälytys</string>
@@ -59,21 +59,21 @@
   <string name="elapsed_time_format">(+%s)</string>
   <string name="enable_alarm">Laita hälytys päälle</string>
   <string name="every_day">Joka päivä</string>
-  <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="gallery_button_description">Galleria</string>
   <string name="hide_clock">Piilota kello</string>
   <string name="home_button_description">Käynnistäjä</string>
   <string name="hour">1 tunti</string>
   <string name="hour_unit">H</string>
   <string name="hours">%s tuntia</string>
-  <string name="keep_screen_on">Pidä näyttö päällä kun ajoitetaan</string>
-  <string name="label">Aseta otsikko</string>
+  <string name="keep_screen_on">Älä sammuta näyttöä</string>
+  <string name="label">Aseta nimi</string>
   <string name="lap">Kierros</string>
   <string name="lap_num">Kierros</string>
-  <string name="legal_workday">Oikeudellinen työpäivä</string>
+  <string name="legal_workday">Työpäivä</string>
   <string name="legal_workday_invalidate">Data vanheni (Tällä hetkellä hälyytys soi Ma-Pe)</string>
   <string name="legal_workday_invalidate_message">(Data vanheni, päivitä Asetuksissa)</string>
-  <string name="legal_workday_message">(Hälytys pois päältä juhlapäivinä)</string>
+  <string name="legal_workday_message">( Ei hälytystä juhlapäivinä)</string>
   <string name="loading_ringtone">Ladataan soittoääntä...</string>
   <string name="menu_add_worldclock">Lisää aikavyöhyke</string>
   <string name="menu_alarmclock_edit">Muokkaa hälytyskelloa</string>
@@ -100,8 +100,8 @@
   <string name="shutdown_alarm_title">Sammutuksen hälytys</string>
   <string name="silent_alarm_summary">Hiljainen</string>
   <string name="snooze_confirm_cancel">Peruuta torkku</string>
-  <string name="snooze_confirm_message">"Torkkua on viivytetty，%s torkku uudelleen.
-Voit myös peruuttaa tämän hälytyksen."</string>
+  <string name="snooze_confirm_message">"Torkkua on viivästetty，%s torkku uudelleen.
+Voit myös perua tämän hälytyksen."</string>
   <string name="snooze_confirm_ok">Okei</string>
   <string name="snooze_duration_title">Torkun kesto</string>
   <string name="start">Aloita</string>
@@ -110,7 +110,7 @@ Voit myös peruuttaa tämän hälytyksen."</string>
   <string name="stopwatch_title">Sekuntikello</string>
   <string name="system_time_setting">Asetukset</string>
   <string name="time">Aika</string>
-  <string name="timer_alert_alert_silenced">Ajastin pysähtyi %d minuutin jälkeen.</string>
+  <string name="timer_alert_alert_silenced">Hälytys vaimennettiin %d minuutin jälkeen.</string>
   <string name="timer_continue">Jatka</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_hour">H</string>
@@ -119,7 +119,6 @@ Voit myös peruuttaa tämän hälytyksen."</string>
   <string name="timer_minute">M</string>
   <string name="timer_start_alarm">Aloita ajastin</string>
   <string name="timer_title">Ajastin</string>
-  <string name="timer_tutorial">Vipaise myötäpäivään</string>
   <string name="timezone_exist_error_message">Aikavyöhykkeen lisäys epäonnistui. Aikavyöhyke on jo olemassa, valitse uudelleen.</string>
   <string name="timezone_search_hint">Etsi kaupunki, joka lisätään maailmankelloon</string>
   <string name="volume_button_dialog_title">Napin vaikutus</string>

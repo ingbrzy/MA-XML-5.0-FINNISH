@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Ilmoitus</item>
+        <item>Sähköposti</item>
+        <item>Tekstiviesti</item>
+        <item>Hälytys</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Ei muistutusta</item>
+        <item>0 minuuttia</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>1 päivä</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ei muistutusta</item>
+        <item>0 minuuttia</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>1 päivä</item>
+        <item>2 päivää</item>
+        <item>1 viikko</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Oletuskielen mukaan</item>
+        <item>Lauantai</item>
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Varattu</item>
+        <item>Käytettävissä</item>
+        <item>Epävarma</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Oletus</item>
+        <item>Yksityinen</item>
+        <item>Yleinen</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ensimmäinen</item>
+        <item>toinen</item>
+        <item>kolmas</item>
+        <item>neljäs</item>
+        <item>viimeinen</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Ei vastausta</item>
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Vain tässä tapahtumassa</item>
+        <item>Tässä ja tulevissa tapahtumissa</item>
+        <item>Kaikissa tapahtumissa</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tässä &amp;amp; tulevissa tapahtumissa</item>
+        <item>Kaikissa tapahtumissa</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Vain tässä tapahtumassa</item>
+        <item>Kaikissa tapahtumissa tässä sarjassa</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Päivä</item>
+        <item>Viikko</item>
+        <item>Kuukausi</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Tulen parin minuutin päästä.</item>
+        <item>Tule tänne 10 minuutin päästä.</item>
+        <item>Aloita ennen minua.</item>
+        <item>"Anteeksi, nyt ei käy. Aikataulu ei passaa."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Aina</item>
+        <item>Kun ääni vaimennettu</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Läpinäkyvä musta</item>
+        <item>Valkea tausta</item>
+    </string-array>
+</resources>

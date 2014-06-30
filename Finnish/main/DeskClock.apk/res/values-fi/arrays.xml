@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>Hälytykseen aikaa alle 1 minuutti.</item>
+        <item>Hälytykseen aikaa %1$s</item>
+        <item>Hälytykseen aikaa %2$s</item>
+        <item>Hälytykseen aikaa %1$s %2$s</item>
+        <item>Hälytykseen aikaa %3$s</item>
+        <item>Hälytykseen aikaa %1$s %3$s</item>
+        <item>Hälytykseen aikaa %2$s %3$s</item>
+        <item>Hälytykseen aikaa %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Yesterday</item>
+        <item>Today</item>
+        <item>Tomorrow</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Kerran</item>
+        <item>Päivittäin</item>
+        <item>Työpäivinä </item>
+        <item>Maanantai - perjantai</item>
+        <item>Mukautettu</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Kerran</item>
+        <item>Päivittäin</item>
+        <item>Maanantai - perjantai</item>
+        <item>Mukautettu</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Hälytys tapahtuu alle 1 minuutin kuluttua.</item>
+        <item>Hälytys tapahtuu %1$s kuluttua.</item>
+        <item>Hälytys tapahtuu %2$s kuluttua.</item>
+        <item>Hälytys tapahtuu %1$s and %2$s kuluttua.</item>
+        <item>Hälytys tapahtuu %3$s kuluttua.</item>
+        <item>Hälytys tapahtuu %1$s and %3$s kuluttua.</item>
+        <item>Hälytys tapahtuu %2$s and %3$s kuluttua.</item>
+        <item>Hälytys tapahtuu %1$s, %2$s, and %3$s kuluttua.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuutti</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>20 minuuttia</item>
+        <item>25 minuuttia</item>
+        <item>30 minuuttia</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Ei koskaan</item>
+        <item>1 minuutti</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>20 minuuttia</item>
+        <item>25 minuuttia</item>
+        <item>30 minuuttia</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Ei mitään</item>
+        <item>Torkku</item>
+        <item>Hylkää</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
