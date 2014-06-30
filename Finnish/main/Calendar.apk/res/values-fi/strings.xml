@@ -181,7 +181,7 @@
   <string name="response_no">Ei</string>
   <string name="response_yes">Kyllä</string>
   <string name="work_day_indication">" "</string>
-  <string name="rest_day_indication"/>" "</string>
+  <string name="rest_day_indication">" "</string>
   <string name="save_label">Tallenna</string>
   <string name="saving_event">Tapahtuma tallennettu.</string>
   <string name="saving_event_with_guest">Päivitykset lähetetään.</string>
