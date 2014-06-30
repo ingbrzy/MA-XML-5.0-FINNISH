@@ -61,7 +61,7 @@
   <string name="format_date_md">d.M kk:mm</string>
   <string name="format_date_trend_md">d.M</string>
   <string name="format_date_week">EEE</string>
-  <string name="format_date_wmd">d.M EEE</string>
+  <string name="format_date_wmd">EEE d.M</string>
   <string name="install_tencent">Hanki Weibo sovellus</string>
   <string name="loading_weather">Ladataan säätä...</string>
   <string name="local_city">Paikalliset kaupungit</string>
