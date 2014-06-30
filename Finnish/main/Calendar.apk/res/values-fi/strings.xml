@@ -58,7 +58,7 @@
   <string name="creating_event">Tapahtuma luotu.</string>
   <string name="creating_event_with_guest">Kutsut lähetetään.</string>
   <string name="custom">"Muokattu (ei voida muokata puhelimella)"</string>
-  <string name="daily">Päivittäinen</string>
+  <string name="daily">Joka päivä</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Päivä</string>
   <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
@@ -70,15 +70,15 @@
   <string name="directory_searching_fmt">Etsitään %s...</string>
   <string name="discard_label">Peruuta</string>
   <string name="dismiss_all_label">Hylkää kaikki</string>
-  <string name="do_not_check">ÄlÄ tarkista -&gt;</string>
-  <string name="does_not_repeat">Yhden kerran tapahtuma</string>
+  <string name="do_not_check">Älä tarkista -&gt;</string>
+  <string name="does_not_repeat">Kerran</string>
   <string name="done">Palaa</string>
   <string name="edit_event_all_day_label">Koko päivä</string>
   <string name="edit_event_calendar_label">Kalenteri</string>
   <string name="edit_event_from_label">Aloitusaika</string>
   <string name="edit_event_label">Tiedot</string>
   <string name="edit_event_show_all">Näytä kaikki</string>
-  <string name="edit_event_to_label">Lopetus aika</string>
+  <string name="edit_event_to_label">Lopetusaika</string>
   <string name="edit_label">Muokkaa</string>
   <string name="email_guests_label">Sähköpostivieraat</string>
   <string name="email_picker_label">Sähköpostita sovelluksella</string>
@@ -101,14 +101,14 @@
   <string name="event_lunar_month"/>
   <string name="event_show_more">Näytä</string>
   <string name="event_view">Katso tapahtuma</string>
-  <string name="every_weekday">Joka viikonpäivä (Ma–Pe)</string>
+  <string name="every_weekday">Joka arkipäivä</string>
   <string name="gadget_no_events">Ei tulevia kalenterin tapahtumia</string>
   <string name="gadget_title">Kalenteri</string>
   <string name="goto_today">Tänään</string>
   <string name="hide_controls">Piilota painikkeet</string>
   <string name="hint_attendees">Vieraat</string>
   <string name="hint_description">Kuvaus</string>
-  <string name="hint_what">Tapahtuman nimi</string>
+  <string name="hint_what">Aihe</string>
   <string name="hint_where">Sijainti</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
@@ -130,8 +130,8 @@
   <string name="modify_event">Muuta vain tätä tapahtumaa</string>
   <string name="month_view">Kuukausi</string>
   <string name="monthly">Kuukausittain</string>
-  <string name="monthly_on_day">Kuukausittain (päivänä %s)</string>
-  <string name="monthly_on_day_count">Kuukausittain (joka %1$s %2$s)</string>
+  <string name="monthly_on_day">Kuukausittain (%s. päivänä)</string>
+  <string name="monthly_on_day_count">Kuukausittain (%1$s %2$s)</string>
   <string name="more_string">%1$s enemmän...</string>
   <string name="new_event_dialog_label">Uusi tapahtuma</string>
   <string name="new_event_dialog_option">Uusi tapahtuma</string>
@@ -180,8 +180,9 @@
   <string name="response_maybe">Ehkä</string>
   <string name="response_no">Ei</string>
   <string name="response_yes">Kyllä</string>
-  <string name="rest_day_indication"/>
-  <string name="save_label">Valmis</string>
+  <string name="work_day_indication">" "</string>
+  <string name="rest_day_indication"/>" "</string>
+  <string name="save_label">Tallenna</string>
   <string name="saving_event">Tapahtuma tallennettu.</string>
   <string name="saving_event_with_guest">Päivitykset lähetetään.</string>
   <string name="search">Etsi</string>
