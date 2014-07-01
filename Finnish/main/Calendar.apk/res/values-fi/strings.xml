@@ -16,10 +16,10 @@
   <string name="accessibility_remove_reminder">Poista muistutus</string>
   <string name="accessibility_repeats">Toistuminen</string>
   <string name="accessibility_sync_cal">Synkronoi kalenteri</string>
-  <string name="account_and_calendar">Tunnus ja kalenteri</string>
-  <string name="account_and_calendar_to_display">Näytettävä tunnus ja kalenteri</string>
-  <string name="accounts">Tunnukset &amp; synkronointi</string>
-  <string name="acct_not_synced">"Tätä tunnusta ei synkronoida, joten kalenteri ei ole välttämättä ajan tasalla."</string>
+  <string name="account_and_calendar">Tili ja kalenteri</string>
+  <string name="account_and_calendar_to_display">Näytettävä tili ja kalenteri</string>
+  <string name="accounts">Tilit ja synkronointi</string>
+  <string name="acct_not_synced">"Tätä tilia ei synkronoida, joten kalenteri ei ole välttämättä ajan tasalla."</string>
   <string name="acessibility_cal_notification">Kalenterin ilmoitus</string>
   <string name="acessibility_selected_marker_description">Valitse tapahtuma</string>
   <string name="acessibility_snooze_notification">Ilmoituksen torkku</string>
@@ -84,7 +84,7 @@
   <string name="email_picker_label">Lähetä sähköpostilla</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Tyhjää tapahtumaa ei luotu.</string>
-  <string name="event_account">Kalenteri tunnus</string>
+  <string name="event_account">Kalenteritili</string>
   <string name="event_all_day_label">Koko päivä</string>
   <string name="event_create">Uusi tapahtuma</string>
   <string name="event_delete">Poista tapahtuma</string>
@@ -135,7 +135,7 @@
   <string name="more_string">%1$s enemmän...</string>
   <string name="new_event_dialog_label">Uusi tapahtuma</string>
   <string name="new_event_dialog_option">Uusi tapahtuma</string>
-  <string name="no_calendars_found">Ennenkuin voit lisätä tapahtuman, sinun täytyy lisätä ainakin yksi kalenteritunnus laitteeseesi ja tehdä kalenterista näkyvä. Paina lisää tunnus lisätäksesi tunnuksen (jos juuri lisäsit tunnuksen, odota että se viimeistelee synkronoinnin ja yritä uudelleen). Tai paina peruuta ja tarkista, että ainakin yksi kalenteri on näkyvä.</string>
+  <string name="no_calendars_found">Ennenkuin voit lisätä tapahtuman, sinun täytyy lisätä ainakin yksi kalenteritili laitteeseesi ja tehdä kalenterista näkyvä. Paina Lisää tili lisätäksesi tilin (jos juuri lisäsit tilin, odota että se viimeistelee synkronoinnin ja yritä uudelleen). Tai paina peruuta ja tarkista, että ainakin yksi kalenteri on näkyvä.</string>
   <string name="no_syncable_calendars">Ei kalentereita</string>
   <string name="no_title_label">(Ei otsikkoa)</string>
   <string name="not_synced">Ei synkronoitu</string>
@@ -145,7 +145,7 @@
   <string name="preferences_alerts_popup_title">Pop-up ilmoitus</string>
   <string name="preferences_alerts_ringtone_title">Valitse soittoääni</string>
   <string name="preferences_alerts_title">Ilmoitukset</string>
-  <string name="preferences_alerts_vibrateWhen_title">Tärinä</string>
+  <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
   <string name="preferences_build_version">Build versio</string>
   <string name="preferences_category_account_title">Tili</string>
   <string name="preferences_category_general_title">Yleistä</string>

@@ -29,14 +29,14 @@
         <item>Mukautettu</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Hälytys tapahtuu alle 1 minuutin kuluttua.</item>
-        <item>Hälytys tapahtuu %1$s kuluttua.</item>
-        <item>Hälytys tapahtuu %2$s kuluttua.</item>
-        <item>Hälytys tapahtuu %1$s and %2$s kuluttua.</item>
-        <item>Hälytys tapahtuu %3$s kuluttua.</item>
-        <item>Hälytys tapahtuu %1$s and %3$s kuluttua.</item>
-        <item>Hälytys tapahtuu %2$s and %3$s kuluttua.</item>
-        <item>Hälytys tapahtuu %1$s, %2$s, and %3$s kuluttua.</item>
+        <item>Hälytykseen alle 1 minuuttia.</item>
+        <item>Hälytykseen %1$s.</item>
+        <item>Hälytykseen %2$s.</item>
+        <item>Hälytykseen %1$s and %2$s.</item>
+        <item>Hälytykseen %3$s.</item>
+        <item>Hälytykseen %1$s and %3$s.</item>
+        <item>Hälytykseen 2$s and %3$s.</item>
+        <item>Hälytykseen %1$s, %2$s, and %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuutti</item>
