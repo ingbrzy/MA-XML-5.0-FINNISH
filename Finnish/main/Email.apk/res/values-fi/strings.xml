@@ -218,7 +218,7 @@
   <string name="contextmenu_copylink">Kopioi linkki</string>
   <string name="contextmenu_dial_dot">Soita...</string>
   <string name="contextmenu_feedback">Lähetä palautetta</string>
-  <string name="contextmenu_help">Ohje>
+  <string name="contextmenu_help">Ohje</string>
   <string name="contextmenu_map">Map</string>
   <string name="contextmenu_openlink">Avaa selaimessa</string>
   <string name="contextmenu_send_mail">Lähetä sähköposti</string>
@@ -319,7 +319,7 @@
   <string name="manager_retry">Yritä uudelleen</string>
   <string name="manager_sync_all">Synkronoi kaikki</string>
   <string name="manager_toast_canceled">Lataus keskeytetty</string>
-  <string name="manager_toast_not_canceled">Lataus on jo suoritettu/string>
+  <string name="manager_toast_not_canceled">Lataus on jo suoritettu</string>
   <string name="manager_upload_later">Lataa myöhemmin</string>
   <string name="manager_upload_now">Lataa nyt</string>
   <string name="manager_view_completed">Näytä valmiit</string>
