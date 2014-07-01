@@ -74,7 +74,7 @@
   <string name="search_for_recordings_in_folders">Etsi äänitteitä kansioista</string>
   <string name="second" formatted="false">%d sekuntia</string>
   <string name="send_to">Lähetä</string>
-  <string name="sound_recorder_settings">Äänitys asetukset</string>
+  <string name="sound_recorder_settings">Äänitysasetukset</string>
   <string name="start_recording">Aloita äänitys</string>
   <string name="status_bar_anti_disturb">Soittoääni on mykistetty, voimakkuudensäätimellä otetaan äänet käyttöön.</string>
   <string name="status_bar_back">Klikkaa palataksesi ääninauhuriin</string>
