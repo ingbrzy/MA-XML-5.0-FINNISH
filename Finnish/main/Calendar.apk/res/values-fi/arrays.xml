@@ -1,96 +1,96 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Ilmoitus</item>
-        <item>Sähköposti</item>
-        <item>Tekstiviesti</item>
-        <item>Hälytys</item>
+        <item>Notification</item>
+        <item>Email</item>
+        <item>Text message</item>
+        <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Ei muistutusta</item>
-        <item>0 minuuttia</item>
-        <item>5 minuuttia</item>
-        <item>10 minuuttia</item>
-        <item>15 minuuttia</item>
-        <item>30 minuuttia</item>
-        <item>1 tunti</item>
-        <item>1 päivä</item>
-        <item>2 päivää</item>
-        <item>1 viikko</item>
+        <item>No reminder</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Ei muistutusta</item>
-        <item>0 minuuttia</item>
-        <item>5 minuuttia</item>
-        <item>10 minuuttia</item>
-        <item>15 minuuttia</item>
-        <item>30 minuuttia</item>
-        <item>1 tunti</item>
-        <item>1 päivä</item>
-        <item>2 päivää</item>
-        <item>1 viikko</item>
+        <item>No reminder</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Oletuskielen mukaan</item>
-        <item>Lauantai</item>
-        <item>Sunnuntai</item>
-        <item>Maanantai</item>
+        <item>Locale default</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
     </string-array>
     <string-array name="availability">
-        <item>Varattu</item>
-        <item>Käytettävissä</item>
-        <item>Epävarma</item>
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Tentative</item>
     </string-array>
     <string-array name="visibility">
-        <item>Oletus</item>
-        <item>Yksityinen</item>
-        <item>Yleinen</item>
+        <item>Default</item>
+        <item>Private</item>
+        <item>Public</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>ensimmäinen</item>
-        <item>toinen</item>
-        <item>kolmas</item>
-        <item>neljäs</item>
-        <item>viimeinen</item>
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Ei vastausta</item>
-        <item>Kyllä</item>
-        <item>Ehkä</item>
-        <item>Ei</item>
+        <item>No response</item>
+        <item>Yes</item>
+        <item>Maybe</item>
+        <item>No</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Vain tässä tapahtumassa</item>
-        <item>Tässä ja tulevissa tapahtumissa</item>
-        <item>Kaikissa tapahtumissa</item>
+        <item>Only this event</item>
+        <item>This and future events</item>
+        <item>All events</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Tässä &amp;amp; tulevissa tapahtumissa</item>
-        <item>Kaikissa tapahtumissa</item>
+        <item>This &amp; future events</item>
+        <item>All events</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Vain tässä tapahtumassa</item>
-        <item>Kaikissa tapahtumissa tässä sarjassa</item>
+        <item>Only this event</item>
+        <item>All events in the series</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Päivä</item>
-        <item>Viikko</item>
-        <item>Kuukausi</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
         <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Tulen parin minuutin päästä.</item>
-        <item>Tule tänne 10 minuutin päästä.</item>
-        <item>Aloita ennen minua.</item>
-        <item>"Anteeksi, nyt ei käy. Aikataulu ei passaa."</item>
+        <item>Running just a couple of minutes late.</item>
+        <item>Be there in about 10 minutes.</item>
+        <item>Go ahead and start without me.</item>
+        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Aina</item>
-        <item>Kun ääni vaimennettu</item>
-        <item>Ei koskaan</item>
+        <item>Always</item>
+        <item>Only when ringer is silenced</item>
+        <item>Never</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Läpinäkyvä musta</item>
-        <item>Valkea tausta</item>
+        <item>Transparent black</item>
+        <item>White background</item>
     </string-array>
 </resources>
