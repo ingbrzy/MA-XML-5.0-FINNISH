@@ -14,10 +14,10 @@
   <string name="background">Lataa taustalla</string>
   <string name="big5_summary">Asetetaan oletukseksi Windows-järjestelmän perinteinen kiinalainen versio </string>
   <string name="big5_title">BIG5</string>
-  <string name="bind_account">Sidottu MiDrive tiliin</string>
-  <string name="bind_account_summary">Jos sinulla on jo MiDrive tili voit lisätä sen noutamaan henkilötietojasi</string>
-  <string name="binded_accout_description">Tilit yhdistetään, käytä joko Xiaomi tiliäsi tai MiDrive tiliäsi kirjautumiseen, molemmat voivat lukea tietosi</string>
-  <string name="binded_accout_title">MiDrive tili</string>
+  <string name="bind_account">Sidottu MiDrive-tiliin</string>
+  <string name="bind_account_summary">Jos sinulla on jo MiDrive-tili voit lisätä sen noutamaan henkilötietojasi</string>
+  <string name="binded_accout_description">Tilit yhdistetään, käytä joko Xiaomi-tiliäsi tai MiDrive-tiliäsi kirjautumiseen, molemmat voivat lukea tietosi</string>
+  <string name="binded_accout_title">MiDrive-tili</string>
   <string name="cache_size_label">Välimuisti</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_app_garbage_cleanup">Peruuta sovelluksen puhdistus</string>
@@ -37,7 +37,7 @@
   <string name="category_zip">Pakatut tiedostot</string>
   <string name="choose_send_type">Valitse lähetys tyyppi</string>
   <string name="choose_upload_location">Valitse lähetys sijainti</string>
-  <string name="clean_app_garbage">Poista% d kohde (tta)</string>
+  <string name="clean_app_garbage">Poista% d kohde(tta)</string>
   <string name="clean_message">Poistetaan %1$s</string>
   <string name="clean_title">Poistaa yli 30 päivää vanhat tiedostot roskakorista</string>
   <string name="clean_trash_box">Tyhjennä roskakori</string>
@@ -87,7 +87,7 @@
   <string name="downloading">Ladataan...</string>
   <string name="empty_dir_cleanup_indication">%s turhat tiedostot</string>
   <string name="empty_dir_title">Tyhjät kansiot</string>
-  <string name="enable_sd_card">SD kortti ei ole saatavilla, aseta SD kortti</string>
+  <string name="enable_sd_card">SD-kortti ei ole saatavilla, aseta SD-kortti</string>
   <string name="error_filename_too_long">Tiedostonimi liian pitkä</string>
   <string name="error_info_cant_send_folder">Kansion lähettäminen ei onnistu</string>
   <string name="error_open_file_failed_no_app_found">Ei sovellusta joka voisi avata tiedoston</string>
@@ -112,17 +112,17 @@
   <string name="ftp_account_req_notice">Käyttäjätunnus ja salasana, 4~16 merkkiä, sisältää numeroja, kirjaimia, isot ja pienet kirjaimet</string>
   <string name="ftp_anonymous_login">Tuntematon FTP</string>
   <string name="ftp_invalid_username_or_password">Tunnistautumis virhe</string>
-  <string name="ftp_open_port_error">Ei voida avata valittua FTP porttia, tarkista verkkoyhteys ja yritä uudelleen.</string>
+  <string name="ftp_open_port_error">Ei voida avata valittua FTP-porttia, tarkista verkkoyhteys ja yritä uudelleen.</string>
   <string name="ftp_password_hint">Salasana</string>
   <string name="ftp_port_number">Portti</string>
-  <string name="ftp_transfer_secure">Turvallinen FTP siirto</string>
+  <string name="ftp_transfer_secure">Turvallinen FTP-siirto</string>
   <string name="ftp_username_and_passworld">Käyttäjätunnus ja salasana</string>
   <string name="ftp_username_hint">Käyttäjätunnus</string>
   <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
   <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s
 Junk"</string>
-  <string name="gbk_summary">Jos käytät GBK koodausta, esim.Windows Explorerissa, valitse tämän tyyppinen koodaus välttääksesi sekavaa kiinankielistä tekstiä</string>
+  <string name="gbk_summary">Jos käytät GBK-koodausta, esim.Windows Explorerissa, valitse tämän tyyppinen koodaus välttääksesi sekavaa kiinankielistä tekstiä</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Peruuta siivous</string>
   <string name="header_text_cleaned">Poistetut roskat</string>
@@ -224,9 +224,9 @@ Junk"</string>
   <string name="scanning" formatted="false">Tarkistaa %d sovellukset ... (kokonais %d sovellukset)</string>
   <string name="scanning_on_going">Skannataan...</string>
   <string name="sd_card_available">Tilaa vapaana:%1$s</string>
-  <string name="sd_card_size">SD kortti:%1$s</string>
-  <string name="sd_full">SD kortti on täynnä</string>
-  <string name="sd_size_label">SD kortti tallennustila</string>
+  <string name="sd_card_size">SD-kortti:%1$s</string>
+  <string name="sd_full">SD-kortti on täynnä</string>
+  <string name="sd_size_label">SD-kortti tallennustila</string>
   <string name="search_hint">Etsi tiedostoja</string>
   <string name="search_title">Etsi tiedostoja</string>
   <string name="send_to_midrive">Lähetä MiDriveen</string>
@@ -249,8 +249,8 @@ Hanki vapaata tilaa %1$s"</string>
   <string name="stay_awake_title">Pidä hereillä</string>
   <string name="stop_server">Pysäytä palvelu</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
-  <string name="storage_sd_card">SD kortti</string>
-  <string name="storage_usb">USB tallennusväline</string>
+  <string name="storage_sd_card">SD-kortti</string>
+  <string name="storage_usb">USB-tallennusväline</string>
   <string name="storage_warning">Ulkoinen tallennus ei ole saatavilla tai ei sitä voida lukea</string>
   <string name="sys_size">Kokonais tallennus %1$s</string>
   <string name="sys_size_title">Kokonais tila</string>
@@ -281,7 +281,7 @@ Hanki vapaata tilaa %1$s"</string>
   <string name="uninstall_app_data">Poista sovellus ja tiedot</string>
   <string name="unmount_inform_text">USB-tallennusvälineen asennus puretaan.</string>
   <string name="upload_failed">Lähetys epäonnistui!</string>
-  <string name="upload_file_toolarge_message">"%1$d suurempia tiedostoja kuin 300M ei voida ladata. Ole hyvä ja tarkista yksityiskohdat Siirron Hallinnasta."</string>
+  <string name="upload_file_toolarge_message">"%1$d suurempia tiedostoja kuin 300M ei voida ladata. Ole hyvä ja tarkista yksityiskohdat siirron hallinnasta."</string>
   <string name="uploading">Lähettää...</string>
   <string name="used">Käytetty</string>
   <string name="user_guide">Käyttäjänopas</string>
@@ -294,13 +294,13 @@ Hanki vapaata tilaa %1$s"</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">Versio %1$s</string>
   <string name="wait_net">Odotetaan verkkoa</string>
-  <string name="wait_sdcard">Odotetaan SD kortin asentumista</string>
+  <string name="wait_sdcard">Odotetaan SD-kortin asentumista</string>
   <string name="wait_wifi">Odotetaan Wi-Fi-yhteyttä</string>
   <string name="waiting">Odotetaan...</string>
   <string name="waiting_for_cleaning">Odotetaan siivousta</string>
   <string name="waiting_for_scanning">Odotetaan tarkistusta</string>
   <string name="wangpan_root_path">My Drive</string>
-  <string name="wifi_state">Wi-Fi Tila</string>
-  <string name="xiaomi_account">Xiaomi tili</string>
+  <string name="wifi_state">Wi-Fi-Tila</string>
+  <string name="xiaomi_account">Xiaomi-tili</string>
   <string name="yes">Kyllä</string>
 </resources>

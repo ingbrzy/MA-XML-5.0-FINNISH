@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Poista %1$d tiedostoa</item>
+        <item quantity="zero">Poista %1$d tiedostoa</item>
+        <item quantity="one">Poista %1$d tiedosto</item>
+        <item quantity="two">Poista %1$d tiedostoa</item>
+        <item quantity="few">Poista %1$d tiedostoa</item>
+        <item quantity="many">Poista %1$d tiedostoa</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" ja %1$d kansiota?"</item>
+        <item quantity="zero">" ja %1$d kansiota?"</item>
+        <item quantity="one">" ja %1$d kansio?"</item>
+        <item quantity="two">" ja %1$d kansiota?"</item>
+        <item quantity="few">" ja %1$d kansiota?"</item>
+        <item quantity="many">" ja %1$d kansiota?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="zero">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+        <item quantity="two">%d kohdetta</item>
+        <item quantity="few">%d kohdetta</item>
+        <item quantity="many">%d kohdetta</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d tiedostoa ladataan</item>
+        <item quantity="zero">%1$d tiedostoa ladataan</item>
+        <item quantity="one">%1$d tiedosto ladataan</item>
+        <item quantity="two">%1$d tiedostoa ladataan</item>
+        <item quantity="few">%1$d tiedostoa ladataan</item>
+        <item quantity="many">%1$d tiedostoa ladataan</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d tiedostoa ladataan</item>
+        <item quantity="zero">%1$d tiedostoa ladataan</item>
+        <item quantity="one">%1$d tiedosto ladataan</item>
+        <item quantity="two">%1$d tiedostoa ladataan</item>
+        <item quantity="few">%1$d tiedostoa ladataan</item>
+        <item quantity="many">%1$d tiedostoa ladataan</item>
+    </plurals>
+</resources>

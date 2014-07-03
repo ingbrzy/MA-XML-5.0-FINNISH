@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account">Tili</string>
   <string name="account_delete_dlg_instructions_fmt">Tili \"%s\" poistetaan sähköpostista.</string>
   <string name="account_delete_dlg_title">Poista tili</string>
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" nimi on käytössä."</string>
   <string name="account_duplicate_dlg_title">Tunnus on jo olemassa.</string>
-  <string name="account_error">Virhe tilin tietojen palautuksessa.</string>
   <string name="account_folder_list_summary_drafts">Luonnokset</string>
   <string name="account_folder_list_summary_inbox">Saapuneet</string>
   <string name="account_folder_list_summary_outbox">Lähtevät</string>
   <string name="account_folder_list_summary_starred">Merkityt</string>
   <string name="account_name_display_all">Kaikki tilit</string>
-  <string name="account_out_of_quota">Tilin kapasiteetti on loppunut</string>
   <string name="account_password_spaces_error">"Salasanan alussa tai lopussa on tyhjiä merkkejä. Monet palvelimet ei tue niiden käyttöä."</string>
   <string name="account_security_dialog_content_fmt">%s vaati sinua päivittämään turva-asetukset.</string>
   <string name="account_security_dialog_title">Turvapäivitys</string>
@@ -21,8 +18,9 @@
   <string name="account_settings_action">Tilin asetukset</string>
   <string name="account_settings_background_attachments_label">Ladataan liitteet</string>
   <string name="account_settings_background_attachments_summary">Lataa liitteet automaattisesti, kun yhteys WI-FI-verkkoon on muodostettu</string>
+  <string name="account_settings_category_delete_account">Poista tili</string>
   <string name="account_settings_data_usage">Tiedonsiirron käyttö</string>
-  <string name="account_settings_default_label">Default account</string>
+  <string name="account_settings_default_label">Oletustili</string>
   <string name="account_settings_default_summary">Lähetä sähköposti oletusarvoisesti tästä tilistä.</string>
   <string name="account_settings_delete_account_label">Poista tili</string>
   <string name="account_settings_description_label">Tilin nimi</string>
