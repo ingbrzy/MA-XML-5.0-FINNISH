@@ -60,12 +60,10 @@
   <string name="account_setup_account_type_exchange_action">Exchange</string>
   <string name="account_setup_account_type_headline">Tilin tyyppi</string>
   <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
-  <string name="account_setup_account_type_headline">Tilin tyyppi</string>
   <string name="account_setup_account_type_imap_action">IMAP</string>
   <string name="account_setup_account_type_instructions">Mikä tyyppinen tili on?</string>
   <string name="account_setup_account_type_title">Tilin asetukset</string>
   <string name="account_setup_account_type_pop_action">POP3</string>
-  <string name="account_setup_account_type_title">Tilin asetukset</string>
   <string name="account_setup_basic_description_label">Tilin nimi (valinnainen)</string>
   <string name="account_setup_basic_label">Lisää sähköpostin %s tiedot :</string>
   <string name="account_setup_basic_name_label">Nimesi (valinnainen)</string>
