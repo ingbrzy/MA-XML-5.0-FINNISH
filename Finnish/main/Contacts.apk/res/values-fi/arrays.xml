@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="otherLabels">
-        <item>Yhdistys</item>
-        <item>Muistiinpano</item>
+        <item>Organisaatio</item>
+        <item>Muistilappu</item>
     </string-array>
 </resources>

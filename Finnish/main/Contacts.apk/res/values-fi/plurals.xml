@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d yhteystietoa puhelinnumeroille</item>
+        <item quantity="one">1 yhteystieto puhelinnumerolle</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d löydetty</item>
+        <item quantity="one">1 löytyi</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d löydetty</item>
+        <item quantity="one">1 löytyi</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">yhdistetty %0$d lähdettä</item>
+        <item quantity="one">ei yhdistetty</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ryhmää</item>
+        <item quantity="one">1 ryhmä</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä ryhmässä %2$s</item>
+        <item quantity="one">%1$d henkilö ryhmässä %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä</item>
+        <item quantity="one">%1$d henkilö</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d numeroa</item>
+        <item quantity="one">%1$d numero</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ääniviestiä</item>
+        <item quantity="one">ääniviesti</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d valittua</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d suosikkia</item>
+        <item quantity="one">%1$d suosikki</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d viimeisintä yhteystietoa</item>
+        <item quantity="one">1 viimeisin yhteystieto</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d yhteystietoa</item>
+        <item quantity="one">%1$d yhteystietoa</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numeroa</item>
+        <item quantity="one">%1$d numero</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d sähköposti yhteystietoa</item>
+        <item quantity="one">1 sähköposti yhteystieto</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d suosikit</item>
+        <item quantity="one">%1$d suosikki</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d viimeisintä yhteystietoa</item>
+        <item quantity="one">%1$d viimeisin yhteystieto</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d yhteystietoa lisätty"</item>
+        <item quantity="one">%1$d yhteystieto lisätty</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d henkilöä</item>
+        <item quantity="one">1 henkilö</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d yhteystietoa tuotu</item>
+        <item quantity="one">%1$d yhteystieto tuotu</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d valittua"</item>
+        <item quantity="zero">%1$d valittua</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+</resources>
