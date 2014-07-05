@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Tiedot (Varmuuskopioi Xiaomi ja Gmail tiedot)</string>
+  <string name="account_contact_backup_info">Tiedot (Varmuuskopioi Xiaomi- ja Gmail-tiedot)</string>
   <string name="account_login">Kirjaudu sisään</string>
-  <string name="account_summary">Varmuuskopioi Gmail, E-mail ja Xiaomi tilit</string>
+  <string name="account_summary">Varmuuskopioi Gmail-, E-mail- ja Xiaomi-tilit</string>
   <string name="already_enable_encrypt">Salaus käytössä</string>
   <string name="app_name">Varmuuskopiointi</string>
   <string name="auto_backup">Automaattinen varmuuskopiointi</string>
@@ -30,7 +30,7 @@
   <string name="backup_file_error">Varmuuskopiointi ei onnustunut.</string>
   <string name="backup_finished">Varmuuskopiointi valmis</string>
   <string name="backup_hint">Älä sammuta puhelinta, tiedostot voivat viouttua</string>
-  <string name="backup_items_app_tailer">\u0020Sovellusten Tiedostot</string>
+  <string name="backup_items_app_tailer">\u0020Sovellusten tiedostot</string>
   <string name="backup_items_sysdata_tailer">\u0020Järjestelmän tiedostot</string>
   <string name="backup_new">Uusi:</string>
   <string name="backup_progress">Varmuuskopioi...</string>
@@ -71,8 +71,8 @@
   <string name="cloud_app_find_backup_prompt_1">Haluatko säästää paikalliset tiedostosi ennen palautusta?</string>
   <string name="cloud_app_find_backup_prompt_2">Jos hylkäät ne nyt, niiden päälle kirjoitetaan palautettaessa.</string>
   <string name="cloud_app_function_summary">Kun varmuuskopioit tietosi pilveen, voit palauttaa tiedot nopeasti millä tahansa laitteella.</string>
-  <string name="cloud_app_invalid_op">"Et voi katsella pilvi tietoja kun tietoja varmuuskopioidaan tai palautetaan."</string>
-  <string name="cloud_app_invalid_op_when_removing">"Et voi tarkastella MiCloud tietoja, kun tietoja poistetaan!"</string>
+  <string name="cloud_app_invalid_op">"Et voi katsella pilvitietoja kun tietoja varmuuskopioidaan tai palautetaan."</string>
+  <string name="cloud_app_invalid_op_when_removing">"Et voi tarkastella MiCloud-tietoja, kun tietoja poistetaan!"</string>
   <string name="cloud_app_just_show_in_current_device">Näytä sovellukset vain tällä laitteella</string>
   <string name="cloud_app_load_data">Haetaan varmuuskopion tietoja...</string>
   <string name="cloud_app_load_data_timeout">MiCoud:sta ei saatu tietoja</string>
@@ -82,7 +82,7 @@
   <string name="cloud_app_no_data"> Täällä ei ole tietoja.</string>
   <string name="cloud_app_no_network">Verkko ei ole käytettävissä</string>
   <string name="cloud_app_no_wifi">Wi-Fi ei ole käytettävissä</string>
-  <string name="cloud_app_no_wifi_connect">Wi-Fi yhteyttä ei ole saatavana</string>
+  <string name="cloud_app_no_wifi_connect">Wi-Fi-yhteyttä ei ole saatavana</string>
   <string name="cloud_app_other_devices">Muut laitteet</string>
   <string name="cloud_app_remove_cancel">Peruuta poisto</string>
   <string name="cloud_app_remove_cancel_prompt_message">"Peruuta epätäydellinen varmuuskopiointi, paina OK poistaaksesi"</string>
@@ -105,18 +105,18 @@
   <string name="cloud_app_restore_query_error_prompt">"Tietoja ei onnistuttu saamaan MiCloud:sta. Sovellukset ja käyttäjän tiedot palautetaan automaattisesti, kun laite saa yhteyden."</string>
   <string name="cloud_app_restore_success">Sovellukset palautettu!</string>
   <string name="cloud_app_restore_summary">Palauta aiemmin asennetut sovellukset ja niihin liittyvät käyttäjätiedot</string>
-  <string name="cloud_app_restore_wifi_prompt">Palauta sovellukset ja käyttäjän tiedot käyttämällä internettiä Wi-Fi yhteydellä.</string>
-  <string name="cloud_app_total_size">Täydellisen MiCloud varmuuskopion koko: %1$s</string>
+  <string name="cloud_app_restore_wifi_prompt">Yhdistä internettiin Wi-Fi-yhteydellä palauttaaksesi ohjelmat ja käyttäjän tiedot.</string>
+  <string name="cloud_app_total_size">Täydellisen MiCloud-varmuuskopion koko: %1$s</string>
   <string name="cloud_app_version_size">Versio: %1$s, Koko: %2$s</string>
   <string name="cloud_app_wait_wifi">Odotetaan Wi-Fi-yhteyttä</string>
   <string name="cloud_backup_hint">Kirjaudu, tallentaaksesi ja palauttaaksesi turvallisesti varmuuskopiot</string>
-  <string name="cloud_backup_login">Kirjaudu käyttämällä Xiaomi tiliäsi</string>
+  <string name="cloud_backup_login">Kirjaudu käyttämällä Xiaomi-tiliäsi</string>
   <string name="cloud_backup_window_title">MiCloud varmuuskopiointi</string>
   <string name="cloud_home_title">MiCloud</string>
   <string name="cloud_item_info_summary">\u0020(Paikallinen %1$s | Pilvi %2$s)</string>
   <string name="cloud_last_backup">Viimeisin varmuuskopio:</string>
-  <string name="cloud_no_backup">Ei MiCloud varmuuskopiointeja</string>
-  <string name="cloud_restore_guide">Klikkaa käynnistä palauttaminen palauttaaksesi tietoja. Voit myös palauttaa % Varmuuskopiosta</string>
+  <string name="cloud_no_backup">Ei MiCloud-varmuuskopiota</string>
+  <string name="cloud_restore_guide">Klikkaa käynnistä palauttaminen, palauttaaksesi tietoja. Voit myös palauttaa %s varmuuskopiosta</string>
   <string name="cloud_restore_title">Palauta varmuuskopioidut tiedot</string>
   <string name="cloud_restore_window_title">Palautus pilvestä</string>
   <string name="cloud_search">Etsii MiCloudia...</string>
@@ -124,16 +124,16 @@
   <string name="compute_delete_contact_info">Etsitään yhteystietoja...</string>
   <string name="contact_title">Yhteystiedot</string>
   <string name="current_account">Kirjautunut sisään: %s</string>
-  <string name="current_sim">Nykyinen SIM kortti</string>
+  <string name="current_sim">Nykyinen SIM-kortti</string>
   <string name="customization">&lt;u&gt;Mukauttaa&lt;/u&gt;</string>
   <string name="customization_under_wifi_prompt">Tuetaan vain kun Wi-Fi on käytössä</string>
   <string name="data_no_enough_space">Vapaata sisäistä tallennustilaa ei ole rittävästi. Vapauta tilaa ja yritä uudelleen</string>
   <string name="data_no_enough_space_message">Palautus voi epäonnistua, tyhjennä osa sisäisestä muistista ja yritä uudelleen</string>
-  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="date_format">dd-MM-yyyy HH-mm-ss</string>
   <string name="delete">Poista</string>
   <string name="delete_backup_process">Poistetaan varmuuskopioita...</string>
   <string name="delete_failed_backup_confirm">Varmuuskopiossa on virhe, ei voida tehdä palautusta tästä varmuuskopiosta</string>
-  <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
+  <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
   <string name="disable_encrypt_title">Salaus ei ole käytössä</string>
   <string name="enable_encrypt">Ota käyttöön</string>
   <string name="enable_encrypt_fail">Salauksen käyttöönotto epäonnistui</string>
@@ -162,9 +162,9 @@
   <string name="local_select_sysdata">Järjestelmä</string>
   <string name="local_select_userapp">Sovellukset</string>
   <string name="menu_patch_delete">Poista varmuuskopiot</string>
-  <string name="miliao_account_guide">MiTalk tili päivitetty Xiaomi tiliksi\nNauti kaikista Xiaomi verkkopalveluista</string>
+  <string name="miliao_account_guide">MiTalk-tili päivitetty Xiaomi-tiliksi\nNauti kaikista Xiaomi-verkkopalveluista</string>
   <string name="miliao_account_login">kirjaudu MiTalk:iin</string>
-  <string name="mms_title">Multimedia Viestitys</string>
+  <string name="mms_title">Multimediaviestit</string>
   <string name="multi_select_title">Valitut %1$s kohdat</string>
   <string name="my_phone">Minun laitteeni</string>
   <string name="no_encrypt_password">Ei tunnusluku salausta</string>
@@ -181,7 +181,7 @@
   <string name="restore">Palauta</string>
   <string name="restore_contact">Palauta yhteystiedot</string>
   <string name="restore_contact_content">Yhteystietojen palauttaminen voi kaksinkertaistaa yhteystietorivit. Oletko varma että haluat tehdä tämän?. \ Huomaa: Voit yhdistellä päällekkäisiä yhteystietoja yhteystietoluettelon asetuksissa</string>
-  <string name="restore_contacts_hit">(Huomautus: Sinun täytyy palauttaa Yhteystiedot käsin ennen alkuperäisen tilin luomista)</string>
+  <string name="restore_contacts_hit">(Huomautus: Sinun täytyy palauttaa yhteystiedot käsin ennen alkuperäisen tilin luomista)</string>
   <string name="restore_counts">Palauttaminen:</string>
   <string name="restore_data">Palauta tiedot</string>
   <string name="restore_failed">Palautus epäonnistui!</string>
@@ -194,11 +194,11 @@
   <string name="reverse_all">Tyhjennä kaikki</string>
   <string name="sc_bad_request">Virheellinen pyyntö</string>
   <string name="sc_internal_server_error">Palvelimen sisäinen virhe</string>
-  <string name="sc_network_unavailable">Verkkoyhteys virhe</string>
-  <string name="sc_others">Ohjelma virhe</string>
+  <string name="sc_network_unavailable">Verkkovirhe</string>
+  <string name="sc_others">Ohjelmavirhe</string>
   <string name="sc_precondition_failed">Sinun Xiaomi-tiliisi ei ole liitetty sähköpostiosoitetta</string>
   <string name="sc_request_timeout">Pyyntö aikakatkaistiin</string>
-  <string name="sc_service_unavailable">Pilvi palvelu ei ole käytettävissä</string>
+  <string name="sc_service_unavailable">Pilvipalvelu ei ole käytettävissä</string>
   <string name="sc_unaccess_password_file">Älä tallenna Wi-Fi salasanaa</string>
   <string name="sc_unauthorized">Varmennus ei ole voimassa</string>
   <string name="sdcard_no_enough_space">SD-kortilla ei ole riittävästi vapaata tilaa</string>
@@ -210,13 +210,13 @@
   <string name="settings_summary">Varmuuskopioi puhelin ja viestintäasetukset</string>
   <string name="sms_title">Viestintä</string>
   <string name="software_backup_info">Varmuuskopioi sovellukset ja sovellusten tiedot</string>
-  <string name="start_backup">Aloita Varmuuskopiointi</string>
+  <string name="start_backup">Aloita varmuuskopiointi</string>
   <string name="start_restore">Palauta</string>
   <string name="succeed">Onnistui</string>
   <string name="system_backup">Varmuuskopiot</string>
   <string name="system_backup_info">Järjestelmäasetukset, työpöydän asettelu jne.</string>
   <string name="task_backup_cancel_progress">Peruutetaan varmuuskopiointia...</string>
-  <string name="task_backup_finished_local">Varmuuskopiointi Valmis</string>
+  <string name="task_backup_finished_local">Varmuuskopiointi valmis</string>
   <string name="task_canceled">Peruutettu</string>
   <string name="task_canceled_all_local">Peruuta tehtävä</string>
   <string name="task_canceled_local">Seuraavat %s tehtävä peruttiin</string>
@@ -246,5 +246,5 @@
   <string name="unit_byte">\u0020Tavua</string>
   <string name="unit_piece">\u0020Kohdetta</string>
   <string name="unknown_hint">Tuntematon</string>
-  <string name="wifi_title">Wi-Fi Asetukset</string>
+  <string name="wifi_title">Wi-Fi-asetukset</string>
 </resources>

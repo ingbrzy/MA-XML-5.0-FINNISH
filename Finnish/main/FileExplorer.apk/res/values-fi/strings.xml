@@ -34,7 +34,7 @@
   <string name="category_picture">Kuvia</string>
   <string name="category_theme">Teemat</string>
   <string name="category_video">Videot</string>
-  <string name="category_zip">Pakatut tiedostot</string>
+  <string name="category_zip">Pakatut\ntiedostot</string>
   <string name="choose_send_type">Valitse lähetys tyyppi</string>
   <string name="choose_upload_location">Valitse lähetys sijainti</string>
   <string name="clean_app_garbage">Poista% d kohde(tta)</string>
@@ -141,7 +141,7 @@ Junk"</string>
   <string name="loading">Ladataan…</string>
   <string name="local_cache_size">Paikallisen välimuistin koko: %s</string>
   <string name="login_reg_content">MiDrive auttaa sinua tallentamaan tiedostoja ja synkronoimaan ne useiden laitteiden kanssa.</string>
-  <string name="login_reg_content0">MiDrive on sinun Cloud tallennusasemasi</string>
+  <string name="login_reg_content0">MiDrive on sinun pilvitallennusasemasi</string>
   <string name="menu_item_cleanup">Tiedostojen siivous</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Haku</string>
@@ -253,7 +253,7 @@ Hanki vapaata tilaa %1$s"</string>
   <string name="storage_usb">USB-tallennusväline</string>
   <string name="storage_warning">Ulkoinen tallennus ei ole saatavilla tai ei sitä voida lukea</string>
   <string name="sys_size">Kokonais tallennus %1$s</string>
-  <string name="sys_size_title">Kokonais tila</string>
+  <string name="sys_size_title">Kokonaistila</string>
   <string name="tab_category">Selaa</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Puhelin</string>
