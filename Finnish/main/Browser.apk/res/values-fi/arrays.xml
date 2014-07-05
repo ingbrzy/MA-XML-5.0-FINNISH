@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_content_plugins_choices">
         <item>Aina päällä</item>
-        <item>Kysynnän mukaan</item>
+        <item>Kysy</item>
         <item>Pois päältä</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Selain avaa tämän sivun</item>
+        <item>Oletus aloistussivu</item>
         <item>Muokattu</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>pikkuruinen</item>
+        <item>Pikkuruinen</item>
         <item>Pieni</item>
         <item>Normaali</item>
         <item>Suuri</item>
@@ -32,25 +32,25 @@
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
-        <item>kiinalainen (GBK)</item>
-        <item>kiinalainen (Big5)</item>
-        <item>japanilainen (ISO-2022-JP)</item>
-        <item>japanilainen (SHIFT_JIS)</item>
-        <item>japanilainen (EUC-JP)</item>
-        <item>korealainen (EUC-KR)</item>
+        <item>Kiinalainen (GBK)</item>
+        <item>Kiinalainen (Big5)</item>
+        <item>Japanilainen (ISO-2022-JP)</item>
+        <item>Japanilainen (SHIFT_JIS)</item>
+        <item>Japanilainen (EUC-JP)</item>
+        <item>Korealainen (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Ei ikinä</item>
+        <item>Ei koskaan</item>
         <item>Vain Wi-Fi</item>
         <item>Aina</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Ei ikinä</item>
+        <item>Ei koskaan</item>
         <item>Vain Wi-Fi</item>
         <item>Aina</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>Ei ikinä</item>
+        <item>Ei koskaan</item>
         <item>Vain Wi-Fi</item>
         <item>Aina</item>
     </string-array>
@@ -94,7 +94,7 @@
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Ei koskaan</item>
-        <item>Älykäs</item>
+        <item>Vain Wi-Fi</item>
         <item>Aina</item>
     </string-array>
     <string-array name="menu_theme_setting">
