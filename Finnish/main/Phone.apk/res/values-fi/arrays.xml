@@ -9,7 +9,7 @@
         <item>Video</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Network default</item>
+        <item>Verkon oletus</item>
         <item>Piilota numero</item>
         <item>Näytä numero</item>
     </string-array>

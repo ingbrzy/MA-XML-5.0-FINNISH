@@ -99,7 +99,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="callrecordview_item_op_time_short_incoming">"Saapuva: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Lähtevä: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
-  <string name="callrecordview_menu_batch_delete">Batch delete</string
+  <string name="callrecordview_menu_batch_delete">Batch delete</string>
   <string name="callrecordview_menu_delete">Poista puheluloki</string>
   <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
   <string name="callrecordview_menu_delete_all">Clear call log</string>
