@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Yksi sivu / puoli</item>
+        <item>Kaksi sivua / puoli</item>
+        <item>Neljä sivua / puoli</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Pystysuunta</item>
+        <item>Vaakasuunta</item>
+        <item>Käänteinen vaakasuunta</item>
+        <item>Käänteinen pystysuunta</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Yksipuoleinen</item>
+        <item>Kaksi sivua pitkällä reunalla</item>
+        <item>Kaksi sivua lyhyellä reunalla</item>
+    </string-array>
+</resources>
