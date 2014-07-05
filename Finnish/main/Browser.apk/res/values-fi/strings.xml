@@ -138,7 +138,7 @@
   <string name="contextmenu_openlink_newwindow">Avaa uuteen välilehteen</string>
   <string name="contextmenu_openlink_newwindow_background">Avaa taustalla uuteen välilehteen</string>
   <string name="contextmenu_savelink">Tallenna linkki</string>
-  <string name="contextmenu_send_mail">Lähetä sähköpostissa</string>
+  <string name="contextmenu_send_mail">Lähetä sähköpostilla</string>
   <string name="contextmenu_set_wallpaper">Aseta taustakuvaksi</string>
   <string name="contextmenu_sharelink">Jaa linkki</string>
   <string name="contextmenu_view_image">Katso kuva</string>
