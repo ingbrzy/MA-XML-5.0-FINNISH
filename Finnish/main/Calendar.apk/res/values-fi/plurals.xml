@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutes</item>
+        <item quantity="other">%d minuuttia</item>
         <item quantity="one">1 minuutti</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d mins</item>
+        <item quantity="other">%d min</item>
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d hours</item>
+        <item quantity="other">%d tuntia</item>
         <item quantity="one">1 tunti</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d days</item>
+        <item quantity="other">%d päivää</item>
         <item quantity="one">1 päivä</item>
     </plurals>
     <plurals name="weekN">
