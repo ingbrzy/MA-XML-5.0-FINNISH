@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Pikkuruinen teksti</item>
+        <item>Pieni teksti</item>
+        <item>Normaali teksti</item>
+        <item>Laaja teksti</item>
+        <item>Valtava teksti</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Vastaa</item>
+        <item>Vastaa kaikille</item>
+        <item>Välitä</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Onnistui</item>
+        <item>Ei yhteyttä.</item>
+        <item>"Kirjautuminen epäonnistui."</item>
+        <item>Suojausvirhe.</item>
+        <item>"Synkronointi virhe."</item>
+        <item>Sisäinen virhe</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Järjestelmä</item>
+        <item>Usein käytetyt</item>
+        <item>Kaikki kansiot</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Uudempi</item>
+        <item>Vanhempi</item>
+        <item>Keskustelut</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Näytä uudempi keskustelu poistamisen jälkeen</item>
+        <item>Näytä vanhempi keskustelu poistamisen jälkeen</item>
+        <item>Näytä keskusteluluettelo poistamisen jälkeen</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Näytä arkistoi ainoastaan</item>
+        <item>Näytä poista ainoastaan</item>
+        <item>Näytä arkistoi &amp;amp; poista</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Näytä arkistoi ainoastaan</item>
+        <item>Näytä poista ainoastaan</item>
+        <item>Näytä arkistoi &amp;amp; poista</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Oletus</item>
+        <item>Muoto</item>
+        <item>Nimi</item>
+        <item>Lähettäjä</item>
+        <item>Päiväys</item>
+    </string-array>
+</resources>

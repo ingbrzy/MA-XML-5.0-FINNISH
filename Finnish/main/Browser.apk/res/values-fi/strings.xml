@@ -166,7 +166,7 @@
   <string name="download_dialog_default_path_invalid">Virheellinen latauspolku, käytetään oletuspolkua</string>
   <string name="download_dialog_file_length_hint_txt">Tiedoston koko:</string>
   <string name="download_dialog_file_length_lessthan1kb">Vähemmän kuin 1K</string>
-  <string name="download_dialog_file_length_nolength_error_txt">Tiedostokoon laskeminen epäonnistui</string>
+  <string name="download_dialog_file_length_nolength_error_txt">?</string>
   <string name="download_dialog_file_length_nolength_txt">Lasketaan tiedostokokoa</string>
   <string name="download_failed">Lataus epäonnistui</string>
   <string name="download_no_sdcard_dlg_msg">USB-tallennustila tarvitaan %s lataamiseen.</string>
@@ -207,8 +207,8 @@
   <string name="export_bookmark_failure">Kirjanmerkkien vienti SD-kortille epäonnistui!</string>
   <string name="export_bookmark_sucess">Kirjanmerkkien vienti SD-kortille onnistui!</string>
   <string name="exported_bookmark_file_name">Suosikkit</string>
-  <string name="file_dir">Kansio</string>
-  <string name="file_name">Kansion nimi</string>
+  <string name="file_dir">Hakemisto</string>
+  <string name="file_name">Nimi</string>
   <string name="file_picker">Valitse polku</string>
   <string name="file_picker_new_folder">Uusi kansio</string>
   <string name="file_picker_sdcard_not_found">SD-korttia ei tunnisteta, tarkista että laite on tällä hetkellä asennettu tai käytössä</string>

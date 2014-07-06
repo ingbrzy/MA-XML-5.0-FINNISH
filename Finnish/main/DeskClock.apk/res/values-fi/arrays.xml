@@ -11,9 +11,9 @@
         <item>Hälytykseen aikaa %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>Tomorrow</item>
+        <item>Eilen</item>
+        <item>Tänään</item>
+        <item>Huomenna</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Kerran</item>

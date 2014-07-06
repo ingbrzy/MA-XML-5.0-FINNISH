@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_downloads">Kaikki lataukset</string>
   <string name="app_downloads">%s latausta</string>
@@ -47,7 +47,7 @@
   <string name="editmode_menu_delete">Poista</string>
   <string name="editmode_menu_share">Jaa</string>
   <string name="keep_queued_download">Säilytä</string>
-  <string name="menu_enter_edit_mode">Muokkain</string>
+  <string name="menu_enter_edit_mode">Muokkaa</string>
   <string name="menu_preferences">Asetukset</string>
   <string name="might_lead_to_mobile_charge">"Peruuttamisen jälkeen, laitteesi ei ilmoita latauksista. Tämä voi johtaa tiedonsiirron sekä datamaksujen kasvamiseen."</string>
   <string name="missing_title">Tuntematon</string>
@@ -61,7 +61,7 @@
   <string name="paused_waiting_for_network">Odotetaan verkkoyhteyttä</string>
   <string name="paused_waiting_to_retry">Odotetaan uudelleenyritystä</string>
   <string name="prefDefault_max_bytes_limit">1048576</string>
-  <string name="pref_dialog_title_max_bytes_limit">Tiedostokoko-rajoitus</string>
+  <string name="pref_dialog_title_max_bytes_limit">Tiedostokokorajoitus</string>
   <string name="pref_download_settings_title">Tiedonsiirtoilmoitus</string>
   <string name="pref_summary_any_bytes_popup">Aina jonoon kun Wi-Fi-yhteydessä</string>
   <string name="pref_summary_enable_max_bytes_popup">"Jos operaattorin verkossa, näytä ilmoitusikkuna jos tiedostokoko ylittää asetetun rajan"</string>

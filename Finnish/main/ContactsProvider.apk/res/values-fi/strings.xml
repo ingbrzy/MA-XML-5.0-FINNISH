@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Yhteystietojen varastointi</string>
-  <string name="call_log_provider_label">Soittoloki</string>
+  <string name="call_log_provider_label">Puheluloki</string>
   <string name="create_contact">Uusi yhteystieto</string>
-  <string name="debug_dump_database_message">Olet aikeissa 1) luoda kopion tietokannasta, joka sisältää kaikki yhteystietoihin liittyvät tiedot sekä kaikki puhelulokit, sisäiseen tallennustilaan, ja 2) lähettää sen sähköpostitse. Muista poistaa kopio heti, kun olet onnistuneesti kopioinut sen pois laitteesta tai sähköposti on vastaanotettu.</string>
+  <string name="debug_dump_database_message">Olet aikeissa 1) luoda kopion tietokannasta, joka sisältää kaikki yhteystietoihin liittyvät tiedot sekä sisäisen muistin puhelulokit ja 2) lähettää sen sähköpostitse. Muista poistaa kopio heti, kun olet onnistuneesti kopioinut sen pois laitteesta tai sähköposti on vastaanotettu.</string>
   <string name="debug_dump_delete_button">Poista nyt</string>
   <string name="debug_dump_email_body">Liitteenä on minun yhteystietokanta sisältäen kaikki yhteystiedot. Käsittele sitä varoen.</string>
   <string name="debug_dump_email_sender_picker">Valitse tiedoston lähetysohjelma</string>

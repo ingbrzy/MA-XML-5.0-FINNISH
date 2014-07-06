@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Lisää hälytys</string>
   <string name="alarm_alert">Aseta hälytysääni</string>
@@ -6,7 +6,7 @@
   <string name="alarm_alert_dismiss_text">Hylkää</string>
   <string name="alarm_alert_snooze_set">Torkku %d minuutiksi.</string>
   <string name="alarm_alert_snooze_text">Torkku</string>
-  <string name="alarm_ascending_mode_summary">Hälytys nousevasti asetettua soittoääntä käyttäen.</string>
+  <string name="alarm_ascending_mode_summary">Hälytys nousevasti asetettua äänenvoimakkuutta käyttäen.</string>
   <string name="alarm_ascending_mode_title">Hälytys nousevasti</string>
   <string name="alarm_button_description">Hälytykset</string>
   <string name="alarm_disabled">Ei käytössä</string>
@@ -16,9 +16,9 @@
   <string name="alarm_list_title">Hälytykset</string>
   <string name="alarm_notify_snooze_label">%s torkku</string>
   <string name="alarm_notify_snooze_text">Paina peruaksesi %s</string>
-  <string name="alarm_notify_text">Torkuta tai hylkää hälytys.</string>
+  <string name="alarm_notify_text">Torkku tai hylkää hälytys.</string>
   <string name="alarm_repeat">Toista</string>
-  <string name="alarm_screen">Aseta vaihteleva soittoääni</string>
+  <string name="alarm_screen">Aseta vaihtuva soittoääni</string>
   <string name="alarm_settings">Hälytyksen asetukset</string>
   <string name="alarm_vibrate">Värinä</string>
   <string name="alarm_volume_summary">Aseta hälytyksien ja ajastimien äänenvoimakkuudet</string>
