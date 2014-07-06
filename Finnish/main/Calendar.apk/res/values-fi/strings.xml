@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_add_attendee">Lisää osallistuja</string>
   <string name="accessibility_add_reminder">Lisää muistutus</string>
@@ -19,7 +19,7 @@
   <string name="account_and_calendar">Tili ja kalenteri</string>
   <string name="account_and_calendar_to_display">Näytettävä tili ja kalenteri</string>
   <string name="accounts">Tilit ja synkronointi</string>
-  <string name="acct_not_synced">"Tätä tilia ei synkronoida, joten kalenteri ei ole välttämättä ajan tasalla."</string>
+  <string name="acct_not_synced">"Tätä tiliä ei synkronoida, joten kalenteri ei ole välttämättä ajan tasalla."</string>
   <string name="acessibility_cal_notification">Kalenterin ilmoitus</string>
   <string name="acessibility_selected_marker_description">Valitse tapahtuma</string>
   <string name="acessibility_snooze_notification">Ilmoituksen torkku</string>
@@ -51,7 +51,7 @@
   <string name="copy_db">Lähetä tietokanta</string>
   <string name="copy_email">Kopioi sähköpostiosoite</string>
   <string name="copy_number">Kopioi puhelinnumero</string>
-  <string name="create_an_account_desc">"Kalenteri toimii paremmin Xiaomi tai Google-tilillä.
+  <string name="create_an_account_desc">"Kalenteri toimii paremmin Xiaomi- tai Google-tilillä.
 
 • Pääset siihen mistä vain selaimesta
 • Varmuuskopioi tapahtumasi turvallisesti"</string>
@@ -117,7 +117,7 @@
   <string name="loading">Ladataan…</string>
   <string name="local_calendar_display_name">Paikallinen kalenteri</string>
   <string name="local_owner_account_name">Paikallinen tili</string>
-  <string name="lunar_date">Lunar Päivämäärä</string>
+  <string name="lunar_date">Kuukalenterin päivä</string>
   <string name="menu_about_preferences">Tietoa kalenterista</string>
   <string name="menu_general_preferences">Yleiset asetukset</string>
   <string name="menu_preferences">Asetukset</string>
@@ -159,9 +159,9 @@
   <string name="preferences_home_tz_default">Amerikka/Los_Angeles</string>
   <string name="preferences_home_tz_title">Oma aikavyöhyke</string>
   <string name="preferences_reminder_title">Muistutuksen asetukset</string>
-  <string name="preferences_show_week_num_title">Näytä viikon numero</string>
+  <string name="preferences_show_week_num_title">Näytä viikkonumero</string>
   <string name="preferences_title">Asetukset</string>
-  <string name="preferences_use_home_tz_descrip">Näytä kalenterit ja tapahtumien ajat sinun aikavyöhykkeesi ajassa kun matkustat</string>
+  <string name="preferences_use_home_tz_descrip">Näytä matkustettaessa kalenterit ja tapahtumien ajat oman aikavyöhykkeen ajassa</string>
   <string name="preferences_use_home_tz_title">Käytä omaa aikavyöhykettä</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Viikon ensimmäinen päivä</string>
@@ -190,7 +190,8 @@
   <string name="select_synced_calendars_button">Synkronoitavat kalenterit</string>
   <string name="select_synced_calendars_title">Synkronoitavat kalenterit</string>
   <string name="select_visible_calendars_title">Näytettävät kalenterit</string>
-  <string name="show_all_lunar">Näytä kuu</string>
+  <string name="show_all_lunar">Näytä kuukalenteri</string>
+  <string name="show_almanac">Näytä almanakka</string>
   <string name="show_controls">Näytä painikkeet</string>
   <string name="show_day_view">Näytä päivä</string>
   <string name="show_newer_events">Paina näyttääksesi tapahtumat %1$s jälkeen</string>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d yhteystietoa puhelinnumeroille</item>
-        <item quantity="one">1 yhteystieto puhelinnumerolle</item>
+        <item quantity="other">%d yhteystietoa puhelinnumerolla</item>
+        <item quantity="one">1 yhteystieto puhelinnumerolla</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d yhteystietoa</item>

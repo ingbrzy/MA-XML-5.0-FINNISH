@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Xiaomi Synkronointi</string>
+  <string name="app_name">Xiaomi-synkronointi</string>
   <string name="find_device">Etsi laite</string>
-  <string name="find_device_stop_noise">Paina \"OK\" lopettaaksesi hälytyksen äänen</string>
+  <string name="find_device_stop_noise">Paina \"OK\" lopettaaksesi hälytysäänen</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Synkronoi valokuvat Wi-Fiä käyttämällä välttääksesi ylimääräisiä datamaksuja</string>
   <string name="pref_title_sync_contacts_title">Synkronoi yhteystiedot</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Käytä Wi-Fiä näyttääksesi valokuvat</string>
