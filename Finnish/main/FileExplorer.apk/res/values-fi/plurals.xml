@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
         <item quantity="other">Poista %1$d tiedostoa</item>

@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">"Käyttäjätietojen siirto käynnissä, tilisi on tilapäisesti lukittu, odota..."</string>
   <string name="add_task">Lisää tehtävä</string>

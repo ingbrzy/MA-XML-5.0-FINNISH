@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">Tietoja puhelimesta</string>
   <string name="about_settings_summary">Puhelimen tila, oikeudelliset tiedot, ohjelmistotiedot</string>
@@ -719,7 +719,7 @@
   <string name="deep_clean_title_large_file">Suuret tiedostot</string>
   <string name="deep_clean_title_residual">Jäännökset</string>
   <string name="deep_cleaning">Edistynyt</string>
-  <string name="default_date_format">kk/pp/vvvv</string>
+  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Valitse oletus syöttötapa</string>
   <string name="default_usb_mode">USB-yhteys</string>
   <string name="delete">Poista</string>

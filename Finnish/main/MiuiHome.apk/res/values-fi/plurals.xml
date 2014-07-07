@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Poistetaanko %1$s ja %2$d muuta ohjelmaa?</item>
+        <item quantity="one">Poistetaanko %s</item>
+        <item quantity="two">Poistetaanko %s ja 1 toinen ohjelma?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$d ohjelmaa poistettu</item>
+        <item quantity="one">Ohjelma poistettu</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"%1$s ja %2$d muuta ohjelmaa ei voida poistaa"</item>
+        <item quantity="one">"%s ei voi poistaa"</item>
+        <item quantity="two">"%s ja 1 toista ohjelmaa ei voida poistaa"</item>
+    </plurals>
+</resources>

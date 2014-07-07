@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Liu'utus</item>
+        <item>Liu'utus (ei ylitystä)</item>
+        <item>Häivytä ristiin</item>
+        <item>Kaato</item>
+        <item>Sivu</item>
+        <item>Pino</item>
+        <item>Pyöräytä</item>
+        <item>Kuutio</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Teeman oletus</item>
+        <item>Keskelle</item>
+        <item>Vasemmalle</item>
+        <item>Oikealle</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Oletus</item>
+        <item>Klassinen</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Kirkasta</item>
+        <item>Pilvistä</item>
+        <item>Usvaa</item>
+        <item>Sumua</item>
+        <item>Sadekuuroja</item>
+        <item>Rankkasadetta</item>
+        <item>Sataa erittäin paljon</item>
+        <item>Ukkosta</item>
+        <item>Sadetta</item>
+        <item>Sataa runsaasti</item>
+        <item>Sataa</item>
+        <item>Tihkusadetta</item>
+        <item>Räntää</item>
+        <item>Lumimyrsky</item>
+        <item>Paikoitellen lumisadetta</item>
+        <item>Sataa paljon lunta</item>
+        <item>Lumisadetta</item>
+        <item>Kevyttä lumisadetta</item>
+        <item>Voimakasta hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Kevyt hiekkamyrsky</item>
+        <item>Hiekkamyrsky</item>
+        <item>Rakeita</item>
+        <item>Leijuvaa pölyä</item>
+        <item>Usvaa</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Siirrä ohjelmia</item>
+        <item>Widget</item>
+        <item>Taustakuva</item>
+        <item>Tehosteet</item>
+    </string-array>
+</resources>

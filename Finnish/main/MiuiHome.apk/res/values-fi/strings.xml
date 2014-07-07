@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Poikkeavat tilitiedot, yritä kirjautua uudelleen tai yritä myöhemmin uudelleen!</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu puhelimeesi.</string>
@@ -14,7 +14,7 @@
   <string name="cancel_action">Peruuta</string>
   <string name="cancel_btn_label">Peruuta</string>
   <string name="cant_remove_folder">Käytössä olevaa kansiota ei voitu poistaa</string>
-  <string name="cant_remove_retained_app">Ei pystytä asentamaan muokattua sovellusta</string>
+  <string name="cant_remove_retained_app">Ei pystytä poistamaan muokattua sovellusta</string>
   <string name="cant_remove_system_app">Järjestelmäsovellusta ei voi poistaa</string>
   <string name="chooser_wallpaper">Valitse taustakuva kohteesta</string>
   <string name="confirm_btn_label">OK</string>
@@ -58,8 +58,8 @@
   <string name="free_style_edit_tab_free_component">Ilmaiset komponentit</string>
   <string name="free_style_edit_tab_shortcut">Pikakuvakkeet</string>
   <string name="free_style_edit_tab_widget">Widgetit</string>
-  <string name="free_style_enter_tip">"Liu'uta alas kahdella sormella siirtyäksesi MiSpace: een"</string>
-  <string name="free_style_exit_tip">"Liu'uta ylös kahdella sormella poistuaksesi MiSpace: sta"</string>
+  <string name="free_style_enter_tip">"Liu'uta alas kahdella sormella siirtyäksesi MiSpace:een"</string>
+  <string name="free_style_exit_tip">"Liu'uta ylös kahdella sormella poistuaksesi MiSpace:sta"</string>
   <string name="free_style_londing_text">Valmistellaan MiSpacea...</string>
   <string name="gadget_clear_button_label">Task Cleaner</string>
   <string name="gadget_clock_12_label">Kello 2x1</string>
@@ -80,7 +80,7 @@
   <string name="gadget_weather_loading">Ei säätietoja</string>
   <string name="gadget_weather_low_temp">Alhainen lämpötila</string>
   <string name="gadget_weather_theme_type">Gadget tyyppi</string>
-  <string name="gadget_weather_time_format">MM/d EEE</string>
+  <string name="gadget_weather_time_format">d.MM EEE</string>
   <string name="gadget_weather_title_14">Sää 4X1</string>
   <string name="gadget_weather_title_24">Sää 4X2</string>
   <string name="global_search_hint">Kirjoita hakusanat</string>
@@ -104,7 +104,7 @@
   <string name="menu_edit">Muokkaa widgettejä</string>
   <string name="menu_exit_scene">Lähde MiSpacesta</string>
   <string name="menu_item_add_item">Lisää kotinäytölle</string>
-  <string name="menu_launcher_setting">Kotinäytön Asetukset</string>
+  <string name="menu_launcher_setting">Kotinäytön asetukset</string>
   <string name="menu_picktheme">Valitse teema</string>
   <string name="menu_reset_scene">Palauta oletusnäkymä</string>
   <string name="menu_search">Etsi</string>
@@ -117,12 +117,12 @@
   <string name="out_of_space">Ei tilaa tässä kotiruudussa.</string>
   <string name="permdesc_install_shortcut">Sallii sovelluksen lisätä oikoteitä kysymättä.</string>
   <string name="permdesc_install_widget">Sallii sovelluksen lisätä widgettejä kysymättä.</string>
-  <string name="permdesc_read_settings">Sallii sovelluksen lukea asetuksia ja oikoteitä Kotinäytöllä.</string>
+  <string name="permdesc_read_settings">Sallii sovelluksen lukea asetuksia ja oikoteitä kotinäytöllä.</string>
   <string name="permdesc_uninstall_shortcut">Sallii sovelluksen poistaa oikoteitä kysymättä.</string>
-  <string name="permdesc_write_settings">Sallii sovelluksen muuttaa asetuksia ja oikoteitä Kotinäytöllä.</string>
+  <string name="permdesc_write_settings">Sallii sovelluksen muuttaa asetuksia ja oikoteitä kotinäytöllä.</string>
   <string name="permlab_install_shortcut">Asenna pikakuvakkeet</string>
   <string name="permlab_install_widget">Asenna widgetit</string>
-  <string name="permlab_read_settings">Lue Kotinäytön asetuksia ja oikoteitä</string>
+  <string name="permlab_read_settings">Lue kotinäytön asetuksia ja oikoteitä</string>
   <string name="permlab_uninstall_shortcut">Poista pikakuvakkeet</string>
   <string name="permlab_write_settings">Muokkaa kotinäytön asetuksia ja oikoteitä</string>
   <string name="photo_adjust">Muokkaa kuvaa</string>
@@ -146,7 +146,7 @@
   <string name="process"/>
   <string name="reset_scene_prompt">Näkymä palautetaan oletusasetuksen mukaiseksi</string>
   <string name="resource_alarm_default">Hälytys</string>
-  <string name="resource_app_name">Vara selain</string>
+  <string name="resource_app_name">Varaselain</string>
   <string name="resource_apply">Aseta</string>
   <string name="resource_buy">Osta</string>
   <string name="resource_can_not_selected">%1$s ei voida valita!</string>
@@ -192,7 +192,7 @@
   <string name="screen_rotation_freeze_message">Näytön kääntö lukittu vaakatasoon</string>
   <string name="scroll_tip_format_when_announce_accessibility">Sivu %1$d, %2$d sovellusta</string>
   <string name="sdcard_status_changed_dialog_message">"Sovellus sulkeutuu. Avaa uudestaan sovellus päivittääksesi resurssit."</string>
-  <string name="sdcard_status_changed_dialog_title">SD kortin tila on muuttunut</string>
+  <string name="sdcard_status_changed_dialog_title">SD-kortin tila on muuttunut</string>
   <string name="select_frame">Kehys</string>
   <string name="select_photo">Kuva</string>
   <string name="sharedUserId"/>
@@ -202,7 +202,7 @@
   <string name="start_activity_failed">Käynnistäminen epäonnistui, yritä uudelleen</string>
   <string name="starting_preset_app">Käynnistetään</string>
   <string name="status_bar_toggle_ac">Käytön valvonta</string>
-  <string name="status_bar_toggle_auto_brightness">Autom. Kirkkaus</string>
+  <string name="status_bar_toggle_auto_brightness">Autom. kirkkaus</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Kirkkaus</string>
   <string name="status_bar_toggle_data">Data</string>
@@ -227,7 +227,7 @@
   <string name="status_bar_toggle_screenshot">Ota Kuvankaappaus</string>
   <string name="status_bar_toggle_shutdown">Sammuta</string>
   <string name="status_bar_toggle_sync">Synkronoi</string>
-  <string name="status_bar_toggle_sync_auto">Autom. Synkronointi</string>
+  <string name="status_bar_toggle_sync_auto">Autom. synkronointi</string>
   <string name="status_bar_toggle_sync_manual">Manuaalinen Synkronointi</string>
   <string name="status_bar_toggle_syncing">Synkronoidaan</string>
   <string name="status_bar_toggle_torch">Taskulamppu</string>

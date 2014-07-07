@@ -203,7 +203,7 @@
   <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Jaa</string>
-  <string name="status_bar_date_format">MMMM d, yyyy</string>
+  <string name="status_bar_date_format">d MMMM, yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Aseta syöttötavat</string>
   <string name="status_bar_network_flow">"Tänään:%1$s    Jäljellä:%2$s    Package:%3$s"</string>
@@ -212,13 +212,13 @@
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Ei äskettäisiä sovelluksia</string>
   <string name="status_bar_notification_inspect_item_title">Sovelluksen tiedot</string>
-  <string name="status_bar_recent_guide_all">Sipaise ylös sulkeaksesi, sipaise alas lukitaksesi</string>
-  <string name="status_bar_recent_guide_bottom">Sipaise alas lukitaksesi</string>
-  <string name="status_bar_recent_guide_top">Sipaise ylös sulkeaksesi</string>
+  <string name="status_bar_recent_guide_all">Pyyhkäise ylös sulkeaksesi, pyyhkäise alas lukitaksesi</string>
+  <string name="status_bar_recent_guide_bottom">Pyyhkäise alas lukitaksesi</string>
+  <string name="status_bar_recent_guide_top">Pyyhkäise ylös sulkeaksesi</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Poista listalta</string>
-  <string name="status_bar_recording_back">Kosketa palataksesi Nauhuriin</string>
+  <string name="status_bar_recording_back">Kosketa palataksesi nauhuriin</string>
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
   <string name="status_bar_settings_airplane">Lentokonetila</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>

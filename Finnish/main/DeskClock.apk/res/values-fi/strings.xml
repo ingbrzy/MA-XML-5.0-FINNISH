@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Lisää hälytys</string>
   <string name="alarm_alert">Aseta hälytysääni</string>
@@ -71,9 +71,9 @@
   <string name="lap">Kierros</string>
   <string name="lap_num">Kierros</string>
   <string name="legal_workday">Työpäivä</string>
-  <string name="legal_workday_invalidate">Data vanheni (Tällä hetkellä hälyytys soi Ma-Pe)</string>
-  <string name="legal_workday_invalidate_message">(Data vanheni, päivitä Asetuksissa)</string>
-  <string name="legal_workday_message">( Ei hälytystä juhlapäivinä)</string>
+  <string name="legal_workday_invalidate">Data vanheni (hälytys päällä ma - pe)</string>
+  <string name="legal_workday_invalidate_message">(Data vanheni, päivitä asetuksista)</string>
+  <string name="legal_workday_message"> (Ei hälytystä juhlapäivinä)</string>
   <string name="loading_ringtone">Ladataan soittoääntä...</string>
   <string name="menu_add_worldclock">Lisää aikavyöhyke</string>
   <string name="menu_alarmclock_edit">Muokkaa hälytyskelloa</string>
