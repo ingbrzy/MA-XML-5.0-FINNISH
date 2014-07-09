@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate">Aktivoi</string>
-  <string name="activate_fail_notification_title">Uudelleenaktivoi Xiaomi Synkronointi palvelu</string>
+  <string name="activate_fail_notification_title">Uudelleenaktivoi Xiaomi synkronointipalvelu</string>
   <string name="activating">Aktivoidaan...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Aseta oletukseksi (ei ilmoituksia jatkossa)</string>
-  <string name="android_lockscreen_glogin_instructions">Sinun on kirjauduttava tunnuksellesi avataksesi lukituksen</string>
+  <string name="android_lockscreen_glogin_instructions">Sinun on kirjauduttava tilillesi avataksesi lukituksen</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="app_no_notification">ei ilmoitusta</string>
@@ -20,13 +20,13 @@
   <string name="call_record_sample_prefix_miui">Puhelun äänitys</string>
   <string name="caller_info_name_delimiter">tai</string>
   <string name="check_phone_error_title">Synkronoinnin avaus epäonnistui</string>
-  <string name="check_phone_io_error">Verkkoyhteys virhe</string>
+  <string name="check_phone_io_error">Verkkovirhe</string>
   <string name="childrens_day">Lasten päivä</string>
   <string name="chinese_youth_day">Nuoruuden päivä</string>
   <string name="christmas_day">Joulupäivä</string>
   <string name="clear_and_bright">Selkeä ja kirkas</string>
   <string name="cold_dews">Kylmä kaste</string>
-  <string name="contact_carrier_message">Ota yhteyttä palvelun välittäjään, jos kysyttävää</string>
+  <string name="contact_carrier_message">Ota yhteyttä operaattoriin, mikäli on kysyttävää</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
   <string name="country_name_ae">AE</string>
@@ -261,8 +261,8 @@
   <string name="days">päivää</string>
   <string name="delete">Poista</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
-  <string name="device_hongmi">Hongmi puhelin</string>
-  <string name="device_xiaomi">Xiaomi puhelin</string>
+  <string name="device_hongmi">Hongmi-puhelin</string>
+  <string name="device_xiaomi">Xiaomi-puhelin</string>
   <string name="emergency_call_string">Hätäpuhelu</string>
   <string name="err_resource_leak">Valitettavasti, %1$s on pysähtynyt resurssivuodon takia.</string>
   <string name="error_forbidden">Varmennuksessa on joitain ongelmia. Synkronointi otettu pois käytöstä.</string>
@@ -278,12 +278,12 @@
   <string name="experimental_validate_username">Xiaomi ID</string>
   <string name="experimental_validate_warning">Jokainen tutkimus auttaa tekemään MIUIsta paremman!</string>
   <string name="find_device_check_sim">Etsitään SIM-korttia…</string>
-  <string name="find_device_sim_change_instructions">"Laitteesi on lukittu. Aseta SIM-kortti tai Xiaomi tunnuksen salasana"</string>
+  <string name="find_device_sim_change_instructions">"Laitteesi on lukittu. Aseta SIM-kortti tai Xiaomi-tunnuksen salasana"</string>
   <string name="find_device_sim_change_instructions_no_network">"Laitteesi on SIM-lukittu, aseta alkuperäinen SIM-kortti"</string>
   <string name="find_device_turn_off_flight_mode">Laita lentokonetila pois päältä</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Laitteesi on lukittu, laita lentokonetila pois päältä"</string>
   <string name="firewall_setting">Palomuuri</string>
-  <string name="first_back_long_press_message">"Haluatko ottaa käyttään toiminnon Paina pitkään takaisin-painiketta, lopettaaksesi nykyisen prosessin ja taustapalvelut? Ota käyttöön Asetukset > Laite > Napit &amp; painikkeet"</string>
+  <string name="first_back_long_press_message">"Haluatko ottaa käyttöön toiminnon Paina pitkään takaisin-painiketta, lopettaaksesi nykyisen prosessin ja taustapalvelut? Ota käyttöön Asetukset > Laite > Napit &amp; painikkeet"</string>
   <string name="fm_record_smaple_prefix_miui">FM äänitys</string>
   <string name="fools_day">Aprillipäivä</string>
   <string name="force_exit_message">Lopetettu onnistuneesti \"%1$s\"</string>
@@ -395,15 +395,15 @@ Yritä uudelleen %d sekunnin kuluttua."</string>
   <string name="perm_data_update_lab">Tietojen päivitys</string>
   <string name="perm_payment_dspt">Salli soveluksen maksaa Xiaomi-maksupalvelun kautta</string>
   <string name="perm_payment_lab">Xiaomi-maksupalvelu</string>
-  <string name="perm_send_push_dspt">Salli push viestien lähetys Xiaomille</string>
-  <string name="perm_send_push_lab">Lähetä push viesti</string>
+  <string name="perm_send_push_dspt">Salli push-viestien lähetys Xiaomille</string>
+  <string name="perm_send_push_lab">Lähetä push-viesti</string>
   <string name="perm_tigger_toggle_dspt">Salli tilarivin sovellusten ilmoitukset</string>
   <string name="perm_tigger_toggle_lab">Tilarivin vaihtelut</string>
-  <string name="perm_use_find_device">Paikallista laite</string>
+  <string name="perm_use_find_device">Paikanna sijainti</string>
   <string name="permdesc_accessNote">Antaa sovelluksen lukea ja muokata puhelimeen tallennettuja muistiinpanoja. Haitalliset sovellukset voi käyttää tätä lähettämällä muistiinpanojasi muille ihmisille tai poistamalla kaikki muistiinpanosi.</string>
   <string name="permlab_accessNote">Salli muistiinpanot</string>
   <string name="pin_operation_failed">PIN-koodin syöttö epäonnistui.</string>
-  <string name="pincode_set_to_default_msg">PIN-koodiksi asetettu 1234, muuta PIN täällä.</string>
+  <string name="pincode_set_to_default_msg">PIN-koodiksi asetettu 1234, aseta PIN täällä.</string>
   <string name="private_num">Yksityinen numero</string>
   <string name="puk_operation_failed">PUK-koodin syöttö epäonnistui.</string>
   <string name="reboot_confirm">Puhelin käynnistetään uudelleen</string>

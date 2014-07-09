@@ -507,11 +507,11 @@
   <string name="camera_key_action_setting_title">MI Painike</string>
   <string name="camera_key_action_shortcut_call">Puhelu</string>
   <string name="camera_key_action_shortcut_home">Takaisin aloitusnäyttöön</string>
-  <string name="camera_key_action_shortcut_screenshot">Ota ruutukaappaus</string>
+  <string name="camera_key_action_shortcut_screenshot">Ota kuvankaappaus</string>
   <string name="camera_key_action_shortcut_search">Hae</string>
   <string name="camera_key_action_shortcut_title">Pikakuvake</string>
   <string name="camera_key_action_shortcut_wake">Lukitse/Herätä laite</string>
-  <string name="camera_key_action_title">MI Painike</string>
+  <string name="camera_key_action_title">MI-Painike</string>
   <string name="camera_key_action_toggle_title">Käynnistys kytkin</string>
   <string name="cancel">Peruuta</string>
   <string name="cancel_alert">Peruuta tekemäsi muutokset?</string>

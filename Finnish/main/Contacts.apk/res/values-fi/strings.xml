@@ -4,7 +4,7 @@
   <string name="account_container_title">Tuotu</string>
   <string name="account_default">Puhelin</string>
   <string name="account_phone">Vain puhelin, synkronoimaton</string>
-  <string name="account_sim">Tallennettu vain SIM-kortille</string>
+  <string name="account_sim">SIM-kortti</string>
   <string name="account_type_format">%1$s yhteystietoa</string>
   <string name="account_unactivated">Tiliä ei ole aktivoitu.</string>
   <string name="actionIncomingCall">Saapuvat puhelut</string>
@@ -14,7 +14,7 @@
   <string name="activity_title_contacts_filter">Näytettävät yhteystiedot</string>
   <string name="activity_title_settings">Asetukset</string>
   <string name="addPeopleToGroup">Lisätäksesi jonkun, muokkaa ryhmäää.</string>
-  <string name="add_2sec_pause">lisää 2 sek viive</string>
+  <string name="add_2sec_pause">Lisää 2 sek viive</string>
   <string name="add_account">Lisää tili</string>
   <string name="add_blacklist">Lisää estolistalle</string>
   <string name="add_connection_button">Lisää yhteys</string>
@@ -344,7 +344,7 @@ Jos käytät yhteystietojen synkronointia, yhteystiedot pilvestä poisteaan myö
   <string name="email_other">E-mail</string>
   <string name="email_work">E-mail työ</string>
   <string name="emptyGroup">Ei henkilöitä tässä ryhmässä.</string>
-  <string name="empty_divider_title">Voit</string>
+  <string name="empty_divider_title">Voit tehdä</string>
   <string name="enter_contact_name">"Syötä henkilön nimi"</string>
   <string name="eventLabelsGroup">Syntymäpäivä</string>
   <string name="event_edit_field_hint_text">Päiväys</string>
@@ -401,6 +401,7 @@ Jos käytät yhteystietojen synkronointia, yhteystiedot pilvestä poisteaan myö
   <string name="group_delete_success_toast">Ryhmän poisto onnistui</string>
   <string name="group_edit_field_hint_text">Ryhmän nimi</string>
   <string name="group_member_remove_toast">Yhteystieto poistettiin ryhmästä</string>
+  <string name="group_name">Omat ryhmät</string>
   <string name="group_name_hint">"Ryhmän nimi"</string>
   <string name="group_read_only">Ei muokattavissa tässä laitteessa.</string>
   <string name="group_rename_dialog_title">Uudelleennimeä ryhmä</string>
@@ -960,7 +961,8 @@ sisältö jota olet katsomassa ei ole saatavilla alueellasi."</string>
   <string name="simContacts_empty">SIM-kortilla ei ole yhteystietoja.</string>
   <string name="simContacts_emptyLoading">Ladataan yhteystietoja SIM-kortilta...</string>
   <string name="simContacts_title">SIM-kortin yhteystiedot</string>
-  <string name="sim_capacity_content" formatted="false">kapasiteetti %d, käytössä %d</string>
+  <string name="sim_capacity">Näytä SIM-kortin kapasiteetti</string>
+  <string name="sim_capacity_content" formatted="false">Kokonaiskapasiteetti %d | käytössä %d</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (pilviviesti)</string>
@@ -985,7 +987,7 @@ sisältö jota olet katsomassa ei ole saatavilla alueellasi."</string>
   <string name="single_group_list_empty">Ei ryhmän jäseniä</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">Yrityksittäin</string>
-  <string name="smart_group_company_unavailable">Ei yritystä</string>
+  <string name="smart_group_company_unavailable">Ei yrityksiä</string>
   <string name="smart_group_frequency_1">Kuukauden sisään</string>
   <string name="smart_group_frequency_2">3 kuukauden sisään</string>
   <string name="smart_group_frequency_3">6 kuukauden sisään</string>

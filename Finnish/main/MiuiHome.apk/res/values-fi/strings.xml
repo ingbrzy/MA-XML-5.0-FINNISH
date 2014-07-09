@@ -224,11 +224,11 @@
   <string name="status_bar_toggle_ringtone">Soittoääni</string>
   <string name="status_bar_toggle_rotate">Kääntyminen</string>
   <string name="status_bar_toggle_screen_button">Napit</string>
-  <string name="status_bar_toggle_screenshot">Ota Kuvankaappaus</string>
+  <string name="status_bar_toggle_screenshot">Ota kuvankaappaus</string>
   <string name="status_bar_toggle_shutdown">Sammuta</string>
   <string name="status_bar_toggle_sync">Synkronoi</string>
   <string name="status_bar_toggle_sync_auto">Autom. synkronointi</string>
-  <string name="status_bar_toggle_sync_manual">Manuaalinen Synkronointi</string>
+  <string name="status_bar_toggle_sync_manual">Manuaalinen synkronointi</string>
   <string name="status_bar_toggle_syncing">Synkronoidaan</string>
   <string name="status_bar_toggle_torch">Taskulamppu</string>
   <string name="status_bar_toggle_vibrate">Tärinä</string>
@@ -239,13 +239,13 @@
   <string name="toggle_select_title">Valitse nappi</string>
   <string name="toggle_title">Napit</string>
   <string name="transformation_type_classic">Klassinen</string>
-  <string name="transformation_type_classic_no_overshoot">Klassinen (Ei yliampumista)</string>
+  <string name="transformation_type_classic_no_overshoot">Klassinen (Ei ylisiirtymistä)</string>
   <string name="transformation_type_crossfade">Crossfade</string>
-  <string name="transformation_type_cube">3D Kuutio</string>
-  <string name="transformation_type_falldown">Kompurointi</string>
+  <string name="transformation_type_cube">Kuutio</string>
+  <string name="transformation_type_falldown">Kaatuminen</string>
   <string name="transformation_type_leftpage">Sivu</string>
   <string name="transformation_type_rotate">Kääntyminen</string>
-  <string name="transformation_type_stack">Laskeutuva</string>
+  <string name="transformation_type_stack">Pino</string>
   <string name="uninstall">Poista</string>
   <string name="uninstall_dialog_message">Kaikki tiedot katoavat poistaessa</string>
   <string name="uninstall_dialog_title_format">Poista \"%s\"</string>
@@ -254,7 +254,7 @@
   <string name="wallpaper_scrolling">kaikki</string>
   <string name="widget_favorite_contacts_edit">Muokkaaja</string>
   <string name="widget_favorite_contacts_label">Suosikki yhteystiedot</string>
-  <string name="widget_favorite_contacts_style">Muuta Kokoa</string>
+  <string name="widget_favorite_contacts_style">Muuta kokoa</string>
   <string name="widget_gadget_player">Musiikki</string>
   <string name="widget_global_search">Maailmanlaajuinen haku</string>
 </resources>

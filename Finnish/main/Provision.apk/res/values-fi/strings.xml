@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Jatka</string>
-  <string name="data_usage_summary">Jos sinulla Ei ole data pakettia, on suositeltavaa laittaa mobiilidata pois päältä. Muussa tapauksessa operaattorisi saattaa veloittaa sinulta ylimääräisiä kuluja.</string>
+  <string name="data_usage_summary">Jos sinulla ei ole data pakettia, on suositeltavaa laittaa mobiilidata pois päältä. Muussa tapauksessa operaattorisi saattaa veloittaa sinulta ylimääräisiä kuluja.</string>
   <string name="default_gprs_sim_name">Laita \"%s\" datapaketin rajat</string>
   <string name="input_method">Syöttötapa</string>
   <string name="input_method_category">Oletus syöttötapa</string>
