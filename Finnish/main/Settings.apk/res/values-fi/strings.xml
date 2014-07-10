@@ -784,7 +784,6 @@ Voit valita mitä tietoja synkronoidaan millekin tilille, avaamalla Asetukset &g
   <string name="dirac_mode_in_ear">Xiaomi nappikuulokkeet</string>
   <string name="dirac_mode_off">Dirac pois päältä</string>
   <string name="dirac_mode_piston_100">Xiaomi piston-nappikuulokkeet</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_adb_debug_summary">Poista USB-virheenkorjaus käytöstä</string>
   <string name="disable_anti_spam_summary">Viestisuodatin pois käytöstä</string>
   <string name="disable_app_permission_summary">Käytönvalvonta on pois päältä</string>
@@ -793,7 +792,6 @@ Voit valita mitä tietoja synkronoidaan millekin tilille, avaamalla Asetukset &g
   <string name="disable_power_key_long_press_under_keyguard">Poista käytöstä lukitusnäytössä</string>
   <string name="disable_text">Poista käytöstä</string>
   <string name="disabled">Ei käytössä</string>
-  <string name="disconnect">disconnect</string>
   <string name="display_font_size_label">Fontin koko:</string>
   <string name="display_label">Näyttö</string>
   <string name="display_order_text">Järjestä:</string>
@@ -887,8 +885,7 @@ Voit valita mitä tietoja synkronoidaan millekin tilille, avaamalla Asetukset &g
   <string name="empty_folder_title">Empty folder (%d)</string>
   <string name="empty_list_msg">"Yhtään kolmannen osapuolen sovellusta ei ole asennettu."</string>
   <string name="emptylist_fwlog_call">Estetyt puhelut kirjataan tänne.</string>
-  <string name="emptylist_fwlog_ms">Kaikki estetyt tekstiviestit ja MMS-viestit kirjataan tänne.</string>
-  <string name="enableNetwork">enableNetwork</string> 
+  <string name="emptylist_fwlog_ms">Kaikki estetyt tekstiviestit ja MMS-viestit kirjataan tänne.</string> 
   <string name="enable_adb">USB-virheenkorjaus</string>
   <string name="enable_adb_debug_summary">Kun USB kytketään, käytä ADB-komentoa</string>
   <string name="enable_adb_debug_title">Ota USB-virheenkorjaus käyttöön</string>
@@ -1041,8 +1038,6 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="gadget_toggle_bluetooth">Päivitetään Bluetooth asetuksia</string>
   <string name="gadget_toggle_wifi">Päivitetään WiFi asetuksia</string>
   <string name="game_controller_settings_category">Peliohjain</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="haptic_feedback_enable_title">Värinä koskettaessa</string>
   <string name="haptic_feedback_level">Värinän voimakkuus</string>
   <string name="hardkeyboard_category">Fyysisen näppäimistön asetukset</string>
@@ -1074,19 +1069,8 @@ Jotkin sovellukset eivät välttämättä toimi ennen kuin niiden kehittäjät o
   <string name="headset_settings">Kuulokeasetukset</string>
   <string name="heavy_weight_stop_description">"Tätä sovellusta ei voida pysäyttää turvallisesti. Jos pysäytät sen, saatat menettää osan tämänhetkisestä työstäsi."</string>
   <string name="hello_world">Hei maailma!</string>
-  <string name="help_label">Apua</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="help_label">Ohje</string>
+  <string name="hidden_ssid_label">Piilotettu SSID:</string>
   <string name="history_details_title">History details</string>
   <string name="home_key">Kotinäppäin</string>
   <string name="ime_security_warning">%1$s voi tallentaa kaiken kirjoitetun tekstin, mukaan lukien henkilötiedot (esim. salasanoja ja luottokorttien numeroita). Käytä tätä syöttötapaa?</string>
@@ -1290,7 +1274,7 @@ Olet tällä hetkellä kirjautuneena seuraaville tileille:
   <string name="master_clear_confirm_title">Palauta?</string>
   <string name="master_clear_desc">"Tämä poistaa kaikki tiedot puhelimen "&lt;b&gt;sisäiseltä muistilta&lt;/b&gt;", sisältäen:
 
-"&lt;li&gt;Google tilisi&lt;/li&gt;"
+"&lt;li&gt;Google-tilisi&lt;/li&gt;"
 "&lt;li&gt;Järjestelmän ja sovellusten tiedot ja asetukset&lt;/li&gt;"
 "&lt;li&gt;Ladatut sovellukset&lt;/li&gt;</string>
   <string name="master_clear_desc_also_erases_external">&lt;li&gt;Musiikit&lt;/li&gt;"
@@ -1838,8 +1822,7 @@ Huomio: Sovellukset joilla on luvat, saattavat aiheuttaa järjestelmän epävaka
   <string name="power_save_low_battery_option_summary">Kun akuntaso on yli määritetyn kynnyksen, laite palaa viimeksi käytettyyn profiilin</string>
   <string name="power_save_low_battery_option_title">Kun akku on vähissä vaihda</string>
   <string name="power_save_low_battery_option_recovery_title">When battery is charged switch to</string>
-  <string name="power_save_low_battery_option_summary">When battery is above the low threshold device will revert to most recently used profile</string>
-   <string name="power_save_low_battery_percentage_fifty">50%</string>
+  <string name="power_save_low_battery_percentage_fifty">50%</string>
   <string name="power_save_low_battery_percentage_forty">40%</string>
   <string name="power_save_low_battery_percentage_ten">10%</string>
   <string name="power_save_low_battery_percentage_thirty">30%</string>
@@ -2337,7 +2320,6 @@ Yrityksiä jäljellä :"</string>
   <string name="subscription_02_summary">Aseta säädöt SUB2 verkkoasetuksiin</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Tarkista sovellukset virusten varalta ennen asennusta</string>
   <string name="summary_mms">Suodata e-toivotut viestit (tarjoukset, mainokset, jne.)</string>
   <string name="summary_permission">Suojaa yksityisyyttäni kolmannen osapuolen sovelluksilta</string>
@@ -2385,7 +2367,6 @@ Yrityksiä jäljellä :"</string>
   <string name="tether_settings_title_wifi">kannettava yhteyspiste</string>
   <string name="tethering_help_button_text">Ohje</string>
   <string name="time_picker_title">Aika</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Aikavyöhyke</string>
   <string name="title_app_update_no">%d sovelluksella on päivityksiä</string>
   <string name="title_app_update_yes">Kaikki sovellukset ovat ajan tasalla</string>
@@ -2789,9 +2770,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_disabled_network_failure">Vältetty heikkoa internet-yhteyttä</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_eap_anonymous">Anonyymi identiteetti</string>
   <string name="wifi_eap_ca_cert">CA-sertifikaatti</string>
   <string name="wifi_eap_identity">Identiteetti</string>
@@ -2808,10 +2787,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_failed_save_message">Verkkoa ei voitu tallentaa</string>
   <string name="wifi_forget">Unohda</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">Lentokonetilassa</string>
   <string name="wifi_ip_address">IP-osoite</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP-asetukset</string>
   <string name="wifi_ip_settings_invalid_dns">Kirjoita voimassa oleva DNS-osoite.</string>
   <string name="wifi_ip_settings_invalid_gateway">Kirjoita voimassa oleva Gateway-osoite.</string>
@@ -2841,7 +2818,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_p2p_disconnect_message">Jos katkaiset yhteyden, yhteytesi kohteeseen %1$s katkaistaan.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Jos katkaiset yhteyden, yhteytesi kohteisiin %1$s sekä %2$s muuhun katkaistaan.</string>
   <string name="wifi_p2p_disconnect_title">Katkaistaanko yhteys?</string>
-  <string name="wifi_p2p_disconnect_title">Disconnect?</string>
   <string name="wifi_p2p_failed_connect_message">"Yhteyden muodostus epäonnistui."</string>
   <string name="wifi_p2p_failed_rename_message">Laitteen uudelleennimeäminen epäonnistui.</string>
   <string name="wifi_p2p_menu_advanced">Lisäasetukset</string>
@@ -2866,19 +2842,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_security">Turvallisuus</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ei mitään</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">There was a problem setting the frequency band.</string>
   <string name="wifi_setting_frequency_band_summary">Specify the frequency range of operation</string>
   <string name="wifi_setting_frequency_band_title">WiFi-taajuuskaista</string>
@@ -3017,7 +2983,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WiFi network.</string>
   <string name="wps_category">WPS-turvallisuus</string>
   <string name="wps_connect_summary">Varmista että reititin tukee WPS-tilaa</string>
   <string name="wps_connect_title">Yhdistä käyttäen WPS-tilaa</string>
-  <string name="xiaomi_account">Xiaomi tili</string>
+  <string name="xiaomi_account">Xiaomi-tili</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiCredit center</string>
   <string name="yes">OK</string>
