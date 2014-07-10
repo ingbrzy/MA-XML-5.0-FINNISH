@@ -3,7 +3,7 @@
   <string name="about_settings">Tietoja puhelimesta</string>
   <string name="about_settings_summary">Puhelimen tila, oikeudelliset tiedot, ohjelmistotiedot</string>
   <string name="ac_enable_title">Käytönvalvonta</string>
-  <string name="ac_privacy_mode_sum">Syötä käytönvalvonnan salasana peruaksesi vartioidun tilan</string>
+  <string name="ac_privacy_mode_sum">Syötä käytönvalvonnan salasana peruaksesi suojatun tilan</string>
   <string name="ac_privacy_mode_title">Ota salasana käyttöön</string>
   <string name="ac_set_apps_title">Suojaa sovellukset</string>
   <string name="accelerometer_summary_off">Käännä näyttö automaattisesti</string>
@@ -1811,7 +1811,7 @@ Yritä seuraavaa:
   <string name="preferred_application_title">Ensisijainen %s</string>
   <string name="preferred_application_warning_message">Korvaamalla oletus %1$s voi nostaa virrankulutusta, vähentää nopeutta, ja laittaa puhelimen sisällön vaaraan. Ehdotetaan käyttämään oletus %2$s.</string>
   <string name="preferred_application_warning_replace">Korvaa</string>
-  <string name="preferred_application_warning_title">Korva oletus %s</string>
+  <string name="preferred_application_warning_title">Korvaa oletus %s</string>
   <string name="preferred_application_warning_use_system">Käytä oletus %s</string>
   <string name="preferred_launcher_title">Ensisijainen käynnistin</string>
   <string name="preferred_launcher_warning_message">Oletusäynnistimen vaihtaminen toiseksi voi käyttää enemmän resursseja kuin oletuskäynnistin, Haluatko jatkaa?</string>
@@ -1820,7 +1820,7 @@ Yritä seuraavaa:
   <string name="preferred_launcher_warning_use_system">Käytä oletuskäynnistintä</string>
   <string name="preferred_media_app_summary">Valitse musiikkisoitin</string>
   <string name="privacy_mode_enable_sum">Piilota soittohistoria, viestit jne. suojataksesi yksityisyyttäsi.</string>
-  <string name="privacy_mode_enable_title">Vartioitu-tila</string>
+  <string name="privacy_mode_enable_title">Suojattu tila</string>
   <string name="privacy_protect_title">Yksityisyydensuoja</string>
   <string name="privacy_relative">Yksityisyyteen liittyvät</string>
   <string name="privacy_settings">Varmuuskopioi &amp; palauta</string>

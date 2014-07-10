@@ -280,7 +280,7 @@
     <string name="reboot_safemode_title">Käynnistä vikasietotilassa</string>
     <string name="reboot_safemode_confirm">Haluatko käynnistää uudelleen vikasietotilassa? Tällöin kolmansien osapuolten sovelluksia ei käynnistetä. Sovellukset otetaan jälleen käyttöön, kun käynnistät laitteen uudelleen.</string>
     <string name="recent_tasks_title">Viimeisimmät</string>
-    <string name="no_recent_tasks">Ei viimeaikaisia sovelluksia</string>
+    <string name="no_recent_tasks">Ei viimeisimpiä sovelluksia</string>
     <string name="global_actions">Puhelimen asetukset</string>
     <string name="global_action_lock">Näytön lukitus</string>
     <string name="global_action_power_off">Katkaise virta</string>

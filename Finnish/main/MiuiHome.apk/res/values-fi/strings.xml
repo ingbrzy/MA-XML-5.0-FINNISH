@@ -217,7 +217,7 @@
   <string name="status_bar_toggle_power_low">Virransäästö</string>
   <string name="status_bar_toggle_power_mid">Normaali</string>
   <string name="status_bar_toggle_power_mode">Virrankulutustila</string>
-  <string name="status_bar_toggle_privacy_mode">Vartija</string>
+  <string name="status_bar_toggle_privacy_mode">Suojattu tila</string>
   <string name="status_bar_toggle_quiet_mode">Älä häiritse</string>
   <string name="status_bar_toggle_reboot">Käynnistä uudelleen</string>
   <string name="status_bar_toggle_ring">Äänet</string>

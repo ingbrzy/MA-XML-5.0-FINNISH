@@ -146,9 +146,9 @@
   <string name="exchange_account">Vaihda tili</string>
   <string name="fail">Epäonnistui</string>
   <string name="findlost_contact">Palauttaa poistetut yhteystiedot</string>
-  <string name="findlost_contact_online">Palauta poistetut yhteystiedot Pilvestä</string>
-  <string name="guarded_mode_dialog_message">Ei voida varmuuskopioida / palauta vartioidussa tilassa</string>
-  <string name="guarded_mode_dialog_title">Vartioitu tila</string>
+  <string name="findlost_contact_online">Palauta poistetut yhteystiedot pilvestä</string>
+  <string name="guarded_mode_dialog_message">Ei voida varmuuskopioida/palauttaa suojatussatilassa</string>
+  <string name="guarded_mode_dialog_title">Suojattu tila</string>
   <string name="import_from_xiaomi_account_hint1">1.Asenna MiTalk ja kirjaudu sisään\nhttp://www.miliao.com\n\n3. Valitse MiTalk asetukset ja valitse "Varmuuskopioi yhteystiedot Xiaomi tilile”</string>
   <string name="import_from_xiaomi_account_hint2">Huomautus: Jatka seuraavaan vaiheeseen, jos varmuuskopio on jo olemassa</string>
   <string name="import_from_xiaomi_account_hint_title">Käytä MiTalk:ia varmuuskopioidaksesi muiden laitteiden yhteystiedot, ei MI-ONE</string>
