@@ -100,7 +100,7 @@
   <string name="account_setup_failed_dlg_edit_details_action">Muokkaa tietoja</string>
   <string name="account_setup_failed_dlg_server_message">"Palvelimeen ei saada yhteyttä."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Palvelimeen ei saada yhteyttä.(%s)"</string>
-  <string name="account_setup_failed_dlg_title">"Ei voida lopettaa"</string>
+  <string name="account_setup_failed_dlg_title">"Ei voida viimeistellä"</string>
   <string name="account_setup_failed_ioerror">"Palvelimeen ei saada yhteyttä"</string>
   <string name="account_setup_failed_protocol_unsupported">"Kirjoitit sopimattoman palvelimen osoitteen tai palvelin vaatii protokollaa, jota sähköposti ei tue."</string>
   <string name="account_setup_failed_security">"Turva ongelmien vuoksi palvelimeen ei voida avata yhteyttä."</string>

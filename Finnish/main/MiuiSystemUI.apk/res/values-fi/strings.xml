@@ -205,7 +205,8 @@ Käytä ainoastaan toimittajan laturia."</string>
   <string name="settings_toggle_position_divider_page">%1$d asetuspainikkeet sijoitettuna palkin yläpuolelle ovat käytössä</string>
   <string name="settings_toggle_position_reset">Palauta oletukset</string>
   <string name="share">Jaa</string>
-  <string name="status_bar_date_format">d MMMM, yyyy</string>
+  <string name="status_bar_date_format">"EEEE
+d MMMM yyyy"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Aseta syöttötavat</string>
   <string name="status_bar_network_flow">"Tänään:%1$s    Jäljellä:%2$s    Paketti:%3$s"</string>
@@ -233,7 +234,7 @@ Käytä ainoastaan toimittajan laturia."</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Tilapalkin asetukset</string>
   <string name="status_bar_toggle_ac">Suojattutila</string>
-  <string name="status_bar_toggle_auto_brightness">Automaattinen\nkirkkaus</string>
+  <string name="status_bar_toggle_auto_brightness">Automaattinen kirkkaus</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Taustavalo</string>
   <string name="status_bar_toggle_data">Data</string>
@@ -255,7 +256,7 @@ Käytä ainoastaan toimittajan laturia."</string>
   <string name="status_bar_toggle_ringtone">Soittoääni</string>
   <string name="status_bar_toggle_rotate">Kääntyminen</string>
   <string name="status_bar_toggle_screen_button">Toimintopainikkeet</string>
-  <string name="status_bar_toggle_screenshot">Kuvan-\nkaappaus</string>
+  <string name="status_bar_toggle_screenshot">Kuvankaappaus</string>
   <string name="status_bar_toggle_shutdown">Virta</string>
   <string name="status_bar_toggle_sync">Synkronointi</string>
   <string name="status_bar_toggle_sync_auto">Automaattinen synkronointi</string>
@@ -306,7 +307,7 @@ Käytä ainoastaan toimittajan laturia."</string>
   <string name="user_guide_for_notification">Uusi ilmoitus vastaanotettu，voit raahata alas tilapalkkiin nähdäksesi sisällön</string>
   <string name="user_guide_for_toggle">Asetuspainikkeita voi selata vaakasuunnassa</string>
   <string name="user_guide_for_toggle_list">Klikkaa muokataksesi asetuspainikkeita</string>
-  <string name="status_bar_and_notification_bar">Ilmoitusket tilapalkisa</string>
+  <string name="status_bar_and_notification_bar">Ilmoitukset tilapalkissa</string>
   <string name="settings_show_screenshot_notification">Älä näytä ilmoitusta kuvankaappauksesta</string>
   <string name="settings_show_carrier">Älä näytä operaattoria</string>
   <string name="settings_show_carrier_summary">Näytä vain lukitusruudussa</string>

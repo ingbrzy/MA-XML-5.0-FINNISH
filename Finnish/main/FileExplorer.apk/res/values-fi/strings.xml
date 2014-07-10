@@ -9,7 +9,7 @@
   <string name="app_garbage_cleanup_indication">%s sovellusroskat</string>
   <string name="app_garbage_path">Sijainti:</string>
   <string name="app_garbage_title">Sovellusroskat</string>
-  <string name="app_name">File Explorer</string>
+  <string name="app_name">Tiedostoselain</string>
   <string name="application_size_label">Sovellus</string>
   <string name="background">Lataa taustalla</string>
   <string name="big5_summary">Asetetaan oletukseksi Windows-järjestelmän perinteinen kiinalainen versio </string>

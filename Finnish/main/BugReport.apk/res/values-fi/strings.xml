@@ -4,7 +4,7 @@
   <string name="app_label">Palaute</string>
   <string name="btn_send">Lähetä</string>
   <string name="bugreport_feedback_from">Terveisin: %s</string>
-  <string name="description">Kuvaus (vaadittu)</string>
+  <string name="description">Kuvaus (vaaditaan)</string>
   <string name="discard_draft_dialog_button_cancel">Peruuta</string>
   <string name="discard_draft_dialog_button_discard">OK</string>
   <string name="discard_draft_dialog_content">Raporttia on muokattu, paina OK hylätäksesi luonnoksen.</string>
@@ -33,7 +33,7 @@
   <string name="status_msg_collecting_log">Kerätään lokeja...</string>
   <string name="status_msg_pending_upload">%d palautetta lähetetään...</string>
   <string name="toast_description_required">Kuvaus vaaditaan ennen lähettämistä</string>
-  <string name="toast_feedback_pending_wlan">Palaute lähetetään kun WI-FI on saatavissa.</string>
+  <string name="toast_feedback_pending_wlan">Palaute lähetetään kun WI-FI on käytössä.</string>
   <string name="toast_feedback_submitted">Palaute lähetettiin onnistuneesti.</string>
   <string name="toast_pending_log_collection">Kerätään lokeja, odota...</string>
   <string name="toast_report_copied_to_clipboard">Raportti kopoitu leikepöydälle.</string>
@@ -42,6 +42,6 @@
   <string name="user_feedback">Käyttäjäpalaute</string>
   <string name="wlan_unavailable_dialog_button_ok">OK</string>
   <string name="wlan_unavailable_dialog_button_sent">Lähetä nyt</string>
-  <string name="wlan_unavailable_dialog_content">%s vaaditaan 2G/3G dataan, Paina OK lähettääksesi vain WI-FI:llä</string>
+  <string name="wlan_unavailable_dialog_content">%s vaaditaan 2G-/3G-dataan, Paina OK lähettääksesi vain WI-FI:llä</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi ei saatavissa</string>
 </resources>

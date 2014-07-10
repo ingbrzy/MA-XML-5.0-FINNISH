@@ -5,12 +5,12 @@
         <item quantity="one">%d päivä</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d tuntia</item>
-        <item quantity="one">%d tunti</item>
+        <item quantity="other"> %d tuntia</item>
+        <item quantity="one"> %d tunti</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">%d minuuttia</item>
-        <item quantity="one">%d minuutti</item>
+        <item quantity="other"> %d minuuttia</item>
+        <item quantity="one"> %d minuutti</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Salasanassa on oltava vähintään %d kirjainta.</item>
