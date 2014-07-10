@@ -82,7 +82,11 @@
   <string name="data_usage_disabled_dialog_mobile_title">Mobiilidata ei käytössä</string>
   <string name="data_usage_disabled_dialog_title">Data ei käytössä</string>
   <string name="description_direction_left">"Liu'uta vasemmalle %s."</string>
+<<<<<<< HEAD
   <string name="description_direction_up">"Liu'uta ylös %s."</string>
+=======
+  <string name="description_direction_up">"Liu'uta oikealle %s."</string>
+>>>>>>> origin/master
   <string name="description_target_search">Etsi</string>
   <string name="dismount_storage">Ei</string>
   <string name="dlg_confirm_kill_storage_users_text">Jos otat USB-muistin käyttöön, niin jotkin ohjelmat lopettavat toimintansa ja katoavat kunnes otat USB-muistin pois käytöstä.</string>
