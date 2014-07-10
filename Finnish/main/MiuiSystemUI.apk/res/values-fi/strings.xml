@@ -233,8 +233,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi yhdistetty</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Tilapalkin asetukset</string>
-  <string name="status_bar_toggle_ac">Suojattutila</string>
-  <string name="status_bar_toggle_auto_brightness">Automaattinen kirkkaus</string>
+  <string name="status_bar_toggle_ac">Suojaus</string>
+  <string name="status_bar_toggle_auto_brightness">Automaattinen n\kirkkaus</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Taustavalo</string>
   <string name="status_bar_toggle_data">Data</string>
@@ -256,7 +256,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_ringtone">Soittoääni</string>
   <string name="status_bar_toggle_rotate">Kääntyminen</string>
   <string name="status_bar_toggle_screen_button">Toimintopainikkeet</string>
-  <string name="status_bar_toggle_screenshot">Kuvankaappaus</string>
+  <string name="status_bar_toggle_screenshot">Kuvan-\nkaappaus</string>
   <string name="status_bar_toggle_shutdown">Virta</string>
   <string name="status_bar_toggle_sync">Synkronointi</string>
   <string name="status_bar_toggle_sync_auto">Automaattinen synkronointi</string>
