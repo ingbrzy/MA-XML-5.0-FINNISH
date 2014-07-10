@@ -227,7 +227,7 @@
   <string name="webstorage_clear_data_dialog_ok_button">OK</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Peruuta</string>
   <string name="webstorage_origin_summary_mb_stored">MB tallennettu puhelimeesi</string>
-  <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
+  <string name="geolocation_permissions_prompt_message">"%s haluaa käyttää sijaintitietojasi"</string>
   <string name="geolocation_permissions_prompt_share">Jaa sijainti</string>
   <string name="geolocation_permissions_prompt_dont_share">Hylkää</string>
   <string name="geolocation_permissions_prompt_remember">Muista valinta</string>
