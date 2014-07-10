@@ -31,7 +31,9 @@
   <string name="dlg_retore">Palauta viestitys sovellukseen?</string>
   <string name="dlg_retore_ok">Palauta</string>
   <string name="fw_blocked">Torjumisen tilastot</string>
-  <string name="fw_blocked_count" formatted="false">Siepattu: %d Puhelua ja %d Viestiä</string>
+  <string name="fw_blocked_count">"Siepattu: "</string>
+  <string name="fw_blocked_count_call">%d puhelua</string>
+  <string name="fw_blocked_count_sms">" ja %d viestiä"</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">"%d Käyttäjät merkitsivät sen "</string>
   <string name="marked_by_user">"Käyttäjän merkitsemä "</string>
