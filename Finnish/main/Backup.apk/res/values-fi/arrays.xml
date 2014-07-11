@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi-data</item>
-        <item>Kaikki ohjelmat</item>
+        <item>WLAN tiedot</item>
+        <item>Kaikki sovellukset</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Selain</item>
         <item>Galleria</item>
-        <item>Lupien hallinta</item>
+        <item>Oikeudet</item>
         <item>Kamera</item>
-        <item>Verkko-assistentti</item>
-        <item>Sään tallennus</item>
+        <item>Verkon käyttö</item>
+        <item>Sään tiedot</item>
         <item>Sää</item>
     </string-array>
     <string-array name="system_data_label">
@@ -19,11 +19,11 @@
         <item>Viestit</item>
         <item>Multimediaviestit</item>
         <item>Järjestelmän asetukset</item>
-        <item>Wi-Fi-asetukset</item>
+        <item>WLAN-asetukset</item>
         <item>Työpöydän asettelu</item>
         <item>Hälytysten asetukset</item>
         <item>Muistilaput</item>
-        <item>DND</item>
+        <item>Älä häiritse</item>
         <item>Tili</item>
     </string-array>
     <string-array name="app_type_desc">
@@ -35,12 +35,12 @@
         <item>Yhteystiedot</item>
         <item>Puheluloki</item>
         <item>Viestit</item>
-        <item>Wi-Fi asetukset</item>
+        <item>WLAN-asetukset</item>
         <item>Muistilaput</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Yhteystiedot</item>
-        <item>Wi-Fi-asetukset</item>
+        <item>WLAN-asetukset</item>
         <item>Muistilaput</item>
     </string-array>
     <string-array name="cloud_sim_data">
